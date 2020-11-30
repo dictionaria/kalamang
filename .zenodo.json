@@ -1,0 +1,29 @@
+{
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "creators": [
+        {
+            "name": "Eline Visser"
+        }
+    ],
+    "access_right": "open",
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "clld"
+        },
+        {
+            "identifier": "dictionaria"
+        }
+    ],
+    "keywords": [
+        "cldf:Dictionary",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Visser, Eline. 2020. Kalamang dictionary. Dictionaria 13. 1-2737 (Available online at http://dictionaria.clld.org/contributions/kalamang)</p>",
+    "title": "dictionaria/kalamang: Kalamang dictionary"
+}

@@ -1,0 +1,62 @@
+{
+    "authors": [
+        {
+            "name": "Eline Visser",
+            "affiliation": "Lund University"
+        }
+    ],
+    "language": {
+        "name": "Kalamang",
+        "glottocode": "kara1499",
+        "isocode": "kgv"
+    },
+    "date_published": "2020",
+    "number": 13,
+    "doi": null,
+    "properties": {
+        "entry_sep": "\\lx ",
+        "marker_map": {
+            "ct": "lf",
+            "et_Eng": "et",
+            "x_Mal": "xo",
+            "xv_Kar": "xv",
+            "sd_Eng": "ignoreme",
+            "ps_Eng":"ignoreme2",
+            "z3": "sc",
+            "z5": "sd",
+            "z2": "ps"
+        },
+        "flexref_map": {
+            "comp. of": "cont",
+            "contr. of": "cont",
+            "der. of": "cont",
+            "id. of": "cont",
+            "ph. v. of": "cont",
+            "red. of": "cont"
+        },
+        "entry_map": {
+            "nt_Eng": "Notes",
+            "ph_Kar": "Pronunciation",
+            "esl": "Source_Language"
+        },
+        "entry_custom_order": [
+            "Pronunciation",
+            "Variant_Form",
+            "Etymology",
+            "Source_Language",
+            "Notes"
+        ],
+        "sense_map": {
+            "d_Mal": "alt_translation1"
+        },
+        "example_map": {
+            "z0": "Sources"
+        },
+        "media_caption_marker": "pc_Eng",
+        "metalanguages": {
+            "gxx": "Papuan Malay"
+        },
+        "gloss_ref": "z1",
+        "custom_fields": ["Papuan Malay"]
+    }
+}
