@@ -13,6 +13,7 @@ setup(
     },
     install_requires=[
         'cldfbench',
+        'pydictionaria',
     ],
     extras_require={
         'test': [
