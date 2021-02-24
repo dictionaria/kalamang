@@ -4,8 +4,7 @@ import pathlib
 import re
 import sys
 
-from pydictionaria.formats import sfm as formats_sfm
-from pydictionaria.formats.sfm_lib import Database as SFM
+from pydictionaria.sfm_lib import Database as SFM
 from pydictionaria import sfm2cldf
 
 from pydictionaria.preprocess_lib import (
@@ -309,14 +308,14 @@ class Dataset(BaseDataset):
 
         marker_map = ChainMap(
             properties.get('marker_map') or {},
-            formats_sfm.DEFAULT_MARKER_MAP)
+            sfm2cldf.DEFAULT_MARKER_MAP)
         entry_sep = properties.get('entry_sep') or sfm2cldf.DEFAULT_ENTRY_SEP
         sfm = SFM(
             self.raw_dir / 'db.sfm',
             marker_map=marker_map,
             entry_sep=entry_sep)
 
-        examples = formats_sfm.load_examples(self.raw_dir / 'examples.sfm')
+        examples = sfm2cldf.load_examples(self.raw_dir / 'examples.sfm')
 
         if (self.etc_dir / 'cdstar.json').exists():
             media_catalog = self.etc_dir.read_json('cdstar.json')
