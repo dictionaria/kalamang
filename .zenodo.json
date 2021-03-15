@@ -1,13 +1,15 @@
 {
-    "license": {
-        "id": "CC-BY-4.0"
-    },
+    "title": "dictionaria/kalamang: Kalamang dictionary",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Dictionary",
+        "linguistics"
+    ],
     "creators": [
         {
             "name": "Eline Visser"
         }
     ],
-    "access_right": "open",
     "communities": [
         {
             "identifier": "cldf-datasets"
@@ -19,11 +21,9 @@
             "identifier": "dictionaria"
         }
     ],
-    "keywords": [
-        "cldf:Dictionary",
-        "linguistics"
-    ],
     "upload_type": "dataset",
-    "description": "<p>Visser, Eline. 2020. Kalamang dictionary. Dictionaria 13. 1-2737 (Available online at http://dictionaria.clld.org/contributions/kalamang)</p>",
-    "title": "dictionaria/kalamang: Kalamang dictionary"
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "description": "Visser, Eline. 2020. Kalamang dictionary. Dictionaria 13. 1-2737 (Available online at http://dictionaria.clld.org/contributions/kalamang)"
 }

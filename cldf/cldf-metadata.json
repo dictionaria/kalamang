@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/kalamang",
-            "dc:created": "v1.0-7-g6fab463"
+            "dc:created": "v1.0-9-g2d24884"
         },
         {
             "rdf:type": "prov:Entity",

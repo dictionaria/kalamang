@@ -294,8 +294,8 @@ English and Papuan Malay translations and an etymology, typically '<malay ####="
 <td>verb</td>
 <td><em>muap</em> ‘to eat’</td>
 <td></td></tr>
-</tbody></malay>
 
+</tbody>
 
 
 
@@ -694,9 +694,9 @@ Daftar singkatan kelas kata tertera dibawah ini. Informasi lebih lanjut mengenai
 <td>kata kerja</td>
 <td><em>muap</em> ‘makan’</td>
 <td></td></tr>
-</tbody></table>
 
-
+</tbody>
+</table>
 
 
 #### Referensi ke Korpus Kalamang
@@ -843,4 +843,4 @@ Stephen A. Wurm (ed.), New Guinea area languages and language study volume 1:
 Papuan languages and the New Guinea linguistic scene, vol. 38 (Pacific
 Linguistics: Series C 38), 345–460. Canberra: Research School of Pacific &amp; Asian
 Studies, Australian National University.
-
+</malay>
