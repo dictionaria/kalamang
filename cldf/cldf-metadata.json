@@ -9,7 +9,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Dictionary",
     "dc:creator": "Eline Visser",
     "dc:identifier": "https://dictionaria.clld.org/contributions/kalamang",
-    "dc:license": "CC-BY 4.0",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:title": "Kalamang dictionary",
     "dcat:accessURL": "git@github.com:dictionaria/kalamang",
     "prov:wasDerivedFrom": [
@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/kalamang",
-            "dc:created": "v1.0-9-g2d24884"
+            "dc:created": "v1.0-10-gd1e45b9"
         },
         {
             "rdf:type": "prov:Entity",
