@@ -4,14 +4,17 @@ import pathlib
 import re
 import sys
 
-from pydictionaria.sfm_lib import Database as SFM
 from pydictionaria import sfm2cldf
+from pydictionaria.sfm_lib import Database as SFM
+from pydictionaria.concepts import ConceptMap
 
 from pydictionaria.preprocess_lib import (
     marker_fallback_sense, marker_fallback_entry, merge_markers
 )
 
 from cldfbench import CLDFSpec, Dataset as BaseDataset
+from cldfbench.catalogs import Concepticon
+import cldfcatalog
 
 
 SEMANTIC_DOMAINS = (
@@ -322,6 +325,8 @@ class Dataset(BaseDataset):
         else:
             media_catalog = {}
 
+        concept_map = ConceptMap.from_csv(self.etc_dir / 'concepts.csv')
+
         # preprocessing
 
         sfm = reorganize(sfm)
@@ -342,6 +347,10 @@ class Dataset(BaseDataset):
                 cldf_log=cldf_log)
 
             # good place for some post-processing
+
+            senses = [
+                concept_map.add_concepticon_id(sense)
+                for sense in senses]
 
             # cldf schema
 
@@ -369,6 +378,49 @@ class Dataset(BaseDataset):
 
         args.writer.cldf.properties['dc:creator'] = authors_string(
             md.get('authors') or ())
+
+
+        # TODO integrate into pydictionaria
+
+        args.writer.cldf.add_component('FormTable', 'Sense_ID')
+        args.writer.cldf.add_foreign_key(
+            'FormTable', 'Sense_ID', 'SenseTable', 'ID')
+        args.writer.cldf.add_component(
+            'ParameterTable',
+            'http://cldf.clld.org/v1.0/terms.rdf#concepticonReference',
+            'Concepticon_Gloss')
+
+        cids = sorted({
+            int(s['Concepticon_ID'])
+            for s in senses
+            if s.get('Concepticon_ID')
+        })
+        catalog_config = cldfcatalog.Config.from_file()
+        concepticon = Concepticon(catalog_config.get_clone('concepticon')).api
+        args.writer.objects['ParameterTable'] = [
+            {
+                'ID': cid,
+                'Name': concepticon.cached_glosses[cid],
+                'Concepticon_ID': cid,
+                'Concepticon_Gloss': concepticon.cached_glosses[cid],
+            }
+            for cid in cids
+            if cid in concepticon.cached_glosses]
+
+        entries_by_id = {e['ID']: e for e in entries}
+        args.writer.objects['FormTable'] = [
+            {
+                'ID': '{}-{}'.format(sense['ID'], sense['Concepticon_ID']),
+                'Parameter_ID': sense['Concepticon_ID'],
+                'Sense_ID': sense['ID'],
+                'Value': entries_by_id[sense['Entry_ID']]['Headword'],
+                'Form': entries_by_id[sense['Entry_ID']]['Headword'].replace(' ', '_'),
+                'Language_ID': language_id,
+            }
+            for sense in senses
+            if sense.get('Concepticon_ID')
+        ]
+
 
         language = {
             'ID': language_id,
