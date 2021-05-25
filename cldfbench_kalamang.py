@@ -12,9 +12,10 @@ from pydictionaria.preprocess_lib import (
     marker_fallback_sense, marker_fallback_entry, merge_markers
 )
 
-from cldfbench import CLDFSpec, Dataset as BaseDataset
-from cldfbench.catalogs import Concepticon
-import cldfcatalog
+import attr
+from cldfbench import CLDFSpec
+
+import pylexibank
 
 
 SEMANTIC_DOMAINS = (
@@ -275,15 +276,24 @@ def authors_string(authors):
         return primary or secondary
 
 
-class Dataset(BaseDataset):
+@attr.s
+class CustomLexeme(pylexibank.Lexeme):
+    Sense_ID = attr.ib(default=None)
+
+
+class Dataset(pylexibank.Dataset):
     dir = pathlib.Path(__file__).parent
     id = "kalamang"
+    lexeme_class = CustomLexeme
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
-        return CLDFSpec(
-            dir=self.cldf_dir,
-            module='Dictionary',
-            metadata_fname='cldf-metadata.json')
+        return {
+            None: super().cldf_specs(),
+            'dictionary': CLDFSpec(
+                dir=self.cldf_dir,
+                module='Dictionary',
+                metadata_fname='cldf-metadata.json'),
+        }
 
     def cmd_download(self, args):
         """
@@ -299,138 +309,131 @@ class Dataset(BaseDataset):
 
         >>> args.writer.objects['LanguageTable'].append(...)
         """
+        with self.cldf_writer(args, cldf_spec='dictionary') as writer:
 
-        # read data
+            # read data
 
-        md = self.etc_dir.read_json('md.json')
-        properties = md.get('properties') or {}
-        language_name = md['language']['name']
-        isocode = md['language']['isocode']
-        language_id = md['language']['isocode']
-        glottocode = md['language']['glottocode']
+            md = self.etc_dir.read_json('md.json')
+            properties = md.get('properties') or {}
+            language_name = md['language']['name']
+            isocode = md['language']['isocode']
+            language_id = md['language']['isocode']
+            glottocode = md['language']['glottocode']
 
-        marker_map = ChainMap(
-            properties.get('marker_map') or {},
-            sfm2cldf.DEFAULT_MARKER_MAP)
-        entry_sep = properties.get('entry_sep') or sfm2cldf.DEFAULT_ENTRY_SEP
-        sfm = SFM(
-            self.raw_dir / 'db.sfm',
-            marker_map=marker_map,
-            entry_sep=entry_sep)
+            marker_map = ChainMap(
+                properties.get('marker_map') or {},
+                sfm2cldf.DEFAULT_MARKER_MAP)
+            entry_sep = properties.get('entry_sep') or sfm2cldf.DEFAULT_ENTRY_SEP
+            sfm = SFM(
+                self.raw_dir / 'db.sfm',
+                marker_map=marker_map,
+                entry_sep=entry_sep)
 
-        examples = sfm2cldf.load_examples(self.raw_dir / 'examples.sfm')
+            examples = sfm2cldf.load_examples(self.raw_dir / 'examples.sfm')
 
-        if (self.etc_dir / 'cdstar.json').exists():
-            media_catalog = self.etc_dir.read_json('cdstar.json')
-        else:
-            media_catalog = {}
+            if (self.etc_dir / 'cdstar.json').exists():
+                media_catalog = self.etc_dir.read_json('cdstar.json')
+            else:
+                media_catalog = {}
 
-        concept_map = ConceptMap.from_csv(self.etc_dir / 'concepts.csv')
+            concept_map = ConceptMap.from_csv(self.etc_dir / 'concepts.csv')
 
-        # preprocessing
+            # preprocessing
 
-        sfm = reorganize(sfm)
-        sfm.visit(preprocess)
+            sfm = reorganize(sfm)
+            sfm.visit(preprocess)
 
-        # processing
+            # processing
 
-        with open(self.dir / 'cldf.log', 'w', encoding='utf-8') as log_file:
-            log_name = '%s.cldf' % language_id
-            cldf_log = sfm2cldf.make_log(log_name, log_file)
+            with open(self.dir / 'cldf.log', 'w', encoding='utf-8') as log_file:
+                log_name = '%s.cldf' % language_id
+                cldf_log = sfm2cldf.make_log(log_name, log_file)
 
-            entries, senses, examples, media = sfm2cldf.process_dataset(
-                self.id, language_id, properties,
-                sfm, examples, media_catalog=media_catalog,
-                glosses_path=self.raw_dir / 'glosses.flextext',
-                examples_log_path=self.dir / 'examples.log',
-                glosses_log_path=self.dir / 'glosses.log',
-                cldf_log=cldf_log)
+                entries, senses, examples, media = sfm2cldf.process_dataset(
+                    self.id, language_id, properties,
+                    sfm, examples, media_catalog=media_catalog,
+                    glosses_path=self.raw_dir / 'glosses.flextext',
+                    examples_log_path=self.dir / 'examples.log',
+                    glosses_log_path=self.dir / 'glosses.log',
+                    cldf_log=cldf_log)
 
-            # good place for some post-processing
+                # good place for some post-processing
 
-            senses = [
-                concept_map.add_concepticon_id(sense)
-                for sense in senses]
+                senses = [
+                    concept_map.add_concepticon_id(sense)
+                    for sense in senses]
 
-            # cldf schema
+                # cldf schema
 
-            sfm2cldf.make_cldf_schema(
-                args.writer.cldf, properties,
-                entries, senses, examples, media)
+                sfm2cldf.make_cldf_schema(
+                    writer.cldf, properties,
+                    entries, senses, examples, media)
 
-            sfm2cldf.attach_column_titles(args.writer.cldf, properties)
+                sfm2cldf.attach_column_titles(writer.cldf, properties)
 
-            print(file=log_file)
+                print(file=log_file)
 
-            entries = sfm2cldf.ensure_required_columns(
-                args.writer.cldf, 'EntryTable', entries, cldf_log)
-            senses = sfm2cldf.ensure_required_columns(
-                args.writer.cldf, 'SenseTable', senses, cldf_log)
-            examples = sfm2cldf.ensure_required_columns(
-                args.writer.cldf, 'ExampleTable', examples, cldf_log)
-            media = sfm2cldf.ensure_required_columns(
-                args.writer.cldf, 'media.csv', media, cldf_log)
+                entries = sfm2cldf.ensure_required_columns(
+                    writer.cldf, 'EntryTable', entries, cldf_log)
+                senses = sfm2cldf.ensure_required_columns(
+                    writer.cldf, 'SenseTable', senses, cldf_log)
+                examples = sfm2cldf.ensure_required_columns(
+                    writer.cldf, 'ExampleTable', examples, cldf_log)
+                media = sfm2cldf.ensure_required_columns(
+                    writer.cldf, 'media.csv', media, cldf_log)
 
-            entries = sfm2cldf.remove_senseless_entries(
-                senses, entries, cldf_log)
+                entries = sfm2cldf.remove_senseless_entries(
+                    senses, entries, cldf_log)
 
-        # output
+            # output
 
-        args.writer.cldf.properties['dc:creator'] = authors_string(
-            md.get('authors') or ())
+            writer.cldf.properties['dc:creator'] = authors_string(
+                md.get('authors') or ())
 
+            writer.objects['EntryTable'] = entries
+            writer.objects['SenseTable'] = senses
+            writer.objects['ExampleTable'] = examples
+            writer.objects['media.csv'] = media
 
-        # TODO integrate into pydictionaria
+            entry_table = writer.cldf['EntryTable']
+            sense_table = writer.cldf['SenseTable']
+            media_table = writer.cldf['MediaTable']
 
-        args.writer.cldf.add_component('FormTable', 'Sense_ID')
-        args.writer.cldf.add_foreign_key(
-            'FormTable', 'Sense_ID', 'SenseTable', 'ID')
-        args.writer.cldf.add_component(
-            'ParameterTable',
-            'http://cldf.clld.org/v1.0/terms.rdf#concepticonReference',
-            'Concepticon_Gloss')
+        with self.cldf_writer(args, clean=False) as writer:
+            # TODO integrate into pydictionaria
 
-        cids = sorted({
-            int(s['Concepticon_ID'])
-            for s in senses
-            if s.get('Concepticon_ID')
-        })
-        catalog_config = cldfcatalog.Config.from_file()
-        concepticon = Concepticon(catalog_config.get_clone('concepticon')).api
-        args.writer.objects['ParameterTable'] = [
-            {
-                'ID': cid,
-                'Name': concepticon.cached_glosses[cid],
-                'Concepticon_ID': cid,
-                'Concepticon_Gloss': concepticon.cached_glosses[cid],
-            }
-            for cid in cids
-            if cid in concepticon.cached_glosses]
+            writer.cldf.add_component(entry_table)
+            writer.cldf.add_component(sense_table)
+            writer.cldf.add_component(media_table)
+            writer.cldf.add_foreign_key(
+                'FormTable', 'Sense_ID', 'SenseTable', 'ID')
 
-        entries_by_id = {e['ID']: e for e in entries}
-        args.writer.objects['FormTable'] = [
-            {
-                'ID': '{}-{}'.format(sense['ID'], sense['Concepticon_ID']),
-                'Parameter_ID': sense['Concepticon_ID'],
-                'Sense_ID': sense['ID'],
-                'Value': entries_by_id[sense['Entry_ID']]['Headword'],
-                'Form': entries_by_id[sense['Entry_ID']]['Headword'].replace(' ', '_'),
-                'Language_ID': language_id,
-            }
-            for sense in senses
-            if sense.get('Concepticon_ID')
-        ]
+            cids = sorted({
+                (int(s['Concepticon_ID']), s['Description'])
+                for s in senses
+                if s.get('Concepticon_ID')
+            })
+            for cid, english in cids:
+                if self.concepticon.cached_glosses.get(cid):
+                    writer.add_concept(
+                        ID=cid,
+                        Name=english,
+                        Concepticon_ID=cid,
+                        Concepticon_Gloss=self.concepticon.cached_glosses[cid])
 
+            entries_by_id = {e['ID']: e for e in entries}
+            for sense in senses:
+                if sense.get('Concepticon_ID'):
+                    writer.add_form(
+                        ID='{}-{}'.format(sense['ID'], sense['Concepticon_ID']),
+                        Parameter_ID=sense['Concepticon_ID'],
+                        Sense_ID=sense['ID'],
+                        Form=entries_by_id[sense['Entry_ID']]['Headword'].replace(' ', '_'),
+                        Value=entries_by_id[sense['Entry_ID']]['Headword'],
+                        Language_ID=language_id)
 
-        language = {
-            'ID': language_id,
-            'Name': language_name,
-            'ISO639P3code': isocode,
-            'Glottocode': glottocode,
-        }
-        args.writer.objects['LanguageTable'] = [language]
-
-        args.writer.objects['EntryTable'] = entries
-        args.writer.objects['SenseTable'] = senses
-        args.writer.objects['ExampleTable'] = examples
-        args.writer.objects['media.csv'] = media
+            writer.add_language(
+                ID=language_id,
+                Name=language_name,
+                ISO639P3code=isocode,
+                Glottocode=glottocode)
