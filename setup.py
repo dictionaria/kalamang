@@ -12,9 +12,9 @@ setup(
         ]
     },
     install_requires=[
-        'cldfbench',
+        'cldfbench[excel]',
         'pylexibank',
-        'pydictionaria>=2.0',
+        'pydictionaria',
     ],
     extras_require={
         'test': [

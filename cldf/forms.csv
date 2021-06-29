@@ -1,1370 +1,1370 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Sense_ID
-kgv-1447-1,,kgv,1447,Ø,Ø,,,,,,,,SN000001
-kgv-1268-1,,kgv,1268,a'a,a'a,,,,,,,,SN000005
-kgv-1747-1,,kgv,1747,adat,adat,,,,,,,,SN000006
-kgv-3725-1,,kgv,3725,afukat,afukat,,,,,,,,SN000010
-kgv-1699-1,,kgv,1699,ahat,ahat,,,,,,,,SN000011
-kgv-1964-1,,kgv,1964,-ahutak,-ahutak,,,,,,,,SN000012
-kgv-709-1,,kgv,709,ajar,ajar,,,,,,,,SN000013
-kgv-3699-1,,kgv,3699,ajar,ajar,,,,,,,,SN000014
-kgv-2572-1,,kgv,2572,akal,akal,,,,,,,,SN000016
-kgv-1592-1,,kgv,1592,aknar,aknar,,,,,,,,SN000017
-kgv-1994-1,,kgv,1994,aknar kangun,aknar_kangun,,,,,,,,SN000018
-kgv-606-1,,kgv,606,*al,*al,,,,,,,,SN000020
-kgv-1402-1,,kgv,1402,am,am,,,,,,,,SN000027
-kgv-796-1,,kgv,796,am belun,am_belun,,,,,,,,SN000028
-kgv-586-1,,kgv,586,amdir,amdir,,,,,,,,SN000030
-kgv-1195-1,,kgv,1195,amkeit,amkeit,,,,,,,,SN000032
-kgv-1209-1,,kgv,1209,an,an,,,,,,,,SN000033
-kgv-2090-1,,kgv,2090,-an,-an,,,,,,,,SN000034
-kgv-1567-1,,kgv,1567,anggas,anggas,,,,,,,,SN000039
-kgv-80-1,,kgv,80,anggas padenun,anggas_padenun,,,,,,,,SN000040
-kgv-2090-2,,kgv,2090,anggon,anggon,,,,,,,,SN000041
-kgv-1356-1,,kgv,1356,anka,anka,,,,,,,,SN000042
-kgv-770-1,,kgv,770,anting,anting,,,,,,,,SN000044
-kgv-493-1,,kgv,493,ap,ap,,,,,,,,SN000046
-kgv-119-1,,kgv,119,ar,ar,,,,,,,,SN000047
-kgv-2879-1,,kgv,2879,ar,ar,,,,,,,,SN000050
-kgv-906-1,,kgv,906,*ar,*ar,,,,,,,,SN000051
-kgv-1948-1,,kgv,1948,aragadi,aragadi,,,,,,,,SN000054
-kgv-1202-1,,kgv,1202,aremun,aremun,,,,,,,,SN000057
-kgv-2035-1,,kgv,2035,arep,arep,,,,,,,,SN000058
-kgv-1692-1,,kgv,1692,ariemun,ariemun,,,,,,,,SN000061
-kgv-2628-1,,kgv,2628,arun,arun,,,,,,,,SN000062
-kgv-53-1,,kgv,53,arwa,arwa,,,,,,,,SN000063
-kgv-863-1,,kgv,863,*as,*as,,,,,,,,SN000064
-kgv-863-2,,kgv,863,asun,asun,,,,,,,,SN000069
-kgv-1014-1,,kgv,1014,atau,atau,,,,,,,,SN000071
-kgv-1568-1,,kgv,1568,ator,ator,,,,,,,,SN000072
-kgv-1289-1,,kgv,1289,au,au,,,,,,,,SN000073
-kgv-1869-1,,kgv,1869,ba,ba,,,,,,,,SN000074
-kgv-2009-1,,kgv,2009,bal,bal,,,,,,,,SN000079
-kgv-1039-1,,kgv,1039,balaok,balaok,,,,,,,,SN000082
-kgv-1013-1,,kgv,1013,baluku,baluku,,,,,,,,SN000086
-kgv-2584-1,,kgv,2584,banku,banku,,,,,,,,SN000087
-kgv-2014-1,,kgv,2014,bara,bara,,,,,,,,SN000088
-kgv-1564-1,,kgv,1564,barahala,barahala,,,,,,,,SN000089
-kgv-2842-1,,kgv,2842,barang,barang,,,,,,,,SN000092
-kgv-1424-1,,kgv,1424,baranggap,baranggap,,,,,,,,SN000093
-kgv-1231-1,,kgv,1231,baru,baru,,,,,,,,SN000095
-kgv-1006-1,,kgv,1006,bataku,bataku,,,,,,,,SN000096
-kgv-2368-1,,kgv,2368,bawang iriskapten,bawang_iriskapten,,,,,,,,SN000097
-kgv-975-1,,kgv,975,bayam,bayam,,,,,,,,SN000099
-kgv-1360-1,,kgv,1360,bebak,bebak,,,,,,,,SN000101
-kgv-1482-1,,kgv,1482,bekiem,bekiem,,,,,,,,SN000102
-kgv-172-1,,kgv,172,bekiemkang,bekiemkang,,,,,,,,SN000103
-kgv-504-1,,kgv,504,belajar,belajar,,,,,,,,SN000105
-kgv-1396-1,,kgv,1396,belbel,belbel,,,,,,,,SN000106
-kgv-972-1,,kgv,972,belek,belek,,,,,,,,SN000107
-kgv-1205-1,,kgv,1205,belen,belen,,,,,,,,SN000108
-kgv-1035-1,,kgv,1035,bes,bes,,,,,,,,SN000109
-kgv-1639-1,,kgv,1639,bir,bir,,,,,,,,SN000117
-kgv-972-2,,kgv,972,bisa,bisa,,,,,,,,SN000119
-kgv-695-1,,kgv,695,bo,bo,,,,,,,,SN000121
-kgv-2753-1,,kgv,2753,bo,bo,,,,,,,,SN000122
-kgv-1518-1,,kgv,1518,boda,boda,,,,,,,,SN000123
-kgv-674-1,,kgv,674,bol,bol,,,,,,,,SN000124
-kgv-1845-1,,kgv,1845,bola,bola,,,,,,,,SN000125
-kgv-1336-1,,kgv,1336,bolkoyal,bolkoyal,,,,,,,,SN000126
-kgv-478-1,,kgv,478,bolkul,bolkul,,,,,,,,SN000127
-kgv-2924-1,,kgv,2924,bolon,bolon,,,,,,,,SN000129
-kgv-692-1,,kgv,692,bon,bon,,,,,,,,SN000130
-kgv-1577-1,,kgv,1577,=bon,=bon,,,,,,,,SN000131
-kgv-2223-1,,kgv,2223,bonaras,bonaras,,,,,,,,SN000132
-kgv-1812-1,,kgv,1812,bonasau,bonasau,,,,,,,,SN000133
-kgv-1501-1,,kgv,1501,bor,bor,,,,,,,,SN000135
-kgv-3423-1,,kgv,3423,bor,bor,,,,,,,,SN000136
-kgv-1156-1,,kgv,1156,borma,borma,,,,,,,,SN000138
-kgv-2393-1,,kgv,2393,bot,bot,,,,,,,,SN000140
-kgv-1321-1,,kgv,1321,botal,botal,,,,,,,,SN000141
-kgv-1206-1,,kgv,1206,boukbouk,boukbouk,,,,,,,,SN000143
-kgv-2049-1,,kgv,2049,bubir,bubir,,,,,,,,SN000144
-kgv-963-1,,kgv,963,buk,buk,,,,,,,,SN000146
-kgv-239-1,,kgv,239,bunga,bunga,,,,,,,,SN000148
-kgv-3161-1,,kgv,3161,buokbuok,buokbuok,,,,,,,,SN000155
-kgv-1221-1,,kgv,1221,bustang,bustang,,,,,,,,SN000162
-kgv-1178-1,,kgv,1178,bustang posun,bustang_posun,,,,,,,,SN000163
-kgv-34-1,,kgv,34,but,but,,,,,,,,SN000164
-kgv-732-1,,kgv,732,-ca,-ca,,,,,,,,SN000165
-kgv-1554-1,,kgv,1554,-cam,-cam,,,,,,,,SN000169
-kgv-2017-1,,kgv,2017,campur,campur,,,,,,,,SN000170
-kgv-1554-2,,kgv,1554,canam,canam,,,,,,,,SN000171
-kgv-476-1,,kgv,476,cangkir,cangkir,,,,,,,,SN000172
-kgv-2001-1,,kgv,2001,cat,cat,,,,,,,,SN000173
-kgv-1246-1,,kgv,1246,caun,caun,,,,,,,,SN000174
-kgv-732-2,,kgv,732,-ce,-ce,,,,,,,,SN000175
-kgv-1975-1,,kgv,1975,cek,cek,,,,,,,,SN000176
-kgv-1711-1,,kgv,1711,cerita,cerita,,,,,,,,SN000178
-kgv-2060-1,,kgv,2060,cerita,cerita,,,,,,,,SN000179
-kgv-1246-2,,kgv,1246,cicaun,cicaun,,,,,,,,SN000180
-kgv-750-1,,kgv,750,cici,cici,,,,,,,,SN000182
-kgv-1812-2,,kgv,1812,coba,coba,,,,,,,,SN000184
-kgv-3029-1,,kgv,3029,cok,cok,,,,,,,,SN000185
-kgv-634-1,,kgv,634,dagim,dagim,,,,,,,,SN000187
-kgv-1829-1,,kgv,1829,dalang,dalang,,,,,,,,SN000190
-kgv-1719-1,,kgv,1719,dan,dan,,,,,,,,SN000195
-kgv-1088-1,,kgv,1088,dare,dare,,,,,,,,SN000197
-kgv-897-1,,kgv,897,dareok,dareok,,,,,,,,SN000198
-kgv-1817-1,,kgv,1817,daru,daru,,,,,,,,SN000201
-kgv-2604-1,,kgv,2604,dedesi,dedesi,,,,,,,,SN000206
-kgv-1452-1,,kgv,1452,deir,deir,,,,,,,,SN000207
-kgv-708-1,,kgv,708,delepdelep,delepdelep,,,,,,,,SN000209
-kgv-185-1,,kgv,185,didir,didir,,,,,,,,SN000213
-kgv-1365-1,,kgv,1365,didiras,didiras,,,,,,,,SN000214
-kgv-778-1,,kgv,778,diguar,diguar,,,,,,,,SN000215
-kgv-221-1,,kgv,221,din,din,,,,,,,,SN000218
-kgv-67-1,,kgv,67,din songsong,din_songsong,,,,,,,,SN000220
-kgv-2102-1,,kgv,2102,dinan,dinan,,,,,,,,SN000221
-kgv-1895-1,,kgv,1895,dodon,dodon,,,,,,,,SN000226
-kgv-682-1,,kgv,682,-dok,-dok,,,,,,,,SN000227
-kgv-738-1,,kgv,738,don,don,,,,,,,,SN000232
-kgv-862-1,,kgv,862,don iriskap,don_iriskap,,,,,,,,SN000233
-kgv-862-2,,kgv,862,don penpen,don_penpen,,,,,,,,SN000236
-kgv-604-1,,kgv,604,don pernanan,don_pernanan,,,,,,,,SN000237
-kgv-625-1,,kgv,625,don yuolyuol,don_yuolyuol,,,,,,,,SN000238
-kgv-3053-1,,kgv,3053,dong,dong,,,,,,,,SN000241
-kgv-1616-1,,kgv,1616,donselet,donselet,,,,,,,,SN000242
-kgv-2325-1,,kgv,2325,dorma,dorma,,,,,,,,SN000244
-kgv-2548-1,,kgv,2548,dorom,dorom,,,,,,,,SN000245
-kgv-714-1,,kgv,714,dowi,dowi,,,,,,,,SN000246
-kgv-1575-1,,kgv,1575,dudin,dudin,,,,,,,,SN000249
-kgv-863-3,,kgv,863,duk,duk,,,,,,,,SN000250
-kgv-398-1,,kgv,398,durma,durma,,,,,,,,SN000257
-kgv-2921-1,,kgv,2921,eba,eba,,,,,,,,SN000260
-kgv-1839-1,,kgv,1839,ecua,ecua,,,,,,,,SN000263
-kgv-1498-1,,kgv,1498,eir,eir,,,,,,,,SN000266
-kgv-66-1,,kgv,66,eiruk,eiruk,,,,,,,,SN000267
-kgv-713-1,,kgv,713,eksuet,eksuet,,,,,,,,SN000269
-kgv-1160-1,,kgv,1160,eksuet,eksuet,,,,,,,,SN000270
-kgv-690-1,,kgv,690,*elak,*elak,,,,,,,,SN000272
-kgv-206-1,,kgv,206,elam,elam,,,,,,,,SN000273
-kgv-1485-1,,kgv,1485,elao,elao,,,,,,,,SN000274
-kgv-690-2,,kgv,690,elaun,elaun,,,,,,,,SN000275
-kgv-797-1,,kgv,797,elkin narun,elkin_narun,,,,,,,,SN000277
-kgv-1216-1,,kgv,1216,ema,ema,,,,,,,,SN000279
-kgv-1272-1,,kgv,1272,ema caun,ema_caun,,,,,,,,SN000281
-kgv-1272-2,,kgv,1272,ema temun,ema_temun,,,,,,,,SN000282
-kgv-1278-1,,kgv,1278,emguk,emguk,,,,,,,,SN000284
-kgv-1278-2,,kgv,1278,emguk,emguk,,,,,,,,SN000285
-kgv-1496-1,,kgv,1496,emnem,emnem,,,,,,,,SN000286
-kgv-1202-2,,kgv,1202,emun,emun,,,,,,,,SN000290
-kgv-345-1,,kgv,345,emun,emun,,,,,,,,SN000291
-kgv-1686-1,,kgv,1686,epko,epko,,,,,,,,SN000297
-kgv-1493-1,,kgv,1493,epkon,epkon,,,,,,,,SN000298
-kgv-1480-1,,kgv,1480,eren,eren,,,,,,,,SN000301
-kgv-1839-2,,kgv,1839,eruap,eruap,,,,,,,,SN000303
-kgv-617-1,,kgv,617,es,es,,,,,,,,SN000304
-kgv-1217-1,,kgv,1217,esa,esa,,,,,,,,SN000305
-kgv-1327-1,,kgv,1327,esa caun,esa_caun,,,,,,,,SN000306
-kgv-1327-2,,kgv,1327,esa temun,esa_temun,,,,,,,,SN000308
-kgv-1268-2,,kgv,1268,esie,esie,,,,,,,,SN000309
-kgv-1901-1,,kgv,1901,eskop,eskop,,,,,,,,SN000310
-kgv-1383-1,,kgv,1383,esnem,esnem,,,,,,,,SN000312
-kgv-683-1,,kgv,683,-et,-et,,,,,,,,SN000316
-kgv-1242-1,,kgv,1242,etaman,etaman,,,,,,,,SN000318
-kgv-1493-2,,kgv,1493,etkon,etkon,,,,,,,,SN000319
-kgv-1623-1,,kgv,1623,ewa,ewa,,,,,,,,SN000321
-kgv-1623-2,,kgv,1623,ewawa,ewawa,,,,,,,,SN000324
-kgv-681-1,,kgv,681,fakurat,fakurat,,,,,,,,SN000326
-kgv-3452-1,,kgv,3452,fakurat,fakurat,,,,,,,,SN000327
-kgv-1025-1,,kgv,1025,filoit,filoit,,,,,,,,SN000333
-kgv-133-1,,kgv,133,gaim,gaim,,,,,,,,SN000336
-kgv-945-1,,kgv,945,gala,gala,,,,,,,,SN000338
-kgv-1684-1,,kgv,1684,galip,galip,,,,,,,,SN000339
-kgv-2401-1,,kgv,2401,gambar,gambar,,,,,,,,SN000340
-kgv-1495-1,,kgv,1495,gampang,gampang,,,,,,,,SN000341
-kgv-98-1,,kgv,98,-gan,-gan,,,,,,,,SN000342
-kgv-2884-1,,kgv,2884,gang,gang,,,,,,,,SN000343
-kgv-2884-2,,kgv,2884,ganggang,ganggang,,,,,,,,SN000344
-kgv-501-1,,kgv,501,ganggie,ganggie,,,,,,,,SN000345
-kgv-2430-1,,kgv,2430,gantor,gantor,,,,,,,,SN000346
-kgv-96-1,,kgv,96,gare,gare,,,,,,,,SN000348
-kgv-1487-1,,kgv,1487,gareor,gareor,,,,,,,,SN000349
-kgv-721-1,,kgv,721,garos,garos,,,,,,,,SN000350
-kgv-688-1,,kgv,688,gawar,gawar,,,,,,,,SN000354
-kgv-2124-1,,kgv,2124,gawar,gawar,,,,,,,,SN000356
-kgv-2124-2,,kgv,2124,gawar,gawar,,,,,,,,SN000357
-kgv-1240-1,,kgv,1240,ge,ge,,,,,,,,SN000360
-kgv-687-1,,kgv,687,ge mera,ge_mera,,,,,,,,SN000361
-kgv-604-2,,kgv,604,gelas,gelas,,,,,,,,SN000364
-kgv-3710-1,,kgv,3710,gelas,gelas,,,,,,,,SN000365
-kgv-1028-1,,kgv,1028,gelem,gelem,,,,,,,,SN000366
-kgv-3689-1,,kgv,3689,gelembung,gelembung,,,,,,,,SN000367
-kgv-3280-1,,kgv,3280,gelemun,gelemun,,,,,,,,SN000368
-kgv-2895-1,,kgv,2895,genggalong,genggalong,,,,,,,,SN000370
-kgv-3809-1,,kgv,3809,genggueng,genggueng,,,,,,,,SN000371
-kgv-1309-1,,kgv,1309,gerket,gerket,,,,,,,,SN000373
-kgv-1240-2,,kgv,1240,get,get,,,,,,,,SN000374
-kgv-1231-2,,kgv,1231,giar,giar,,,,,,,,SN000376
-kgv-728-1,,kgv,728,giarun,giarun,,,,,,,,SN000377
-kgv-1380-1,,kgv,1380,gier,gier,,,,,,,,SN000378
-kgv-139-1,,kgv,139,gierkawer,gierkawer,,,,,,,,SN000379
-kgv-770-2,,kgv,770,gigiwang,gigiwang,,,,,,,,SN000380
-kgv-604-3,,kgv,604,ginana,ginana,,,,,,,,SN000381
-kgv-723-1,,kgv,723,go,go,,,,,,,,SN000386
-kgv-2297-1,,kgv,2297,go kerkap,go_kerkap,,,,,,,,SN000391
-kgv-1233-1,,kgv,1233,go saun,go_saun,,,,,,,,SN000393
-kgv-1225-1,,kgv,1225,go yuol,go_yuol,,,,,,,,SN000395
-kgv-1422-1,,kgv,1422,gocie,gocie,,,,,,,,SN000397
-kgv-1150-1,,kgv,1150,godarung,godarung,,,,,,,,SN000398
-kgv-1654-1,,kgv,1654,godelep,godelep,,,,,,,,SN000399
-kgv-230-1,,kgv,230,gokabara,gokabara,,,,,,,,SN000401
-kgv-1845-2,,kgv,1845,gol,gol,,,,,,,,SN000402
-kgv-430-1,,kgv,430,golma,golma,,,,,,,,SN000404
-kgv-3626-1,,kgv,3626,gonggin,gonggin,,,,,,,,SN000405
-kgv-3319-1,,kgv,3319,gonggong,gonggong,,,,,,,,SN000406
-kgv-2990-1,,kgv,2990,goni,goni,,,,,,,,SN000408
-kgv-933-1,,kgv,933,goparar,goparar,,,,,,,,SN000409
-kgv-2628-2,,kgv,2628,*gor,*gor,,,,,,,,SN000410
-kgv-2628-3,,kgv,2628,gorun,gorun,,,,,,,,SN000416
-kgv-88-1,,kgv,88,gowienkier,gowienkier,,,,,,,,SN000422
-kgv-96-2,,kgv,96,guadang,guadang,,,,,,,,SN000424
-kgv-1468-1,,kgv,1468,guanggarien,guanggarien,,,,,,,,SN000426
-kgv-1038-1,,kgv,1038,guru,guru,,,,,,,,SN000432
-kgv-3746-1,,kgv,3746,gusi,gusi,,,,,,,,SN000433
-kgv-1236-1,,kgv,1236,ha,ha,,,,,,,,SN000435
-kgv-1157-1,,kgv,1157,habis,habis,,,,,,,,SN000437
-kgv-1657-1,,kgv,1657,haidak,haidak,,,,,,,,SN000438
-kgv-203-1,,kgv,203,halar,halar,,,,,,,,SN000440
-kgv-2432-1,,kgv,2432,halar,halar,,,,,,,,SN000441
-kgv-1856-1,,kgv,1856,halus,halus,,,,,,,,SN000442
-kgv-1021-1,,kgv,1021,handuk,handuk,,,,,,,,SN000443
-kgv-1580-1,,kgv,1580,hanya,hanya,,,,,,,,SN000444
-kgv-1225-2,,kgv,1225,hari,hari,,,,,,,,SN000445
-kgv-1699-2,,kgv,1699,hari minggu,hari_minggu,,,,,,,,SN000446
-kgv-971-1,,kgv,971,harus,harus,,,,,,,,SN000447
-kgv-1422-2,,kgv,1422,hidup,hidup,,,,,,,,SN000449
-kgv-210-1,,kgv,210,hidup,hidup,,,,,,,,SN000450
-kgv-1448-1,,kgv,1448,iar,iar,,,,,,,,SN000457
-kgv-1155-1,,kgv,1155,iar,iar,,,,,,,,SN000458
-kgv-2711-1,,kgv,2711,iar,iar,,,,,,,,SN000459
-kgv-1241-1,,kgv,1241,ikon,ikon,,,,,,,,SN000464
-kgv-868-1,,kgv,868,im,im,,,,,,,,SN000465
-kgv-1198-1,,kgv,1198,imbuang,imbuang,,,,,,,,SN000474
-kgv-78-1,,kgv,78,ime,ime,,,,,,,,SN000475
-kgv-78-2,,kgv,78,imene,imene,,,,,,,,SN000476
-kgv-1212-1,,kgv,1212,in,in,,,,,,,,SN000478
-kgv-1405-1,,kgv,1405,in,in,,,,,,,,SN000479
-kgv-98-2,,kgv,98,inaninggan,inaninggan,,,,,,,,SN000482
-kgv-1018-1,,kgv,1018,ingatan,ingatan,,,,,,,,SN000484
-kgv-780-1,,kgv,780,inggon,inggon,,,,,,,,SN000485
-kgv-2634-1,,kgv,2634,inier,inier,,,,,,,,SN000488
-kgv-178-1,,kgv,178,iren,iren,,,,,,,,SN000492
-kgv-1705-1,,kgv,1705,irie,irie,,,,,,,,SN000493
-kgv-1335-1,,kgv,1335,iriskap,iriskap,,,,,,,,SN000494
-kgv-1597-1,,kgv,1597,iskap,iskap,,,,,,,,SN000500
-kgv-168-1,,kgv,168,istirahat,istirahat,,,,,,,,SN000501
-kgv-2880-1,,kgv,2880,istop,istop,,,,,,,,SN000502
-kgv-1362-1,,kgv,1362,istrat,istrat,,,,,,,,SN000503
-kgv-3050-1,,kgv,3050,iun,iun,,,,,,,,SN000506
-kgv-3017-1,,kgv,3017,iwora,iwora,,,,,,,,SN000509
-kgv-1564-2,,kgv,1564,jabul,jabul,,,,,,,,SN000510
-kgv-1990-1,,kgv,1990,jadi,jadi,,,,,,,,SN000511
-kgv-2336-1,,kgv,2336,jadi,jadi,,,,,,,,SN000512
-kgv-1353-1,,kgv,1353,jam,jam,,,,,,,,SN000514
-kgv-678-1,,kgv,678,jangkut,jangkut,,,,,,,,SN000515
-kgv-1675-1,,kgv,1675,janji,janji,,,,,,,,SN000516
-kgv-1275-1,,kgv,1275,jawab,jawab,,,,,,,,SN000519
-kgv-1375-1,,kgv,1375,jendela,jendela,,,,,,,,SN000520
-kgv-1869-2,,kgv,1869,jie,jie,,,,,,,,SN000521
-kgv-1213-1,,kgv,1213,ka,ka,,,,,,,,SN000525
-kgv-693-1,,kgv,693,=ka,=ka,,,,,,,,SN000526
-kgv-230-2,,kgv,230,kabara,kabara,,,,,,,,SN000530
-kgv-1650-1,,kgv,1650,kabarua,kabarua,,,,,,,,SN000531
-kgv-197-1,,kgv,197,kabas,kabas,,,,,,,,SN000536
-kgv-197-2,,kgv,197,kabas,kabas,,,,,,,,SN000537
-kgv-1429-1,,kgv,1429,kabor,kabor,,,,,,,,SN000540
-kgv-819-1,,kgv,819,kabor,kabor,,,,,,,,SN000541
-kgv-1533-1,,kgv,1533,kabor lalang,kabor_lalang,,,,,,,,SN000543
-kgv-1123-1,,kgv,1123,kaborko,kaborko,,,,,,,,SN000544
-kgv-1991-1,,kgv,1991,kabun,kabun,,,,,,,,SN000547
-kgv-2223-2,,kgv,2223,kacok,kacok,,,,,,,,SN000550
-kgv-2223-3,,kgv,2223,kademor,kademor,,,,,,,,SN000552
-kgv-1480-2,,kgv,1480,kaden,kaden,,,,,,,,SN000553
-kgv-1924-1,,kgv,1924,kaden kies,kaden_kies,,,,,,,,SN000554
-kgv-2327-1,,kgv,2327,kaden lalang,kaden_lalang,,,,,,,,SN000556
-kgv-189-1,,kgv,189,kadenenen,kadenenen,,,,,,,,SN000557
-kgv-1476-1,,kgv,1476,kadera,kadera,,,,,,,,SN000558
-kgv-1965-1,,kgv,1965,kadok,kadok,,,,,,,,SN000559
-kgv-834-1,,kgv,834,kahaman,kahaman,,,,,,,,SN000564
-kgv-1935-1,,kgv,1935,kahamanpos,kahamanpos,,,,,,,,SN000565
-kgv-1156-2,,kgv,1156,kahetma,kahetma,,,,,,,,SN000568
-kgv-10-1,,kgv,10,kai,kai,,,,,,,,SN000570
-kgv-1850-1,,kgv,1850,kai kawas,kai_kawas,,,,,,,,SN000572
-kgv-732-3,,kgv,732,kain,kain,,,,,,,,SN000576
-kgv-2440-1,,kgv,2440,kainasu,kainasu,,,,,,,,SN000577
-kgv-790-1,,kgv,790,kalar,kalar,,,,,,,,SN000589
-kgv-3710-2,,kgv,3710,kalar,kalar,,,,,,,,SN000590
-kgv-1459-1,,kgv,1459,kalau,kalau,,,,,,,,SN000591
-kgv-1856-2,,kgv,1856,kalawen,kalawen,,,,,,,,SN000592
-kgv-1223-1,,kgv,1223,kale,kale,,,,,,,,SN000593
-kgv-1074-1,,kgv,1074,kaling,kaling,,,,,,,,SN000596
-kgv-31-1,,kgv,31,kaling,kaling,,,,,,,,SN000597
-kgv-1253-1,,kgv,1253,kalis,kalis,,,,,,,,SN000599
-kgv-658-1,,kgv,658,kalis,kalis,,,,,,,,SN000600
-kgv-1733-1,,kgv,1733,kalis tanggir,kalis_tanggir,,,,,,,,SN000602
-kgv-1509-1,,kgv,1509,kalkalet,kalkalet,,,,,,,,SN000603
-kgv-1958-1,,kgv,1958,kalomun,kalomun,,,,,,,,SN000607
-kgv-1450-1,,kgv,1450,kalot,kalot,,,,,,,,SN000608
-kgv-1961-1,,kgv,1961,kalung,kalung,,,,,,,,SN000612
-kgv-1127-1,,kgv,1127,kama,kama,,,,,,,,SN000613
-kgv-606-2,,kgv,606,kaman,kaman,,,,,,,,SN000614
-kgv-394-1,,kgv,394,kamanget,kamanget,,,,,,,,SN000618
-kgv-1726-1,,kgv,1726,kamen,kamen,,,,,,,,SN000627
-kgv-859-1,,kgv,859,kamfor,kamfor,,,,,,,,SN000629
-kgv-1693-1,,kgv,1693,kamis,kamis,,,,,,,,SN000630
-kgv-1981-1,,kgv,1981,kamun,kamun,,,,,,,,SN000633
-kgv-621-1,,kgv,621,kamung,kamung,,,,,,,,SN000634
-kgv-1019-1,,kgv,1019,kan,kan,,,,,,,,SN000635
-kgv-1394-1,,kgv,1394,kang,kang,,,,,,,,SN000643
-kgv-1396-2,,kgv,1396,kang,kang,,,,,,,,SN000644
-kgv-1470-1,,kgv,1470,kang,kang,,,,,,,,SN000645
-kgv-124-1,,kgv,124,*kang,*kang,,,,,,,,SN000646
-kgv-1400-1,,kgv,1400,kanggarom,kanggarom,,,,,,,,SN000648
-kgv-1413-1,,kgv,1413,kanggei,kanggei,,,,,,,,SN000649
-kgv-2467-1,,kgv,2467,kanggeit,kanggeit,,,,,,,,SN000651
-kgv-1248-1,,kgv,1248,kanggir,kanggir,,,,,,,,SN000654
-kgv-1757-1,,kgv,1757,kanggir pop,kanggir_pop,,,,,,,,SN000656
-kgv-17-1,,kgv,17,kanggir pulun,kanggir_pulun,,,,,,,,SN000657
-kgv-1653-1,,kgv,1653,kanggir saun,kanggir_saun,,,,,,,,SN000658
-kgv-1560-1,,kgv,1560,kanggirar,kanggirar,,,,,,,,SN000659
-kgv-1560-2,,kgv,1560,kanggirar,kanggirar,,,,,,,,SN000660
-kgv-3807-1,,kgv,3807,kanggirnar,kanggirnar,,,,,,,,SN000661
-kgv-1958-2,,kgv,1958,kangguar,kangguar,,,,,,,,SN000663
-kgv-674-2,,kgv,674,kanggur,kanggur,,,,,,,,SN000664
-kgv-1510-1,,kgv,1510,kanggus,kanggus,,,,,,,,SN000667
-kgv-124-2,,kgv,124,kangun,kangun,,,,,,,,SN000671
-kgv-1835-1,,kgv,1835,kangun nerunggo,kangun_nerunggo,,,,,,,,SN000672
-kgv-1917-1,,kgv,1917,kanie,kanie,,,,,,,,SN000673
-kgv-1311-1,,kgv,1311,-kaning,-kaning,,,,,,,,SN000674
-kgv-1483-1,,kgv,1483,kaninggonie,kaninggonie,,,,,,,,SN000675
-kgv-1500-1,,kgv,1500,kansuor,kansuor,,,,,,,,SN000676
-kgv-1669-1,,kgv,1669,kanus,kanus,,,,,,,,SN000678
-kgv-1728-1,,kgv,1728,kap,kap,,,,,,,,SN000680
-kgv-1117-1,,kgv,1117,=kap,=kap,,,,,,,,SN000681
-kgv-740-1,,kgv,740,kapal,kapal,,,,,,,,SN000682
-kgv-1850-2,,kgv,1850,kapas,kapas,,,,,,,,SN000684
-kgv-1836-1,,kgv,1836,kar,kar,,,,,,,,SN000687
-kgv-3689-2,,kgv,3689,karabubu,karabubu,,,,,,,,SN000689
-kgv-1086-1,,kgv,1086,karajang,karajang,,,,,,,,SN000691
-kgv-984-1,,kgv,984,karajang,karajang,,,,,,,,SN000692
-kgv-487-1,,kgv,487,karames,karames,,,,,,,,SN000695
-kgv-1884-1,,kgv,1884,karan,karan,,,,,,,,SN000697
-kgv-1539-1,,kgv,1539,karanjang,karanjang,,,,,,,,SN000698
-kgv-1400-2,,kgv,1400,karaonggis,karaonggis,,,,,,,,SN000700
-kgv-379-1,,kgv,379,karaonggis,karaonggis,,,,,,,,SN000701
-kgv-1113-1,,kgv,1113,karap,karap,,,,,,,,SN000702
-kgv-1398-1,,kgv,1398,kararak,kararak,,,,,,,,SN000703
-kgv-588-1,,kgv,588,kararcie,kararcie,,,,,,,,SN000704
-kgv-1218-1,,kgv,1218,karek,karek,,,,,,,,SN000709
-kgv-1157-2,,kgv,1157,karena,karena,,,,,,,,SN000711
-kgv-503-1,,kgv,503,kareng,kareng,,,,,,,,SN000712
-kgv-1662-1,,kgv,1662,kariemun,kariemun,,,,,,,,SN000716
-kgv-1531-1,,kgv,1531,karok,karok,,,,,,,,SN000720
-kgv-977-1,,kgv,977,karop,karop,,,,,,,,SN000722
-kgv-206-2,,kgv,206,karop,karop,,,,,,,,SN000723
-kgv-492-1,,kgv,492,karuok,karuok,,,,,,,,SN000731
-kgv-946-1,,kgv,946,karyak,karyak,,,,,,,,SN000732
-kgv-864-1,,kgv,864,kasabiti,kasabiti,,,,,,,,SN000734
-kgv-937-1,,kgv,937,kasamin,kasamin,,,,,,,,SN000737
-kgv-1923-1,,kgv,1923,kasar,kasar,,,,,,,,SN000739
-kgv-466-1,,kgv,466,kasawari,kasawari,,,,,,,,SN000740
-kgv-1615-1,,kgv,1615,kasawircie,kasawircie,,,,,,,,SN000741
-kgv-1455-1,,kgv,1455,kasawirma,kasawirma,,,,,,,,SN000742
-kgv-1720-1,,kgv,1720,kasep,kasep,,,,,,,,SN000743
-kgv-1674-1,,kgv,1674,kasian,kasian,,,,,,,,SN000744
-kgv-999-1,,kgv,999,*kasir,*kasir,,,,,,,,SN000746
-kgv-855-1,,kgv,855,kasorma,kasorma,,,,,,,,SN000750
-kgv-549-1,,kgv,549,kasuo,kasuo,,,,,,,,SN000752
-kgv-1329-1,,kgv,1329,kasur,kasur,,,,,,,,SN000754
-kgv-666-1,,kgv,666,kat,kat,,,,,,,,SN000756
-kgv-680-1,,kgv,680,kawar,kawar,,,,,,,,SN000763
-kgv-588-2,,kgv,588,kawarcie,kawarcie,,,,,,,,SN000767
-kgv-1436-1,,kgv,1436,kaware,kaware,,,,,,,,SN000768
-kgv-1470-2,,kgv,1470,kawarma,kawarma,,,,,,,,SN000770
-kgv-1013-2,,kgv,1013,kawarsuop,kawarsuop,,,,,,,,SN000771
-kgv-1161-1,,kgv,1161,kawas,kawas,,,,,,,,SN000773
-kgv-1531-2,,kgv,1531,kawat,kawat,,,,,,,,SN000774
-kgv-1470-3,,kgv,1470,kawetkawet,kawetkawet,,,,,,,,SN000776
-kgv-360-1,,kgv,360,kawiawi,kawiawi,,,,,,,,SN000777
-kgv-641-1,,kgv,641,kawien,kawien,,,,,,,,SN000778
-kgv-2130-1,,kgv,2130,kawier,kawier,,,,,,,,SN000779
-kgv-275-1,,kgv,275,kawotma,kawotma,,,,,,,,SN000781
-kgv-832-1,,kgv,832,kawuok,kawuok,,,,,,,,SN000782
-kgv-812-1,,kgv,812,ke,ke,,,,,,,,SN000786
-kgv-1179-1,,kgv,1179,keirko,keirko,,,,,,,,SN000794
-kgv-1753-1,,kgv,1753,keirun,keirun,,,,,,,,SN000795
-kgv-1753-2,,kgv,1753,*keit,*keit,,,,,,,,SN000798
-kgv-1180-1,,kgv,1180,keitar,keitar,,,,,,,,SN000799
-kgv-1741-1,,kgv,1741,keitko,keitko,,,,,,,,SN000801
-kgv-1753-3,,kgv,1753,keitko,keitko,,,,,,,,SN000802
-kgv-1886-1,,kgv,1886,keleng,keleng,,,,,,,,SN000805
-kgv-1247-1,,kgv,1247,kelkam,kelkam,,,,,,,,SN000808
-kgv-3634-1,,kgv,3634,kelkam,kelkam,,,,,,,,SN000809
-kgv-996-1,,kgv,996,kelkam toktok,kelkam_toktok,,,,,,,,SN000812
-kgv-1408-1,,kgv,1408,kelua,kelua,,,,,,,,SN000814
-kgv-1107-1,,kgv,1107,keluar,keluar,,,,,,,,SN000815
-kgv-2348-1,,kgv,2348,keluer,keluer,,,,,,,,SN000816
-kgv-1817-2,,kgv,1817,kemanur,kemanur,,,,,,,,SN000818
-kgv-1817-3,,kgv,1817,kemanurep,kemanurep,,,,,,,,SN000819
-kgv-1601-1,,kgv,1601,kememe,kememe,,,,,,,,SN000821
-kgv-112-1,,kgv,112,kerar,kerar,,,,,,,,SN000824
-kgv-156-1,,kgv,156,kerkap,kerkap,,,,,,,,SN000825
-kgv-1741-2,,kgv,1741,kerunggo,kerunggo,,,,,,,,SN000828
-kgv-1060-1,,kgv,1060,ketan,ketan,,,,,,,,SN000829
-kgv-506-1,,kgv,506,keteles,keteles,,,,,,,,SN000830
-kgv-1831-1,,kgv,1831,ketemu,ketemu,,,,,,,,SN000831
-kgv-1252-1,,kgv,1252,kewe,kewe,,,,,,,,SN000833
-kgv-1213-2,,kgv,1213,ki,ki,,,,,,,,SN000835
-kgv-1199-1,,kgv,1199,kian,kian,,,,,,,,SN000840
-kgv-1199-2,,kgv,1199,*kiar,*kiar,,,,,,,,SN000841
-kgv-1411-1,,kgv,1411,kidi,kidi,,,,,,,,SN000847
-kgv-1388-1,,kgv,1388,kiek,kiek,,,,,,,,SN000848
-kgv-1388-2,,kgv,1388,kiekter,kiekter,,,,,,,,SN000849
-kgv-670-1,,kgv,670,*kiel,*kiel,,,,,,,,SN000851
-kgv-670-2,,kgv,670,kielun,kielun,,,,,,,,SN000854
-kgv-1539-2,,kgv,1539,kiem,kiem,,,,,,,,SN000855
-kgv-1519-1,,kgv,1519,kiem,kiem,,,,,,,,SN000856
-kgv-1127-2,,kgv,1127,kiempanait,kiempanait,,,,,,,,SN000857
-kgv-787-1,,kgv,787,kier,kier,,,,,,,,SN000859
-kgv-2635-1,,kgv,2635,kier,kier,,,,,,,,SN000860
-kgv-1489-1,,kgv,1489,kierun,kierun,,,,,,,,SN000862
-kgv-228-1,,kgv,228,kies,kies,,,,,,,,SN000863
-kgv-1113-2,,kgv,1113,kies,kies,,,,,,,,SN000864
-kgv-1113-3,,kgv,1113,kies,kies,,,,,,,,SN000865
-kgv-1493-3,,kgv,1493,kieskon,kieskon,,,,,,,,SN000869
-kgv-676-1,,kgv,676,kiet,kiet,,,,,,,,SN000870
-kgv-675-1,,kgv,675,kiet,kiet,,,,,,,,SN000871
-kgv-676-2,,kgv,676,kietkiet,kietkiet,,,,,,,,SN000872
-kgv-1159-1,,kgv,1159,kietpo,kietpo,,,,,,,,SN000874
-kgv-2400-1,,kgv,2400,kin,kin,,,,,,,,SN000879
-kgv-1213-3,,kgv,1213,kinaninggan,kinaninggan,,,,,,,,SN000883
-kgv-787-2,,kgv,787,kinggir,kinggir,,,,,,,,SN000885
-kgv-1448-2,,kgv,1448,kinkin,kinkin,,,,,,,,SN000886
-kgv-1246-3,,kgv,1246,kinkin,kinkin,,,,,,,,SN000887
-kgv-1246-4,,kgv,1246,kinkinun,kinkinun,,,,,,,,SN000888
-kgv-203-2,,kgv,203,kion,kion,,,,,,,,SN000890
-kgv-730-1,,kgv,730,kip,kip,,,,,,,,SN000892
-kgv-2018-1,,kgv,2018,kir,kir,,,,,,,,SN000894
-kgv-3114-1,,kgv,3114,kir,kir,,,,,,,,SN000895
-kgv-682-2,,kgv,682,kir,kir,,,,,,,,SN000896
-kgv-682-3,,kgv,682,kirarun,kirarun,,,,,,,,SN000899
-kgv-801-1,,kgv,801,kirkangkang,kirkangkang,,,,,,,,SN000901
-kgv-1732-1,,kgv,1732,kisileng,kisileng,,,,,,,,SN000903
-kgv-598-1,,kgv,598,ko,ko,,,,,,,,SN000904
-kgv-319-1,,kgv,319,kobelen,kobelen,,,,,,,,SN000909
-kgv-1387-1,,kgv,1387,kobes,kobes,,,,,,,,SN000910
-kgv-204-1,,kgv,204,kodaet,kodaet,,,,,,,,SN000912
-kgv-2882-1,,kgv,2882,koder,koder,,,,,,,,SN000914
-kgv-1084-1,,kgv,1084,kodi,kodi,,,,,,,,SN000915
-kgv-646-1,,kgv,646,koep,koep,,,,,,,,SN000917
-kgv-1299-1,,kgv,1299,kofir,kofir,,,,,,,,SN000919
-kgv-204-2,,kgv,204,koi,koi,,,,,,,,SN000920
-kgv-2921-2,,kgv,2921,koi,koi,,,,,,,,SN000921
-kgv-1467-1,,kgv,1467,kokarap,kokarap,,,,,,,,SN000923
-kgv-1113-4,,kgv,1113,kokies,kokies,,,,,,,,SN000926
-kgv-1942-1,,kgv,1942,kokir,kokir,,,,,,,,SN000927
-kgv-1318-1,,kgv,1318,kokok,kokok,,,,,,,,SN000929
-kgv-1893-1,,kgv,1893,kokok ladok,kokok_ladok,,,,,,,,SN000930
-kgv-762-1,,kgv,762,*kol,*kol,,,,,,,,SN000933
-kgv-639-1,,kgv,639,kolak,kolak,,,,,,,,SN000934
-kgv-2795-1,,kgv,2795,kolambu,kolambu,,,,,,,,SN000935
-kgv-791-1,,kgv,791,kolet,kolet,,,,,,,,SN000936
-kgv-1730-1,,kgv,1730,koliep,koliep,,,,,,,,SN000938
-kgv-471-1,,kgv,471,kolkiem,kolkiem,,,,,,,,SN000940
-kgv-32-1,,kgv,32,kolkiet,kolkiet,,,,,,,,SN000941
-kgv-762-2,,kgv,762,kolko,kolko,,,,,,,,SN000942
-kgv-318-1,,kgv,318,kolkom,kolkom,,,,,,,,SN000944
-kgv-2325-2,,kgv,2325,kolo,kolo,,,,,,,,SN000945
-kgv-762-3,,kgv,762,kolpis,kolpis,,,,,,,,SN000947
-kgv-1831-2,,kgv,1831,koluk,koluk,,,,,,,,SN000950
-kgv-146-1,,kgv,146,kom,kom,,,,,,,,SN000951
-kgv-1456-1,,kgv,1456,komain,komain,,,,,,,,SN000953
-kgv-1324-1,,kgv,1324,komamun,komamun,,,,,,,,SN000954
-kgv-2102-2,,kgv,2102,komaruk,komaruk,,,,,,,,SN000958
-kgv-761-1,,kgv,761,komasabur,komasabur,,,,,,,,SN000959
-kgv-1409-1,,kgv,1409,kome,kome,,,,,,,,SN000962
-kgv-1819-1,,kgv,1819,kome,kome,,,,,,,,SN000963
-kgv-2102-3,,kgv,2102,komelek,komelek,,,,,,,,SN000964
-kgv-496-1,,kgv,496,komurkomur,komurkomur,,,,,,,,SN000967
-kgv-2904-1,,kgv,2904,komurkomur,komurkomur,,,,,,,,SN000968
-kgv-1493-4,,kgv,1493,kon,kon,,,,,,,,SN000969
-kgv-2271-1,,kgv,2271,kona,kona,,,,,,,,SN000972
-kgv-1409-2,,kgv,1409,kona,kona,,,,,,,,SN000973
-kgv-1560-3,,kgv,1560,konasur,konasur,,,,,,,,SN000975
-kgv-1523-1,,kgv,1523,konawaruo,konawaruo,,,,,,,,SN000976
-kgv-707-1,,kgv,707,konenen,konenen,,,,,,,,SN000979
-kgv-693-2,,kgv,693,=kongga,=kongga,,,,,,,,SN000981
-kgv-855-2,,kgv,855,konggelem,konggelem,,,,,,,,SN000984
-kgv-3703-1,,kgv,3703,kopol,kopol,,,,,,,,SN000987
-kgv-1297-1,,kgv,1297,kor,kor,,,,,,,,SN000988
-kgv-1403-1,,kgv,1403,koraruo,koraruo,,,,,,,,SN000993
-kgv-1443-1,,kgv,1443,korgi marmar,korgi_marmar,,,,,,,,SN000996
-kgv-803-1,,kgv,803,korkasir,korkasir,,,,,,,,SN000998
-kgv-498-1,,kgv,498,kormul,kormul,,,,,,,,SN001003
-kgv-1371-1,,kgv,1371,korpak,korpak,,,,,,,,SN001006
-kgv-1389-1,,kgv,1389,korparokparok,korparokparok,,,,,,,,SN001007
-kgv-186-1,,kgv,186,korus,korus,,,,,,,,SN001010
-kgv-479-1,,kgv,479,kos,kos,,,,,,,,SN001011
-kgv-1264-1,,kgv,1264,kosalir,kosalir,,,,,,,,SN001012
-kgv-1433-1,,kgv,1433,kosara,kosara,,,,,,,,SN001014
-kgv-1596-1,,kgv,1596,koser,koser,,,,,,,,SN001017
-kgv-1472-1,,kgv,1472,koser,koser,,,,,,,,SN001018
-kgv-1452-2,,kgv,1452,kosiaur,kosiaur,,,,,,,,SN001019
-kgv-1421-1,,kgv,1421,kosom,kosom,,,,,,,,SN001022
-kgv-161-1,,kgv,161,kotipol,kotipol,,,,,,,,SN001028
-kgv-1230-1,,kgv,1230,kotur,kotur,,,,,,,,SN001029
-kgv-25-1,,kgv,25,kotur,kotur,,,,,,,,SN001030
-kgv-175-1,,kgv,175,kou,kou,,,,,,,,SN001031
-kgv-1267-1,,kgv,1267,kou,kou,,,,,,,,SN001032
-kgv-928-1,,kgv,928,koup,koup,,,,,,,,SN001033
-kgv-2223-4,,kgv,2223,kouran,kouran,,,,,,,,SN001034
-kgv-957-1,,kgv,957,kowam,kowam,,,,,,,,SN001039
-kgv-378-1,,kgv,378,kowaram,kowaram,,,,,,,,SN001042
-kgv-272-1,,kgv,272,kowaram,kowaram,,,,,,,,SN001043
-kgv-1264-2,,kgv,1264,kowat,kowat,,,,,,,,SN001046
-kgv-153-1,,kgv,153,kowewep,kowewep,,,,,,,,SN001047
-kgv-1486-1,,kgv,1486,koya,koya,,,,,,,,SN001048
-kgv-2017-2,,kgv,2017,koyal,koyal,,,,,,,,SN001050
-kgv-1767-1,,kgv,1767,koyal,koyal,,,,,,,,SN001051
-kgv-1046-1,,kgv,1046,koyen,koyen,,,,,,,,SN001053
-kgv-1102-1,,kgv,1102,koyos,koyos,,,,,,,,SN001055
-kgv-1951-1,,kgv,1951,kuang,kuang,,,,,,,,SN001057
-kgv-1100-1,,kgv,1100,kuar,kuar,,,,,,,,SN001058
-kgv-785-1,,kgv,785,kuat,kuat,,,,,,,,SN001059
-kgv-1598-1,,kgv,1598,kuawi,kuawi,,,,,,,,SN001060
-kgv-1773-1,,kgv,1773,kubir,kubir,,,,,,,,SN001062
-kgv-3284-1,,kgv,3284,kubirar,kubirar,,,,,,,,SN001063
-kgv-615-1,,kgv,615,kuda,kuda,,,,,,,,SN001065
-kgv-713-2,,kgv,713,kuek,kuek,,,,,,,,SN001069
-kgv-235-1,,kgv,235,kuek,kuek,,,,,,,,SN001070
-kgv-692-2,,kgv,692,kuet,kuet,,,,,,,,SN001072
-kgv-2502-1,,kgv,2502,kulikuli,kulikuli,,,,,,,,SN001078
-kgv-763-1,,kgv,763,kulun,kulun,,,,,,,,SN001081
-kgv-735-1,,kgv,735,kumbai,kumbai,,,,,,,,SN001082
-kgv-1553-1,,kgv,1553,kumkum,kumkum,,,,,,,,SN001083
-kgv-1479-1,,kgv,1479,kurap,kurap,,,,,,,,SN001089
-kgv-86-1,,kgv,86,kurera,kurera,,,,,,,,SN001090
-kgv-2581-1,,kgv,2581,kurera,kurera,,,,,,,,SN001092
-kgv-692-3,,kgv,692,kuru,kuru,,,,,,,,SN001094
-kgv-1188-1,,kgv,1188,kus,kus,,,,,,,,SN001096
-kgv-163-1,,kgv,163,kuskap,kuskap,,,,,,,,SN001097
-kgv-1622-1,,kgv,1622,ladan,ladan,,,,,,,,SN001102
-kgv-615-2,,kgv,615,lajarang,lajarang,,,,,,,,SN001103
-kgv-1286-1,,kgv,1286,lalang,lalang,,,,,,,,SN001105
-kgv-1494-1,,kgv,1494,lalat,lalat,,,,,,,,SN001106
-kgv-3011-1,,kgv,3011,laluon,laluon,,,,,,,,SN001107
-kgv-625-2,,kgv,625,lampur,lampur,,,,,,,,SN001111
-kgv-3699-2,,kgv,3699,langjut,langjut,,,,,,,,SN001118
-kgv-1423-1,,kgv,1423,langka,langka,,,,,,,,SN001119
-kgv-750-2,,kgv,750,lapas,lapas,,,,,,,,SN001123
-kgv-1227-1,,kgv,1227,lat,lat,,,,,,,,SN001126
-kgv-2124-3,,kgv,2124,lauk,lauk,,,,,,,,SN001127
-kgv-1107-2,,kgv,1107,lauk,lauk,,,,,,,,SN001128
-kgv-2493-1,,kgv,2493,laur,laur,,,,,,,,SN001129
-kgv-1243-1,,kgv,1243,laus,laus,,,,,,,,SN001132
-kgv-1474-1,,kgv,1474,laut,laut,,,,,,,,SN001133
-kgv-2951-1,,kgv,2951,lawalawat,lawalawat,,,,,,,,SN001135
-kgv-804-1,,kgv,804,lawarun,lawarun,,,,,,,,SN001138
-kgv-149-1,,kgv,149,layier,layier,,,,,,,,SN001143
-kgv-1992-1,,kgv,1992,lebe,lebe,,,,,,,,SN001147
-kgv-1508-1,,kgv,1508,leit,leit,,,,,,,,SN001149
-kgv-1306-1,,kgv,1306,leit pas,leit_pas,,,,,,,,SN001150
-kgv-1502-1,,kgv,1502,lek,lek,,,,,,,,SN001151
-kgv-1350-1,,kgv,1350,leki,leki,,,,,,,,SN001153
-kgv-1128-1,,kgv,1128,lem,lem,,,,,,,,SN001155
-kgv-1281-1,,kgv,1281,lembaga,lembaga,,,,,,,,SN001158
-kgv-622-1,,kgv,622,lempuang,lempuang,,,,,,,,SN001160
-kgv-6-1,,kgv,6,leng dek,leng_dek,,,,,,,,SN001165
-kgv-919-1,,kgv,919,lenggalengga,lenggalengga,,,,,,,,SN001166
-kgv-829-1,,kgv,829,lepir,lepir,,,,,,,,SN001170
-kgv-1951-2,,kgv,1951,lewat,lewat,,,,,,,,SN001174
-kgv-1234-1,,kgv,1234,licing,licing,,,,,,,,SN001175
-kgv-1325-1,,kgv,1325,lidan,lidan,,,,,,,,SN001176
-kgv-3155-1,,kgv,3155,linggis,linggis,,,,,,,,SN001178
-kgv-1754-1,,kgv,1754,liti,liti,,,,,,,,SN001179
-kgv-1117-2,,kgv,1117,lo,lo,,,,,,,,SN001180
-kgv-702-1,,kgv,702,loku,loku,,,,,,,,SN001185
-kgv-1204-1,,kgv,1204,lokul,lokul,,,,,,,,SN001186
-kgv-628-1,,kgv,628,lolok,lolok,,,,,,,,SN001187
-kgv-1559-1,,kgv,1559,lolok,lolok,,,,,,,,SN001188
-kgv-1667-1,,kgv,1667,lolouk,lolouk,,,,,,,,SN001189
-kgv-1650-2,,kgv,1650,loncing,loncing,,,,,,,,SN001190
-kgv-1011-1,,kgv,1011,los,los,,,,,,,,SN001194
-kgv-1287-1,,kgv,1287,lu,lu,,,,,,,,SN001199
-kgv-1446-1,,kgv,1446,luk,luk,,,,,,,,SN001202
-kgv-1905-1,,kgv,1905,lusi,lusi,,,,,,,,SN001203
-kgv-1211-1,,kgv,1211,ma,ma,,,,,,,,SN001206
-kgv-1463-1,,kgv,1463,mabuk,mabuk,,,,,,,,SN001211
-kgv-214-1,,kgv,214,madong,madong,,,,,,,,SN001212
-kgv-98-3,,kgv,98,-mahap,-mahap,,,,,,,,SN001214
-kgv-2473-1,,kgv,2473,main,main,,,,,,,,SN001217
-kgv-3537-1,,kgv,3537,malaouk,malaouk,,,,,,,,SN001225
-kgv-1848-1,,kgv,1848,malawan,malawan,,,,,,,,SN001226
-kgv-1965-2,,kgv,1965,malor,malor,,,,,,,,SN001231
-kgv-1939-1,,kgv,1939,malu,malu,,,,,,,,SN001232
-kgv-1327-3,,kgv,1327,mama,mama,,,,,,,,SN001234
-kgv-1216-2,,kgv,1216,mama,mama,,,,,,,,SN001235
-kgv-1327-4,,kgv,1327,mama caun,mama_caun,,,,,,,,SN001236
-kgv-1327-5,,kgv,1327,mama temun,mama_temun,,,,,,,,SN001237
-kgv-1442-1,,kgv,1442,mambara,mambara,,,,,,,,SN001238
-kgv-1937-1,,kgv,1937,mambon,mambon,,,,,,,,SN001239
-kgv-3260-1,,kgv,3260,mamor,mamor,,,,,,,,SN001241
-kgv-1752-1,,kgv,1752,mamun,mamun,,,,,,,,SN001242
-kgv-351-1,,kgv,351,manadu,manadu,,,,,,,,SN001244
-kgv-887-1,,kgv,887,mang,mang,,,,,,,,SN001245
-kgv-1307-1,,kgv,1307,mang,mang,,,,,,,,SN001246
-kgv-2502-2,,kgv,2502,manggamangga,manggamangga,,,,,,,,SN001247
-kgv-357-1,,kgv,357,manggang,manggang,,,,,,,,SN001248
-kgv-96-3,,kgv,96,manggaren,manggaren,,,,,,,,SN001249
-kgv-1520-1,,kgv,1520,maraok,maraok,,,,,,,,SN001262
-kgv-998-1,,kgv,998,maraouk,maraouk,,,,,,,,SN001263
-kgv-1398-2,,kgv,1398,mararak,mararak,,,,,,,,SN001264
-kgv-1369-1,,kgv,1369,marau,marau,,,,,,,,SN001265
-kgv-1443-2,,kgv,1443,marmar,marmar,,,,,,,,SN001266
-kgv-1432-1,,kgv,1432,marum,marum,,,,,,,,SN001269
-kgv-208-1,,kgv,208,marur,marur,,,,,,,,SN001270
-kgv-3364-1,,kgv,3364,masa,masa,,,,,,,,SN001272
-kgv-501-2,,kgv,501,masak,masak,,,,,,,,SN001273
-kgv-1735-1,,kgv,1735,masarut,masarut,,,,,,,,SN001277
-kgv-1538-1,,kgv,1538,masawin,masawin,,,,,,,,SN001278
-kgv-1430-1,,kgv,1430,maser,maser,,,,,,,,SN001279
-kgv-3032-1,,kgv,3032,maser,maser,,,,,,,,SN001280
-kgv-1603-1,,kgv,1603,masikit,masikit,,,,,,,,SN001281
-kgv-1977-1,,kgv,1977,masinul,masinul,,,,,,,,SN001282
-kgv-3548-1,,kgv,3548,masir,masir,,,,,,,,SN001283
-kgv-2934-1,,kgv,2934,masoi,masoi,,,,,,,,SN001284
-kgv-749-1,,kgv,749,masuk,masuk,,,,,,,,SN001288
-kgv-206-3,,kgv,206,mata dimdim,mata_dimdim,,,,,,,,SN001291
-kgv-750-3,,kgv,750,matur,matur,,,,,,,,SN001293
-kgv-1784-1,,kgv,1784,mau,mau,,,,,,,,SN001294
-kgv-2004-1,,kgv,2004,maulma,maulma,,,,,,,,SN001297
-kgv-1244-1,,kgv,1244,mawal,mawal,,,,,,,,SN001298
-kgv-3537-2,,kgv,3537,mayilma,mayilma,,,,,,,,SN001300
-kgv-78-3,,kgv,78,me,me,,,,,,,,SN001301
-kgv-1719-2,,kgv,1719,mecua,mecua,,,,,,,,SN001303
-kgv-1446-2,,kgv,1446,mei,mei,,,,,,,,SN001304
-kgv-1775-1,,kgv,1775,meja,meja,,,,,,,,SN001305
-kgv-1416-1,,kgv,1416,meleluo,meleluo,,,,,,,,SN001309
-kgv-703-1,,kgv,703,mena,mena,,,,,,,,SN001310
-kgv-1536-1,,kgv,1536,mengerti,mengerti,,,,,,,,SN001313
-kgv-1937-2,,kgv,1937,mengga,mengga,,,,,,,,SN001314
-kgv-1261-1,,kgv,1261,menyanyi,menyanyi,,,,,,,,SN001315
-kgv-2921-3,,kgv,2921,mera,mera,,,,,,,,SN001316
-kgv-1907-1,,kgv,1907,merar,merar,,,,,,,,SN001318
-kgv-7-1,,kgv,7,merengguen,merengguen,,,,,,,,SN001320
-kgv-1916-1,,kgv,1916,mesang,mesang,,,,,,,,SN001323
-kgv-78-4,,kgv,78,met,met,,,,,,,,SN001325
-kgv-1937-3,,kgv,1937,metko,metko,,,,,,,,SN001326
-kgv-1446-3,,kgv,1446,mia,mia,,,,,,,,SN001327
-kgv-2635-2,,kgv,2635,mier,mier,,,,,,,,SN001331
-kgv-1429-2,,kgv,1429,mikon,mikon,,,,,,,,SN001332
-kgv-1585-1,,kgv,1585,min,min,,,,,,,,SN001333
-kgv-1224-1,,kgv,1224,min,min,,,,,,,,SN001334
-kgv-802-1,,kgv,802,minar,minar,,,,,,,,SN001335
-kgv-1484-1,,kgv,1484,ming,ming,,,,,,,,SN001337
-kgv-1663-1,,kgv,1663,minggalot,minggalot,,,,,,,,SN001338
-kgv-1983-1,,kgv,1983,minggaruk,minggaruk,,,,,,,,SN001339
-kgv-1469-1,,kgv,1469,minggu,minggu,,,,,,,,SN001341
-kgv-1401-1,,kgv,1401,minum,minum,,,,,,,,SN001344
-kgv-1261-2,,kgv,1261,mirik,mirik,,,,,,,,SN001346
-kgv-1096-1,,kgv,1096,mirik,mirik,,,,,,,,SN001347
-kgv-1493-5,,kgv,1493,mirkon,mirkon,,,,,,,,SN001348
-kgv-1268-3,,kgv,1268,m'm,m'm,,,,,,,,SN001350
-kgv-1631-1,,kgv,1631,mon,mon,,,,,,,,SN001354
-kgv-1564-3,,kgv,1564,monkaret,monkaret,,,,,,,,SN001355
-kgv-1906-1,,kgv,1906,mor,mor,,,,,,,,SN001356
-kgv-2486-1,,kgv,2486,mormor,mormor,,,,,,,,SN001358
-kgv-2077-1,,kgv,2077,mososor,mososor,,,,,,,,SN001360
-kgv-691-1,,kgv,691,mosun,mosun,,,,,,,,SN001361
-kgv-110-1,,kgv,110,motor,motor,,,,,,,,SN001362
-kgv-817-1,,kgv,817,mu,mu,,,,,,,,SN001363
-kgv-1336-2,,kgv,1336,muap,muap,,,,,,,,SN001364
-kgv-256-1,,kgv,256,muap,muap,,,,,,,,SN001365
-kgv-2802-1,,kgv,2802,muap sabur sangganun,muap_sabur_sangganun,,,,,,,,SN001368
-kgv-1100-2,,kgv,1100,muawaruo,muawaruo,,,,,,,,SN001370
-kgv-1533-2,,kgv,1533,muawese,muawese,,,,,,,,SN001371
-kgv-1456-2,,kgv,1456,mudi,mudi,,,,,,,,SN001373
-kgv-2400-2,,kgv,2400,muin,muin,,,,,,,,SN001375
-kgv-1533-3,,kgv,1533,muisese,muisese,,,,,,,,SN001376
-kgv-668-1,,kgv,668,muk,muk,,,,,,,,SN001379
-kgv-1909-1,,kgv,1909,mukmuk,mukmuk,,,,,,,,SN001381
-kgv-682-4,,kgv,682,*mul,*mul,,,,,,,,SN001382
-kgv-1681-1,,kgv,1681,muler,muler,,,,,,,,SN001383
-kgv-682-5,,kgv,682,mulun,mulun,,,,,,,,SN001385
-kgv-1728-2,,kgv,1728,mun,mun,,,,,,,,SN001387
-kgv-1392-1,,kgv,1392,mun,mun,,,,,,,,SN001389
-kgv-813-1,,kgv,813,-mun,-mun,,,,,,,,SN001390
-kgv-267-1,,kgv,267,mun sunsun,mun_sunsun,,,,,,,,SN001391
-kgv-2787-1,,kgv,2787,na,na,,,,,,,,SN001408
-kgv-724-1,,kgv,724,nabaca,nabaca,,,,,,,,SN001410
-kgv-1275-2,,kgv,1275,nabalas,nabalas,,,,,,,,SN001411
-kgv-750-4,,kgv,750,naberuak,naberuak,,,,,,,,SN001413
-kgv-1156-3,,kgv,1156,nabuka,nabuka,,,,,,,,SN001417
-kgv-827-1,,kgv,827,nabulis,nabulis,,,,,,,,SN001418
-kgv-1711-2,,kgv,1711,nacerita,nacerita,,,,,,,,SN001419
-kgv-1812-3,,kgv,1812,nacoba,nacoba,,,,,,,,SN001420
-kgv-133-2,,kgv,133,nadadi,nadadi,,,,,,,,SN001421
-kgv-1452-3,,kgv,1452,nadorong,nadorong,,,,,,,,SN001422
-kgv-2271-2,,kgv,2271,nafikir,nafikir,,,,,,,,SN001426
-kgv-1420-1,,kgv,1420,nahitung,nahitung,,,,,,,,SN001432
-kgv-3030-1,,kgv,3030,naiar,naiar,,,,,,,,SN001433
-kgv-1117-3,,kgv,1117,nain,nain,,,,,,,,SN001434
-kgv-84-1,,kgv,84,nak=,nak=,,,,,,,,SN001437
-kgv-1256-1,,kgv,1256,nakal,nakal,,,,,,,,SN001440
-kgv-1127-3,,kgv,1127,nakirim,nakirim,,,,,,,,SN001442
-kgv-2067-1,,kgv,2067,nakukus,nakukus,,,,,,,,SN001444
-kgv-3119-1,,kgv,3119,naladur,naladur,,,,,,,,SN001445
-kgv-1494-2,,kgv,1494,nalat,nalat,,,,,,,,SN001446
-kgv-225-1,,kgv,225,naloli,naloli,,,,,,,,SN001447
-kgv-2290-1,,kgv,2290,nam,nam,,,,,,,,SN001449
-kgv-1200-1,,kgv,1200,*nam,*nam,,,,,,,,SN001450
-kgv-1593-1,,kgv,1593,naman,naman,,,,,,,,SN001452
-kgv-1235-1,,kgv,1235,naman,naman,,,,,,,,SN001453
-kgv-1597-2,,kgv,1597,namandi,namandi,,,,,,,,SN001454
-kgv-1560-4,,kgv,1560,namangadap,namangadap,,,,,,,,SN001455
-kgv-85-1,,kgv,85,namasuk,namasuk,,,,,,,,SN001457
-kgv-1875-1,,kgv,1875,namenyasal,namenyasal,,,,,,,,SN001459
-kgv-554-1,,kgv,554,namot,namot,,,,,,,,SN001462
-kgv-1336-3,,kgv,1336,nanetkon,nanetkon,,,,,,,,SN001468
-kgv-1261-3,,kgv,1261,nanggan,nanggan,,,,,,,,SN001469
-kgv-98-4,,kgv,98,-naninggan,-naninggan,,,,,,,,SN001470
-kgv-1493-6,,kgv,1493,naon,naon,,,,,,,,SN001471
-kgv-976-1,,kgv,976,napaki,napaki,,,,,,,,SN001472
-kgv-1436-2,,kgv,1436,naparis,naparis,,,,,,,,SN001473
-kgv-765-1,,kgv,765,napinda,napinda,,,,,,,,SN001475
-kgv-1823-1,,kgv,1823,napinjam,napinjam,,,,,,,,SN001476
-kgv-1823-2,,kgv,1823,napinjang,napinjang,,,,,,,,SN001477
-kgv-680-2,,kgv,680,naputus,naputus,,,,,,,,SN001478
-kgv-744-1,,kgv,744,nar,nar,,,,,,,,SN001479
-kgv-715-1,,kgv,715,narabir,narabir,,,,,,,,SN001481
-kgv-1449-1,,kgv,1449,naram,naram,,,,,,,,SN001482
-kgv-1414-1,,kgv,1414,naramas,naramas,,,,,,,,SN001483
-kgv-855-3,,kgv,855,narampas,narampas,,,,,,,,SN001484
-kgv-1423-2,,kgv,1423,naras,naras,,,,,,,,SN001486
-kgv-21-1,,kgv,21,narasa,narasa,,,,,,,,SN001487
-kgv-21-2,,kgv,21,narasaun,narasaun,,,,,,,,SN001488
-kgv-1420-2,,kgv,1420,narekin,narekin,,,,,,,,SN001490
-kgv-1493-7,,kgv,1493,narkon,narkon,,,,,,,,SN001493
-kgv-2030-1,,kgv,2030,narorar,narorar,,,,,,,,SN001496
-kgv-1264-3,,kgv,1264,naruba,naruba,,,,,,,,SN001498
-kgv-744-2,,kgv,744,narun,narun,,,,,,,,SN001499
-kgv-2862-1,,kgv,2862,nasambung,nasambung,,,,,,,,SN001504
-kgv-3619-1,,kgv,3619,nasandar,nasandar,,,,,,,,SN001505
-kgv-2904-2,,kgv,2904,nasanggur,nasanggur,,,,,,,,SN001507
-kgv-1455-2,,kgv,1455,naseduk,naseduk,,,,,,,,SN001509
-kgv-613-1,,kgv,613,nasesak,nasesak,,,,,,,,SN001511
-kgv-1487-2,,kgv,1487,nasirang,nasirang,,,,,,,,SN001513
-kgv-2493-2,,kgv,2493,nasomit,nasomit,,,,,,,,SN001515
-kgv-1437-1,,kgv,1437,nasuarik,nasuarik,,,,,,,,SN001516
-kgv-862-3,,kgv,862,nasuena,nasuena,,,,,,,,SN001518
-kgv-1879-1,,kgv,1879,nasula,nasula,,,,,,,,SN001520
-kgv-1720-2,,kgv,1720,natanda,natanda,,,,,,,,SN001524
-kgv-1550-1,,kgv,1550,natangkis,natangkis,,,,,,,,SN001525
-kgv-1875-2,,kgv,1875,natobat,natobat,,,,,,,,SN001529
-kgv-3684-1,,kgv,3684,natuka,natuka,,,,,,,,SN001531
-kgv-1434-1,,kgv,1434,natukar,natukar,,,,,,,,SN001532
-kgv-1672-1,,kgv,1672,natulis,natulis,,,,,,,,SN001533
-kgv-1590-1,,kgv,1590,natunggu,natunggu,,,,,,,,SN001535
-kgv-1640-1,,kgv,1640,naukia,naukia,,,,,,,,SN001541
-kgv-1640-2,,kgv,1640,naukiaka,naukiaka,,,,,,,,SN001542
-kgv-1831-3,,kgv,1831,nauleluk,nauleluk,,,,,,,,SN001544
-kgv-1228-1,,kgv,1228,naun,naun,,,,,,,,SN001545
-kgv-1507-1,,kgv,1507,naun,naun,,,,,,,,SN001546
-kgv-1399-1,,kgv,1399,naun kerkap,naun_kerkap,,,,,,,,SN001547
-kgv-1039-2,,kgv,1039,naunak,naunak,,,,,,,,SN001548
-kgv-2248-1,,kgv,2248,naunin,naunin,,,,,,,,SN001549
-kgv-1720-3,,kgv,1720,naunin,naunin,,,,,,,,SN001550
-kgv-1339-1,,kgv,1339,naupar,naupar,,,,,,,,SN001551
-kgv-1444-1,,kgv,1444,naurar,naurar,,,,,,,,SN001552
-kgv-2208-1,,kgv,2208,nausair,nausair,,,,,,,,SN001553
-kgv-2964-1,,kgv,2964,nauwar,nauwar,,,,,,,,SN001554
-kgv-581-1,,kgv,581,nawali,nawali,,,,,,,,SN001556
-kgv-3669-1,,kgv,3669,nawanen,nawanen,,,,,,,,SN001558
-kgv-1590-2,,kgv,1590,nawanggar,nawanggar,,,,,,,,SN001559
-kgv-1265-1,,kgv,1265,nawarir,nawarir,,,,,,,,SN001562
-kgv-813-2,,kgv,813,nawerar,nawerar,,,,,,,,SN001565
-kgv-1236-2,,kgv,1236,neba,neba,,,,,,,,SN001569
-kgv-1606-1,,kgv,1606,neko,neko,,,,,,,,SN001574
-kgv-2353-1,,kgv,2353,nene,nene,,,,,,,,SN001576
-kgv-1236-3,,kgv,1236,nenggap,nenggap,,,,,,,,SN001577
-kgv-1606-2,,kgv,1606,*ner,*ner,,,,,,,,SN001578
-kgv-1606-3,,kgv,1606,nerun,nerun,,,,,,,,SN001579
-kgv-1606-4,,kgv,1606,nerunggo,nerunggo,,,,,,,,SN001580
-kgv-200-1,,kgv,200,newa,newa,,,,,,,,SN001581
-kgv-718-1,,kgv,718,newer,newer,,,,,,,,SN001583
-kgv-19-1,,kgv,19,nika,nika,,,,,,,,SN001585
-kgv-2432-2,,kgv,2432,nika,nika,,,,,,,,SN001586
-kgv-1496-2,,kgv,1496,nina,nina,,,,,,,,SN001588
-kgv-2561-1,,kgv,2561,ning,ning,,,,,,,,SN001590
-kgv-1986-1,,kgv,1986,ning,ning,,,,,,,,SN001591
-kgv-48-1,,kgv,48,nokin,nokin,,,,,,,,SN001592
-kgv-55-1,,kgv,55,noknok,noknok,,,,,,,,SN001593
-kgv-1356-2,,kgv,1356,numur,numur,,,,,,,,SN001596
-kgv-2879-2,,kgv,2879,nun,nun,,,,,,,,SN001597
-kgv-2486-2,,kgv,2486,nung,nung,,,,,,,,SN001598
-kgv-2063-1,,kgv,2063,nunun,nunun,,,,,,,,SN001600
-kgv-1096-2,,kgv,1096,nyanyi,nyanyi,,,,,,,,SN001601
-kgv-1143-1,,kgv,1143,ofin,ofin,,,,,,,,SN001605
-kgv-628-2,,kgv,628,*ol,*ol,,,,,,,,SN001609
-kgv-628-3,,kgv,628,olun,olun,,,,,,,,SN001611
-kgv-1283-1,,kgv,1283,opa yuwa,opa_yuwa,,,,,,,,SN001616
-kgv-1376-1,,kgv,1376,opatun,opatun,,,,,,,,SN001617
-kgv-1220-1,,kgv,1220,or,or,,,,,,,,SN001618
-kgv-892-1,,kgv,892,oras,oras,,,,,,,,SN001620
-kgv-1220-2,,kgv,1220,orun,orun,,,,,,,,SN001622
-kgv-671-1,,kgv,671,os,os,,,,,,,,SN001623
-kgv-1591-1,,kgv,1591,osa,osa,,,,,,,,SN001627
-kgv-3460-1,,kgv,3460,osep,osep,,,,,,,,SN001629
-kgv-168-2,,kgv,168,osie,osie,,,,,,,,SN001630
-kgv-1280-1,,kgv,1280,our,our,,,,,,,,SN001636
-kgv-3411-1,,kgv,3411,owa,owa,,,,,,,,SN001637
-kgv-3411-2,,kgv,3411,owangga,owangga,,,,,,,,SN001638
-kgv-3411-3,,kgv,3411,owatko,owatko,,,,,,,,SN001639
-kgv-1441-1,,kgv,1441,pabalet,pabalet,,,,,,,,SN001640
-kgv-465-1,,kgv,465,pabie,pabie,,,,,,,,SN001641
-kgv-1763-1,,kgv,1763,pabiep,pabiep,,,,,,,,SN001642
-kgv-281-1,,kgv,281,paden,paden,,,,,,,,SN001644
-kgv-2026-1,,kgv,2026,padi,padi,,,,,,,,SN001648
-kgv-1156-4,,kgv,1156,paherma,paherma,,,,,,,,SN001651
-kgv-321-1,,kgv,321,pak,pak,,,,,,,,SN001654
-kgv-1313-1,,kgv,1313,pak,pak,,,,,,,,SN001655
-kgv-1896-1,,kgv,1896,pak,pak,,,,,,,,SN001658
-kgv-3691-1,,kgv,3691,pak talawak,pak_talawak,,,,,,,,SN001660
-kgv-3690-1,,kgv,3690,pak tubak,pak_tubak,,,,,,,,SN001661
-kgv-1043-1,,kgv,1043,pakpak,pakpak,,,,,,,,SN001663
-kgv-3306-1,,kgv,3306,paku,paku,,,,,,,,SN001667
-kgv-3702-1,,kgv,3702,palawak,palawak,,,,,,,,SN001669
-kgv-1440-1,,kgv,1440,palom,palom,,,,,,,,SN001671
-kgv-1440-2,,kgv,1440,palom,palom,,,,,,,,SN001672
-kgv-2984-1,,kgv,2984,*pan,*pan,,,,,,,,SN001673
-kgv-31-2,,kgv,31,panci,panci,,,,,,,,SN001674
-kgv-1614-1,,kgv,1614,pang,pang,,,,,,,,SN001677
-kgv-1573-1,,kgv,1573,panggala,panggala,,,,,,,,SN001679
-kgv-925-1,,kgv,925,panggala,panggala,,,,,,,,SN001680
-kgv-1158-1,,kgv,1158,panggat,panggat,,,,,,,,SN001682
-kgv-2247-1,,kgv,2247,panggatpanggat,panggatpanggat,,,,,,,,SN001684
-kgv-2273-1,,kgv,2273,panggawangga,panggawangga,,,,,,,,SN001685
-kgv-1309-2,,kgv,1309,paning,paning,,,,,,,,SN001687
-kgv-1128-2,,kgv,1128,panok,panok,,,,,,,,SN001688
-kgv-1128-3,,kgv,1128,panok,panok,,,,,,,,SN001689
-kgv-640-1,,kgv,640,paos,paos,,,,,,,,SN001693
-kgv-735-2,,kgv,735,parai,parai,,,,,,,,SN001694
-kgv-1437-2,,kgv,1437,parair,parair,,,,,,,,SN001695
-kgv-8-1,,kgv,8,parambura,parambura,,,,,,,,SN001696
-kgv-1432-2,,kgv,1432,paramua,paramua,,,,,,,,SN001697
-kgv-1857-1,,kgv,1857,paramuang,paramuang,,,,,,,,SN001698
-kgv-1942-2,,kgv,1942,paransik,paransik,,,,,,,,SN001700
-kgv-1441-2,,kgv,1441,pararuo,pararuo,,,,,,,,SN001704
-kgv-67-2,,kgv,67,paras,paras,,,,,,,,SN001705
-kgv-1571-1,,kgv,1571,parein,parein,,,,,,,,SN001706
-kgv-657-1,,kgv,657,pareinun,pareinun,,,,,,,,SN001707
-kgv-1085-1,,kgv,1085,pareir,pareir,,,,,,,,SN001708
-kgv-1998-1,,kgv,1998,parenta,parenta,,,,,,,,SN001709
-kgv-72-1,,kgv,72,paritman,paritman,,,,,,,,SN001710
-kgv-2339-1,,kgv,2339,parlu,parlu,,,,,,,,SN001711
-kgv-1389-2,,kgv,1389,parok,parok,,,,,,,,SN001712
-kgv-2148-1,,kgv,2148,parua,parua,,,,,,,,SN001714
-kgv-750-5,,kgv,750,paruak,paruak,,,,,,,,SN001715
-kgv-1257-1,,kgv,1257,parun,parun,,,,,,,,SN001716
-kgv-813-3,,kgv,813,paruo,paruo,,,,,,,,SN001717
-kgv-1752-2,,kgv,1752,paruok,paruok,,,,,,,,SN001718
-kgv-962-1,,kgv,962,pas,pas,,,,,,,,SN001720
-kgv-926-1,,kgv,926,pasa,pasa,,,,,,,,SN001723
-kgv-633-1,,kgv,633,pasar,pasar,,,,,,,,SN001724
-kgv-676-3,,kgv,676,pasienggara bot,pasienggara_bot,,,,,,,,SN001727
-kgv-1474-2,,kgv,1474,pasier,pasier,,,,,,,,SN001729
-kgv-113-1,,kgv,113,pasierbol,pasierbol,,,,,,,,SN001731
-kgv-70-1,,kgv,70,pasirwasir,pasirwasir,,,,,,,,SN001732
-kgv-1756-1,,kgv,1756,paskot,paskot,,,,,,,,SN001733
-kgv-991-1,,kgv,991,pasor,pasor,,,,,,,,SN001734
-kgv-3024-1,,kgv,3024,pasparin,pasparin,,,,,,,,SN001735
-kgv-1457-1,,kgv,1457,pat,pat,,,,,,,,SN001736
-kgv-1257-2,,kgv,1257,pat,pat,,,,,,,,SN001737
-kgv-497-1,,kgv,497,patin ter,patin_ter,,,,,,,,SN001740
-kgv-1227-2,,kgv,1227,pawan,pawan,,,,,,,,SN001744
-kgv-2006-1,,kgv,2006,payiem,payiem,,,,,,,,SN001746
-kgv-780-2,,kgv,780,-pe,-pe,,,,,,,,SN001747
-kgv-962-2,,kgv,962,pebis,pebis,,,,,,,,SN001749
-kgv-1966-1,,kgv,1966,pel,pel,,,,,,,,SN001753
-kgv-184-1,,kgv,184,peler,peler,,,,,,,,SN001757
-kgv-717-1,,kgv,717,pen,pen,,,,,,,,SN001758
-kgv-1986-2,,kgv,1986,penyakit,penyakit,,,,,,,,SN001759
-kgv-1337-1,,kgv,1337,pep,pep,,,,,,,,SN001761
-kgv-948-1,,kgv,948,per,per,,,,,,,,SN001764
-kgv-1373-1,,kgv,1373,per kerkap,per_kerkap,,,,,,,,SN001766
-kgv-1299-2,,kgv,1299,per kuskap,per_kuskap,,,,,,,,SN001767
-kgv-2352-1,,kgv,2352,per paiwai,per_paiwai,,,,,,,,SN001769
-kgv-3463-1,,kgv,3463,perbol,perbol,,,,,,,,SN001771
-kgv-943-1,,kgv,943,perki,perki,,,,,,,,SN001772
-kgv-1651-1,,kgv,1651,pertam,pertam,,,,,,,,SN001774
-kgv-2983-1,,kgv,2983,perusahan,perusahan,,,,,,,,SN001775
-kgv-763-2,,kgv,763,pes,pes,,,,,,,,SN001777
-kgv-1597-3,,kgv,1597,pesawat,pesawat,,,,,,,,SN001778
-kgv-909-1,,kgv,909,pespes,pespes,,,,,,,,SN001780
-kgv-1465-1,,kgv,1465,peti,peti,,,,,,,,SN001781
-kgv-1212-2,,kgv,1212,pi,pi,,,,,,,,SN001782
-kgv-2634-2,,kgv,2634,pier,pier,,,,,,,,SN001783
-kgv-780-3,,kgv,780,pin,pin,,,,,,,,SN001786
-kgv-98-5,,kgv,98,pinaninggan,pinaninggan,,,,,,,,SN001787
-kgv-480-1,,kgv,480,pingan,pingan,,,,,,,,SN001788
-kgv-682-6,,kgv,682,-pis,-pis,,,,,,,,SN001792
-kgv-1559-2,,kgv,1559,pitis,pitis,,,,,,,,SN001794
-kgv-1264-4,,kgv,1264,pitisnaharen,pitisnaharen,,,,,,,,SN001795
-kgv-2371-1,,kgv,2371,po,po,,,,,,,,SN001796
-kgv-1870-1,,kgv,1870,po,po,,,,,,,,SN001797
-kgv-345-2,,kgv,345,pol,pol,,,,,,,,SN001800
-kgv-594-1,,kgv,594,polas,polas,,,,,,,,SN001803
-kgv-2445-1,,kgv,2445,polkayak,polkayak,,,,,,,,SN001804
-kgv-1667-2,,kgv,1667,pos,pos,,,,,,,,SN001807
-kgv-1574-1,,kgv,1574,pouk,pouk,,,,,,,,SN001811
-kgv-2943-1,,kgv,2943,poun,poun,,,,,,,,SN001812
-kgv-2943-2,,kgv,2943,*poup,*poup,,,,,,,,SN001814
-kgv-1493-8,,kgv,1493,poupkon,poupkon,,,,,,,,SN001816
-kgv-1433-2,,kgv,1433,pue,pue,,,,,,,,SN001820
-kgv-843-1,,kgv,843,pueselet,pueselet,,,,,,,,SN001821
-kgv-1257-3,,kgv,1257,pul,pul,,,,,,,,SN001823
-kgv-1655-1,,kgv,1655,pulem,pulem,,,,,,,,SN001824
-kgv-378-2,,kgv,378,pulma,pulma,,,,,,,,SN001827
-kgv-177-1,,kgv,177,pulor,pulor,,,,,,,,SN001828
-kgv-1791-1,,kgv,1791,pulpul,pulpul,,,,,,,,SN001829
-kgv-607-1,,kgv,607,pulseka,pulseka,,,,,,,,SN001831
-kgv-822-1,,kgv,822,puraman,puraman,,,,,,,,SN001834
-kgv-1717-1,,kgv,1717,purap,purap,,,,,,,,SN001835
-kgv-1710-1,,kgv,1710,purir,purir,,,,,,,,SN001837
-kgv-1734-1,,kgv,1734,purir ba kon,purir_ba_kon,,,,,,,,SN001838
-kgv-1280-2,,kgv,1280,pururu,pururu,,,,,,,,SN001839
-kgv-1768-1,,kgv,1768,pus,pus,,,,,,,,SN001840
-kgv-239-2,,kgv,239,pus,pus,,,,,,,,SN001841
-kgv-239-3,,kgv,239,pus,pus,,,,,,,,SN001842
-kgv-994-1,,kgv,994,pusir,pusir,,,,,,,,SN001844
-kgv-1722-1,,kgv,1722,putirie,putirie,,,,,,,,SN001846
-kgv-1724-1,,kgv,1724,putkaninggonie,putkaninggonie,,,,,,,,SN001847
-kgv-1716-1,,kgv,1716,putkansuor,putkansuor,,,,,,,,SN001849
-kgv-3556-1,,kgv,3556,putkansuor talinggon,putkansuor_talinggon,,,,,,,,SN001850
-kgv-1715-1,,kgv,1715,putkaruok,putkaruok,,,,,,,,SN001851
-kgv-3480-1,,kgv,3480,putkaruok talinggon,putkaruok_talinggon,,,,,,,,SN001854
-kgv-1515-1,,kgv,1515,putkon,putkon,,,,,,,,SN001856
-kgv-1709-1,,kgv,1709,putkon ba ap,putkon_ba_ap,,,,,,,,SN001857
-kgv-1707-1,,kgv,1707,putkon ba eir,putkon_ba_eir,,,,,,,,SN001858
-kgv-1708-1,,kgv,1708,putkon ba karuok,putkon_ba_karuok,,,,,,,,SN001859
-kgv-1706-1,,kgv,1706,putkon ba kon,putkon_ba_kon,,,,,,,,SN001860
-kgv-1718-1,,kgv,1718,putraman,putraman,,,,,,,,SN001861
-kgv-1721-1,,kgv,1721,putramandalin,putramandalin,,,,,,,,SN001862
-kgv-1408-2,,kgv,1408,ra,ra,,,,,,,,SN001864
-kgv-695-2,,kgv,695,ra,ra,,,,,,,,SN001865
-kgv-745-1,,kgv,745,rak,rak,,,,,,,,SN001866
-kgv-1703-1,,kgv,1703,raman,raman,,,,,,,,SN001871
-kgv-1704-1,,kgv,1704,ramandalin,ramandalin,,,,,,,,SN001872
-kgv-2517-1,,kgv,2517,rami,rami,,,,,,,,SN001874
-kgv-1455-3,,kgv,1455,ramie,ramie,,,,,,,,SN001875
-kgv-2895-2,,kgv,2895,rane,rane,,,,,,,,SN001877
-kgv-1627-1,,kgv,1627,ranti,ranti,,,,,,,,SN001880
-kgv-1093-1,,kgv,1093,raor,raor,,,,,,,,SN001881
-kgv-1093-2,,kgv,1093,raorko,raorko,,,,,,,,SN001882
-kgv-1355-1,,kgv,1355,rap,rap,,,,,,,,SN001883
-kgv-3053-2,,kgv,3053,rapat,rapat,,,,,,,,SN001884
-kgv-1831-4,,kgv,1831,rapat,rapat,,,,,,,,SN001885
-kgv-1117-4,,kgv,1117,rasa,rasa,,,,,,,,SN001888
-kgv-1809-1,,kgv,1809,rasemsem,rasemsem,,,,,,,,SN001889
-kgv-1198-2,,kgv,1198,reidak,reidak,,,,,,,,SN001891
-kgv-3452-2,,kgv,3452,rein,rein,,,,,,,,SN001893
-kgv-3516-1,,kgv,3516,reirap,reirap,,,,,,,,SN001895
-kgv-1634-1,,kgv,1634,*reit,*reit,,,,,,,,SN001896
-kgv-1634-2,,kgv,1634,reitkon,reitkon,,,,,,,,SN001897
-kgv-694-1,,kgv,694,rep,rep,,,,,,,,SN001899
-kgv-2903-1,,kgv,2903,rer,rer,,,,,,,,SN001902
-kgv-2060-2,,kgv,2060,rer,rer,,,,,,,,SN001903
-kgv-1481-1,,kgv,1481,resan,resan,,,,,,,,SN001905
-kgv-1202-3,,kgv,1202,-rip,-rip,,,,,,,,SN001906
-kgv-1843-1,,kgv,1843,ripi,ripi,,,,,,,,SN001907
-kgv-711-1,,kgv,711,ririn,ririn,,,,,,,,SN001909
-kgv-1694-1,,kgv,1694,roba,roba,,,,,,,,SN001910
-kgv-906-2,,kgv,906,ror,ror,,,,,,,,SN001915
-kgv-1204-2,,kgv,1204,ror kulun,ror_kulun,,,,,,,,SN001919
-kgv-241-1,,kgv,241,ror tabur,ror_tabur,,,,,,,,SN001921
-kgv-1531-3,,kgv,1531,rorkarok,rorkarok,,,,,,,,SN001923
-kgv-2894-1,,kgv,2894,rouk,rouk,,,,,,,,SN001924
-kgv-1588-1,,kgv,1588,roye,roye,,,,,,,,SN001927
-kgv-1417-1,,kgv,1417,rua,rua,,,,,,,,SN001928
-kgv-1280-3,,kgv,1280,ruak,ruak,,,,,,,,SN001929
-kgv-2458-1,,kgv,2458,ruam,ruam,,,,,,,,SN001930
-kgv-1573-2,,kgv,1573,ruan,ruan,,,,,,,,SN001931
-kgv-1110-1,,kgv,1110,ruar,ruar,,,,,,,,SN001932
-kgv-1418-1,,kgv,1418,ruo,ruo,,,,,,,,SN001942
-kgv-269-1,,kgv,269,ruo,ruo,,,,,,,,SN001943
-kgv-3460-2,,kgv,3460,ruom,ruom,,,,,,,,SN001944
-kgv-1897-1,,kgv,1897,rup,rup,,,,,,,,SN001946
-kgv-1493-9,,kgv,1493,rurkon,rurkon,,,,,,,,SN001950
-kgv-1936-1,,kgv,1936,rusa,rusa,,,,,,,,SN001951
-kgv-1786-1,,kgv,1786,sa,sa,,,,,,,,SN001954
-kgv-2194-1,,kgv,2194,sabar,sabar,,,,,,,,SN001957
-kgv-2493-3,,kgv,2493,sabet,sabet,,,,,,,,SN001960
-kgv-1700-1,,kgv,1700,sabtu,sabtu,,,,,,,,SN001961
-kgv-976-2,,kgv,976,sabur,sabur,,,,,,,,SN001962
-kgv-788-1,,kgv,788,sabur,sabur,,,,,,,,SN001963
-kgv-2680-1,,kgv,2680,sadawak,sadawak,,,,,,,,SN001964
-kgv-1624-1,,kgv,1624,saerak,saerak,,,,,,,,SN001965
-kgv-98-6,,kgv,98,=saet,=saet,,,,,,,,SN001966
-kgv-1657-2,,kgv,1657,saidak,saidak,,,,,,,,SN001967
-kgv-56-1,,kgv,56,saier,saier,,,,,,,,SN001968
-kgv-183-1,,kgv,183,sair,sair,,,,,,,,SN001972
-kgv-2397-1,,kgv,2397,sairarar,sairarar,,,,,,,,SN001973
-kgv-3155-2,,kgv,3155,sakarip,sakarip,,,,,,,,SN001975
-kgv-1390-1,,kgv,1390,sala,sala,,,,,,,,SN001977
-kgv-588-3,,kgv,588,salaboung,salaboung,,,,,,,,SN001978
-kgv-2078-1,,kgv,2078,salak,salak,,,,,,,,SN001981
-kgv-1264-5,,kgv,1264,salir,salir,,,,,,,,SN001985
-kgv-200-2,,kgv,200,sama,sama,,,,,,,,SN001987
-kgv-3018-1,,kgv,3018,samameng,samameng,,,,,,,,SN001988
-kgv-1817-4,,kgv,1817,samar,samar,,,,,,,,SN001989
-kgv-1860-1,,kgv,1860,samor,samor,,,,,,,,SN001990
-kgv-2753-2,,kgv,2753,sampai,sampai,,,,,,,,SN001991
-kgv-2753-3,,kgv,2753,sampi,sampi,,,,,,,,SN001992
-kgv-1387-2,,kgv,1387,sampi,sampi,,,,,,,,SN001993
-kgv-2308-1,,kgv,2308,samsik,samsik,,,,,,,,SN001994
-kgv-2242-1,,kgv,2242,sanggan,sanggan,,,,,,,,SN001999
-kgv-2319-1,,kgv,2319,sanggan,sanggan,,,,,,,,SN002000
-kgv-38-1,,kgv,38,sangganggam,sangganggam,,,,,,,,SN002001
-kgv-2319-2,,kgv,2319,sangganun,sangganun,,,,,,,,SN002002
-kgv-1468-2,,kgv,1468,sanggara,sanggara,,,,,,,,SN002003
-kgv-2270-1,,kgv,2270,sanggeran,sanggeran,,,,,,,,SN002005
-kgv-2673-1,,kgv,2673,sanggien,sanggien,,,,,,,,SN002007
-kgv-1531-4,,kgv,1531,sanggoup,sanggoup,,,,,,,,SN002009
-kgv-588-4,,kgv,588,sanggoyie,sanggoyie,,,,,,,,SN002010
-kgv-1398-3,,kgv,1398,sansa,sansa,,,,,,,,SN002012
-kgv-2880-2,,kgv,2880,sansan,sansan,,,,,,,,SN002014
-kgv-1870-2,,kgv,1870,saor,saor,,,,,,,,SN002016
-kgv-1870-3,,kgv,1870,saor,saor,,,,,,,,SN002017
-kgv-1076-1,,kgv,1076,saouk,saouk,,,,,,,,SN002018
-kgv-1295-1,,kgv,1295,sap,sap,,,,,,,,SN002020
-kgv-1007-1,,kgv,1007,sapi,sapi,,,,,,,,SN002021
-kgv-1102-2,,kgv,1102,sara,sara,,,,,,,,SN002023
-kgv-1898-1,,kgv,1898,saramin,saramin,,,,,,,,SN002027
-kgv-2500-1,,kgv,2500,sarem,sarem,,,,,,,,SN002034
-kgv-1435-1,,kgv,1435,sarie,sarie,,,,,,,,SN002036
-kgv-614-1,,kgv,614,sarieng,sarieng,,,,,,,,SN002037
-kgv-1172-1,,kgv,1172,saroum,saroum,,,,,,,,SN002043
-kgv-1172-2,,kgv,1172,saroum,saroum,,,,,,,,SN002044
-kgv-231-1,,kgv,231,sarua,sarua,,,,,,,,SN002046
-kgv-1631-2,,kgv,1631,sasat,sasat,,,,,,,,SN002051
-kgv-1378-1,,kgv,1378,sasul,sasul,,,,,,,,SN002055
-kgv-1378-2,,kgv,1378,sasul,sasul,,,,,,,,SN002056
-kgv-1233-2,,kgv,1233,saun,saun,,,,,,,,SN002057
-kgv-706-1,,kgv,706,sausaun,sausaun,,,,,,,,SN002060
-kgv-11-1,,kgv,11,sausaun,sausaun,,,,,,,,SN002061
-kgv-178-2,,kgv,178,sawaun,sawaun,,,,,,,,SN002066
-kgv-470-1,,kgv,470,se,se,,,,,,,,SN002076
-kgv-2576-1,,kgv,2576,se,se,,,,,,,,SN002077
-kgv-3017-2,,kgv,3017,sebua,sebua,,,,,,,,SN002079
-kgv-2680-2,,kgv,2680,sedawak,sedawak,,,,,,,,SN002081
-kgv-2753-4,,kgv,2753,sehingga,sehingga,,,,,,,,SN002082
-kgv-673-1,,kgv,673,sekola,sekola,,,,,,,,SN002090
-kgv-1695-1,,kgv,1695,selasa,selasa,,,,,,,,SN002093
-kgv-594-2,,kgv,594,selet,selet,,,,,,,,SN002094
-kgv-594-3,,kgv,594,seletkon,seletkon,,,,,,,,SN002095
-kgv-3230-1,,kgv,3230,selinku,selinku,,,,,,,,SN002097
-kgv-1419-1,,kgv,1419,sem,sem,,,,,,,,SN002098
-kgv-1135-1,,kgv,1135,sempang,sempang,,,,,,,,SN002103
-kgv-1697-1,,kgv,1697,senen,senen,,,,,,,,SN002106
-kgv-769-1,,kgv,769,seng,seng,,,,,,,,SN002107
-kgv-1381-1,,kgv,1381,sepatu,sepatu,,,,,,,,SN002111
-kgv-771-1,,kgv,771,sepe,sepe,,,,,,,,SN002112
-kgv-2013-1,,kgv,2013,set,set,,,,,,,,SN002125
-kgv-1455-4,,kgv,1455,sewa,sewa,,,,,,,,SN002127
-kgv-790-2,,kgv,790,siap,siap,,,,,,,,SN002134
-kgv-571-1,,kgv,571,sie,sie,,,,,,,,SN002135
-kgv-863-4,,kgv,863,*siep,*siep,,,,,,,,SN002137
-kgv-1175-1,,kgv,1175,sietan,sietan,,,,,,,,SN002139
-kgv-863-5,,kgv,863,sieun,sieun,,,,,,,,SN002140
-kgv-1621-1,,kgv,1621,sik,sik,,,,,,,,SN002141
-kgv-1208-1,,kgv,1208,sikan,sikan,,,,,,,,SN002143
-kgv-2921-4,,kgv,2921,siktak,siktak,,,,,,,,SN002147
-kgv-1291-1,,kgv,1291,*silep,*silep,,,,,,,,SN002153
-kgv-1686-2,,kgv,1686,silepko,silepko,,,,,,,,SN002154
-kgv-1382-1,,kgv,1382,sin,sin,,,,,,,,SN002156
-kgv-1103-1,,kgv,1103,sinara,sinara,,,,,,,,SN002157
-kgv-587-1,,kgv,587,singasingat,singasingat,,,,,,,,SN002158
-kgv-3710-3,,kgv,3710,sir,sir,,,,,,,,SN002162
-kgv-1274-1,,kgv,1274,sira,sira,,,,,,,,SN002163
-kgv-1274-2,,kgv,1274,sira,sira,,,,,,,,SN002164
-kgv-1143-2,,kgv,1143,siriar,siriar,,,,,,,,SN002167
-kgv-1128-4,,kgv,1128,sirie,sirie,,,,,,,,SN002168
-kgv-2621-1,,kgv,2621,sirisiri,sirisiri,,,,,,,,SN002169
-kgv-2070-1,,kgv,2070,sisir,sisir,,,,,,,,SN002171
-kgv-1475-1,,kgv,1475,sisir,sisir,,,,,,,,SN002172
-kgv-729-1,,kgv,729,sobas,sobas,,,,,,,,SN002177
-kgv-2497-1,,kgv,2497,sol karek,sol_karek,,,,,,,,SN002181
-kgv-683-2,,kgv,683,som,som,,,,,,,,SN002183
-kgv-1625-1,,kgv,1625,somin,somin,,,,,,,,SN002186
-kgv-791-2,,kgv,791,somkabas,somkabas,,,,,,,,SN002187
-kgv-683-3,,kgv,683,sontum,sontum,,,,,,,,SN002189
-kgv-791-3,,kgv,791,sontumkabas,sontumkabas,,,,,,,,SN002192
-kgv-3134-1,,kgv,3134,sontur,sontur,,,,,,,,SN002193
-kgv-227-1,,kgv,227,sor,sor,,,,,,,,SN002195
-kgv-3799-1,,kgv,3799,sor kangun,sor_kangun,,,,,,,,SN002196
-kgv-1363-1,,kgv,1363,suara,suara,,,,,,,,SN002213
-kgv-1667-3,,kgv,1667,suarkang,suarkang,,,,,,,,SN002214
-kgv-2638-1,,kgv,2638,suban,suban,,,,,,,,SN002215
-kgv-737-1,,kgv,737,suensik,suensik,,,,,,,,SN002219
-kgv-1784-2,,kgv,1784,suka,suka,,,,,,,,SN002222
-kgv-737-2,,kgv,737,sumsik,sumsik,,,,,,,,SN002224
-kgv-809-1,,kgv,809,sungsung,sungsung,,,,,,,,SN002228
-kgv-680-3,,kgv,680,suo,suo,,,,,,,,SN002229
-kgv-1291-2,,kgv,1291,suol,suol,,,,,,,,SN002232
-kgv-805-1,,kgv,805,suolkasir,suolkasir,,,,,,,,SN002234
-kgv-1013-3,,kgv,1013,suopkaling,suopkaling,,,,,,,,SN002236
-kgv-1393-1,,kgv,1393,suor,suor,,,,,,,,SN002238
-kgv-680-4,,kgv,680,suosuo,suosuo,,,,,,,,SN002240
-kgv-584-1,,kgv,584,susa,susa,,,,,,,,SN002242
-kgv-584-2,,kgv,584,susia,susia,,,,,,,,SN002243
-kgv-621-2,,kgv,621,taba,taba,,,,,,,,SN002251
-kgv-974-1,,kgv,974,tabai,tabai,,,,,,,,SN002252
-kgv-816-1,,kgv,816,*tabak,*tabak,,,,,,,,SN002254
-kgv-1246-5,,kgv,1246,tabaktabak,tabaktabak,,,,,,,,SN002255
-kgv-35-1,,kgv,35,tabalaki,tabalaki,,,,,,,,SN002256
-kgv-816-2,,kgv,816,tabaon,tabaon,,,,,,,,SN002259
-kgv-1280-4,,kgv,1280,tabarak,tabarak,,,,,,,,SN002260
-kgv-2655-1,,kgv,2655,taberak,taberak,,,,,,,,SN002262
-kgv-1645-1,,kgv,1645,tabusik,tabusik,,,,,,,,SN002268
-kgv-879-1,,kgv,879,tadon,tadon,,,,,,,,SN002269
-kgv-1992-2,,kgv,1992,=taet,=taet,,,,,,,,SN002274
-kgv-204-3,,kgv,204,=taet,=taet,,,,,,,,SN002275
-kgv-1210-1,,kgv,1210,tagier,tagier,,,,,,,,SN002277
-kgv-1877-1,,kgv,1877,tagur,tagur,,,,,,,,SN002280
-kgv-1186-1,,kgv,1186,tahan,tahan,,,,,,,,SN002284
-kgv-682-7,,kgv,682,tai-,tai-,,,,,,,,SN002285
-kgv-682-8,,kgv,682,taikon,taikon,,,,,,,,SN002286
-kgv-1964-2,,kgv,1964,-tain,-tain,,,,,,,,SN002287
-kgv-682-9,,kgv,682,tair,tair,,,,,,,,SN002288
-kgv-628-4,,kgv,628,*tak,*tak,,,,,,,,SN002289
-kgv-1580-2,,kgv,1580,=tak,=tak,,,,,,,,SN002291
-kgv-2629-1,,kgv,2629,talam,talam,,,,,,,,SN002294
-kgv-1877-2,,kgv,1877,talawak,talawak,,,,,,,,SN002295
-kgv-762-4,,kgv,762,*talep,*talep,,,,,,,,SN002296
-kgv-762-5,,kgv,762,talepko,talepko,,,,,,,,SN002297
-kgv-1615-2,,kgv,1615,taluk,taluk,,,,,,,,SN002299
-kgv-727-1,,kgv,727,tama,tama,,,,,,,,SN002300
-kgv-1239-1,,kgv,1239,tamandi,tamandi,,,,,,,,SN002301
-kgv-986-1,,kgv,986,tamatil,tamatil,,,,,,,,SN002303
-kgv-1237-1,,kgv,1237,tamatko,tamatko,,,,,,,,SN002304
-kgv-2928-1,,kgv,2928,tamawis,tamawis,,,,,,,,SN002305
-kgv-2882-2,,kgv,2882,tamba,tamba,,,,,,,,SN002306
-kgv-2546-1,,kgv,2546,tamun,tamun,,,,,,,,SN002308
-kgv-1183-1,,kgv,1183,tan laus,tan_laus,,,,,,,,SN002311
-kgv-1019-2,,kgv,1019,tanbes,tanbes,,,,,,,,SN002314
-kgv-714-2,,kgv,714,*tang,*tang,,,,,,,,SN002315
-kgv-1258-1,,kgv,1258,tanggalip,tanggalip,,,,,,,,SN002319
-kgv-1374-1,,kgv,1374,tanggarara,tanggarara,,,,,,,,SN002320
-kgv-1448-3,,kgv,1448,tanggo,tanggo,,,,,,,,SN002322
-kgv-1226-1,,kgv,1226,tanggon,tanggon,,,,,,,,SN002323
-kgv-981-1,,kgv,981,tanggul,tanggul,,,,,,,,SN002327
-kgv-1156-5,,kgv,1156,tangguorma,tangguorma,,,,,,,,SN002329
-kgv-702-2,,kgv,702,tangkap,tangkap,,,,,,,,SN002330
-kgv-714-3,,kgv,714,tangun,tangun,,,,,,,,SN002331
-kgv-1781-1,,kgv,1781,tanparoemun,tanparoemun,,,,,,,,SN002333
-kgv-1303-1,,kgv,1303,tanparok,tanparok,,,,,,,,SN002334
-kgv-3387-1,,kgv,3387,tanparok raorkadok,tanparok_raorkadok,,,,,,,,SN002336
-kgv-577-1,,kgv,577,tansahadat,tansahadat,,,,,,,,SN002337
-kgv-244-1,,kgv,244,tantayuon,tantayuon,,,,,,,,SN002339
-kgv-1493-10,,kgv,1493,taon,taon,,,,,,,,SN002341
-kgv-1979-1,,kgv,1979,taot,taot,,,,,,,,SN002342
-kgv-1979-2,,kgv,1979,taot,taot,,,,,,,,SN002343
-kgv-1411-2,,kgv,1411,taouk,taouk,,,,,,,,SN002344
-kgv-1616-2,,kgv,1616,tapal,tapal,,,,,,,,SN002345
-kgv-164-1,,kgv,164,tapar,tapar,,,,,,,,SN002346
-kgv-1869-3,,kgv,1869,tapi,tapi,,,,,,,,SN002347
-kgv-1594-1,,kgv,1594,tapong,tapong,,,,,,,,SN002348
-kgv-1046-2,,kgv,1046,tara,tara,,,,,,,,SN002354
-kgv-1617-1,,kgv,1617,*tara,*tara,,,,,,,,SN002356
-kgv-1496-3,,kgv,1496,tara emnem,tara_emnem,,,,,,,,SN002357
-kgv-1383-2,,kgv,1383,tara esnem,tara_esnem,,,,,,,,SN002358
-kgv-81-1,,kgv,81,taraman,taraman,,,,,,,,SN002363
-kgv-1595-1,,kgv,1595,tarangin,tarangin,,,,,,,,SN002364
-kgv-588-5,,kgv,588,taraouk,taraouk,,,,,,,,SN002365
-kgv-980-1,,kgv,980,tararapang,tararapang,,,,,,,,SN002368
-kgv-1879-2,,kgv,1879,tarian,tarian,,,,,,,,SN002373
-kgv-694-2,,kgv,694,tarima,tarima,,,,,,,,SN002374
-kgv-1458-1,,kgv,1458,taru,taru,,,,,,,,SN002375
-kgv-1458-2,,kgv,1458,taruo,taruo,,,,,,,,SN002376
-kgv-2468-1,,kgv,2468,tas,tas,,,,,,,,SN002378
-kgv-1383-3,,kgv,1383,tata,tata,,,,,,,,SN002380
-kgv-1496-4,,kgv,1496,tatanina,tatanina,,,,,,,,SN002382
-kgv-1241-2,,kgv,1241,taukon,taukon,,,,,,,,SN002387
-kgv-628-5,,kgv,628,taun,taun,,,,,,,,SN002388
-kgv-2336-2,,kgv,2336,=tauna,=tauna,,,,,,,,SN002389
-kgv-297-1,,kgv,297,taungtaung,taungtaung,,,,,,,,SN002390
-kgv-2984-2,,kgv,2984,*taur,*taur,,,,,,,,SN002393
-kgv-1493-11,,kgv,1493,taurkon,taurkon,,,,,,,,SN002395
-kgv-155-1,,kgv,155,tawara,tawara,,,,,,,,SN002396
-kgv-1808-1,,kgv,1808,te,te,,,,,,,,SN002401
-kgv-84-2,,kgv,84,=teba,=teba,,,,,,,,SN002405
-kgv-98-7,,kgv,98,*tebon,*tebon,,,,,,,,SN002408
-kgv-98-8,,kgv,98,tebonggan,tebonggan,,,,,,,,SN002409
-kgv-2830-1,,kgv,2830,teir,teir,,,,,,,,SN002410
-kgv-1332-1,,kgv,1332,*teit,*teit,,,,,,,,SN002413
-kgv-575-1,,kgv,575,teitei,teitei,,,,,,,,SN002414
-kgv-1352-1,,kgv,1352,tektek,tektek,,,,,,,,SN002415
-kgv-3351-1,,kgv,3351,telin,telin,,,,,,,,SN002419
-kgv-1084-2,,kgv,1084,telpon,telpon,,,,,,,,SN002420
-kgv-668-2,,kgv,668,teltel,teltel,,,,,,,,SN002423
-kgv-1202-4,,kgv,1202,*tem,*tem,,,,,,,,SN002424
-kgv-1325-2,,kgv,1325,teman,teman,,,,,,,,SN002426
-kgv-1614-2,,kgv,1614,temgerun,temgerun,,,,,,,,SN002427
-kgv-1202-5,,kgv,1202,temun,temun,,,,,,,,SN002429
-kgv-2336-3,,kgv,2336,=tenden,=tenden,,,,,,,,SN002435
-kgv-1229-1,,kgv,1229,tenenun,tenenun,,,,,,,,SN002436
-kgv-1201-1,,kgv,1201,teng,teng,,,,,,,,SN002438
-kgv-1576-1,,kgv,1576,tengguen,tengguen,,,,,,,,SN002443
-kgv-1201-2,,kgv,1201,tengun,tengun,,,,,,,,SN002445
-kgv-1255-1,,kgv,1255,teok,teok,,,,,,,,SN002446
-kgv-249-1,,kgv,249,teok,teok,,,,,,,,SN002447
-kgv-1507-2,,kgv,1507,tep,tep,,,,,,,,SN002448
-kgv-1507-3,,kgv,1507,*tep,*tep,,,,,,,,SN002450
-kgv-1462-1,,kgv,1462,tepeles,tepeles,,,,,,,,SN002452
-kgv-1493-12,,kgv,1493,tepkon,tepkon,,,,,,,,SN002453
-kgv-1373-2,,kgv,1373,ter,ter,,,,,,,,SN002455
-kgv-497-2,,kgv,497,ter,ter,,,,,,,,SN002456
-kgv-2921-5,,kgv,2921,terus,terus,,,,,,,,SN002461
-kgv-3699-3,,kgv,3699,terus,terus,,,,,,,,SN002462
-kgv-1383-4,,kgv,1383,tete,tete,,,,,,,,SN002463
-kgv-3353-1,,kgv,3353,teteris,teteris,,,,,,,,SN002464
-kgv-1507-4,,kgv,1507,teun,teun,,,,,,,,SN002466
-kgv-1554-3,,kgv,1554,teya,teya,,,,,,,,SN002467
-kgv-492-2,,kgv,492,tiga,tiga,,,,,,,,SN002469
-kgv-1229-2,,kgv,1229,tik,tik,,,,,,,,SN002470
-kgv-863-6,,kgv,863,*tim,*tim,,,,,,,,SN002473
-kgv-123-1,,kgv,123,timbang,timbang,,,,,,,,SN002474
-kgv-863-7,,kgv,863,timun,timun,,,,,,,,SN002476
-kgv-3808-1,,kgv,3808,ting,ting,,,,,,,,SN002478
-kgv-787-3,,kgv,787,tiri,tiri,,,,,,,,SN002479
-kgv-908-1,,kgv,908,tiri,tiri,,,,,,,,SN002480
-kgv-1019-3,,kgv,1019,to,to,,,,,,,,SN002482
-kgv-728-2,,kgv,728,tok,tok,,,,,,,,SN002484
-kgv-1422-3,,kgv,1422,tok bes,tok_bes,,,,,,,,SN002486
-kgv-2355-1,,kgv,2355,tokitoki,tokitoki,,,,,,,,SN002489
-kgv-3667-1,,kgv,3667,toktok,toktok,,,,,,,,SN002491
-kgv-1422-4,,kgv,1422,toktok,toktok,,,,,,,,SN002492
-kgv-2444-1,,kgv,2444,tol,tol,,,,,,,,SN002493
-kgv-1432-3,,kgv,1432,tolcie,tolcie,,,,,,,,SN002496
-kgv-2468-2,,kgv,2468,toman,toman,,,,,,,,SN002499
-kgv-723-2,,kgv,723,tompat,tompat,,,,,,,,SN002500
-kgv-2548-2,,kgv,2548,tong,tong,,,,,,,,SN002501
-kgv-1458-3,,kgv,1458,toni,toni,,,,,,,,SN002504
-kgv-2235-1,,kgv,2235,toras,toras,,,,,,,,SN002508
-kgv-2298-1,,kgv,2298,towari,towari,,,,,,,,SN002515
-kgv-1433-3,,kgv,1433,tu,tu,,,,,,,,SN002516
-kgv-1422-5,,kgv,1422,tua,tua,,,,,,,,SN002517
-kgv-1229-3,,kgv,1229,tuaringgiar,tuaringgiar,,,,,,,,SN002520
-kgv-1422-6,,kgv,1422,tuaruar,tuaruar,,,,,,,,SN002521
-kgv-2766-1,,kgv,2766,tumin,tumin,,,,,,,,SN002525
-kgv-1949-1,,kgv,1949,tumteng,tumteng,,,,,,,,SN002526
-kgv-2099-1,,kgv,2099,tumun,tumun,,,,,,,,SN002527
-kgv-1246-6,,kgv,1246,tumun,tumun,,,,,,,,SN002528
-kgv-1620-1,,kgv,1620,tumun canam,tumun_canam,,,,,,,,SN002529
-kgv-1149-1,,kgv,1149,tumun miskinden,tumun_miskinden,,,,,,,,SN002531
-kgv-1357-1,,kgv,1357,tumun pas,tumun_pas,,,,,,,,SN002532
-kgv-1311-2,,kgv,1311,=tun,=tun,,,,,,,,SN002534
-kgv-1280-5,,kgv,1280,tur,tur,,,,,,,,SN002539
-kgv-614-2,,kgv,614,turing,turing,,,,,,,,SN002540
-kgv-1272-3,,kgv,1272,u,u,,,,,,,,SN002542
-kgv-1506-1,,kgv,1506,ukir,ukir,,,,,,,,SN002547
-kgv-2845-1,,kgv,2845,ukuran,ukuran,,,,,,,,SN002548
-kgv-1142-1,,kgv,1142,ul,ul,,,,,,,,SN002549
-kgv-1272-4,,kgv,1272,ulan,ulan,,,,,,,,SN002550
-kgv-108-1,,kgv,108,uli,uli,,,,,,,,SN002551
-kgv-1746-1,,kgv,1746,ulpom,ulpom,,,,,,,,SN002552
-kgv-592-1,,kgv,592,ulur,ulur,,,,,,,,SN002554
-kgv-789-1,,kgv,789,umat,umat,,,,,,,,SN002555
-kgv-1993-1,,kgv,1993,un=,un=,,,,,,,,SN002556
-kgv-2400-3,,kgv,2400,-un,-un,,,,,,,,SN002557
-kgv-1119-1,,kgv,1119,unkoryap,unkoryap,,,,,,,,SN002565
-kgv-1195-2,,kgv,1195,unmasir,unmasir,,,,,,,,SN002566
-kgv-258-1,,kgv,258,up,up,,,,,,,,SN002569
-kgv-960-1,,kgv,960,ur,ur,,,,,,,,SN002573
-kgv-1489-2,,kgv,1489,ur kirun,ur_kirun,,,,,,,,SN002574
-kgv-1914-1,,kgv,1914,uran,uran,,,,,,,,SN002576
-kgv-667-1,,kgv,667,urap,urap,,,,,,,,SN002577
-kgv-978-1,,kgv,978,uren,uren,,,,,,,,SN002578
-kgv-1222-1,,kgv,1222,us,us,,,,,,,,SN002581
-kgv-1720-4,,kgv,1720,ut,ut,,,,,,,,SN002587
-kgv-1720-5,,kgv,1720,ut,ut,,,,,,,,SN002588
-kgv-1241-3,,kgv,1241,utkon,utkon,,,,,,,,SN002590
-kgv-1214-1,,kgv,1214,wa,wa,,,,,,,,SN002592
-kgv-1238-1,,kgv,1238,waktu,waktu,,,,,,,,SN002595
-kgv-892-2,,kgv,892,waktu,waktu,,,,,,,,SN002596
-kgv-892-3,,kgv,892,*wan,*wan,,,,,,,,SN002607
-kgv-1558-1,,kgv,1558,wandi,wandi,,,,,,,,SN002608
-kgv-1214-2,,kgv,1214,wane,wane,,,,,,,,SN002610
-kgv-2927-1,,kgv,2927,wangga,wangga,,,,,,,,SN002612
-kgv-2914-1,,kgv,2914,wanggon,wanggon,,,,,,,,SN002614
-kgv-777-1,,kgv,777,wangguwanggus,wangguwanggus,,,,,,,,SN002616
-kgv-2638-2,,kgv,2638,war,war,,,,,,,,SN002619
-kgv-1110-2,,kgv,1110,war,war,,,,,,,,SN002622
-kgv-891-1,,kgv,891,warkin,warkin,,,,,,,,SN002629
-kgv-1026-1,,kgv,1026,warkin garos,warkin_garos,,,,,,,,SN002630
-kgv-1026-2,,kgv,1026,warkin kararak,warkin_kararak,,,,,,,,SN002631
-kgv-613-2,,kgv,613,warkin laur,warkin_laur,,,,,,,,SN002632
-kgv-613-3,,kgv,613,warkin nasesak,warkin_nasesak,,,,,,,,SN002633
-kgv-1026-3,,kgv,1026,warkin tararup,warkin_tararup,,,,,,,,SN002634
-kgv-909-2,,kgv,909,warum,warum,,,,,,,,SN002636
-kgv-1439-1,,kgv,1439,waruo,waruo,,,,,,,,SN002637
-kgv-136-1,,kgv,136,watko,watko,,,,,,,,SN002648
-kgv-1425-1,,kgv,1425,welenggap,welenggap,,,,,,,,SN002656
-kgv-665-1,,kgv,665,wenawena,wenawena,,,,,,,,SN002657
-kgv-88-2,,kgv,88,wenawena eun,wenawena_eun,,,,,,,,SN002658
-kgv-3064-1,,kgv,3064,wenggam,wenggam,,,,,,,,SN002659
-kgv-1040-1,,kgv,1040,westal,westal,,,,,,,,SN002663
-kgv-2398-1,,kgv,2398,wie,wie,,,,,,,,SN002666
-kgv-19-2,,kgv,19,wien,wien,,,,,,,,SN002667
-kgv-1156-6,,kgv,1156,wiercie,wiercie,,,,,,,,SN002671
-kgv-2628-4,,kgv,2628,wierun,wierun,,,,,,,,SN002672
-kgv-2628-5,,kgv,2628,wiet,wiet,,,,,,,,SN002673
-kgv-1474-3,,kgv,1474,wilak,wilak,,,,,,,,SN002674
-kgv-1156-7,,kgv,1156,wirma,wirma,,,,,,,,SN002676
-kgv-1174-1,,kgv,1174,wis,wis,,,,,,,,SN002677
-kgv-373-1,,kgv,373,wise,wise,,,,,,,,SN002678
-kgv-373-2,,kgv,373,wiseme,wiseme,,,,,,,,SN002679
-kgv-194-1,,kgv,194,wol,wol,,,,,,,,SN002680
-kgv-1272-5,,kgv,1272,wowa,wowa,,,,,,,,SN002684
-kgv-1272-6,,kgv,1272,wowa caun,wowa_caun,,,,,,,,SN002685
-kgv-1272-7,,kgv,1272,wowa temun,wowa_temun,,,,,,,,SN002686
-kgv-607-2,,kgv,607,wuar sisiarun,wuar_sisiarun,,,,,,,,SN002687
-kgv-1920-1,,kgv,1920,wuorwuor,wuorwuor,,,,,,,,SN002690
-kgv-1268-4,,kgv,1268,ya,ya,,,,,,,,SN002691
-kgv-3009-1,,kgv,3009,yakop,yakop,,,,,,,,SN002695
-kgv-3668-1,,kgv,3668,yal,yal,,,,,,,,SN002698
-kgv-234-1,,kgv,234,yal,yal,,,,,,,,SN002699
-kgv-3668-2,,kgv,3668,yalyal,yalyal,,,,,,,,SN002700
-kgv-549-2,,kgv,549,yam,yam,,,,,,,,SN002701
-kgv-1119-2,,kgv,1119,yap,yap,,,,,,,,SN002702
-kgv-410-1,,kgv,410,yap seran,yap_seran,,,,,,,,SN002704
-kgv-857-1,,kgv,857,yar,yar,,,,,,,,SN002705
-kgv-3028-1,,kgv,3028,yaralus,yaralus,,,,,,,,SN002708
-kgv-668-3,,kgv,668,yarpan,yarpan,,,,,,,,SN002713
-kgv-1326-1,,kgv,1326,yawe,yawe,,,,,,,,SN002719
-kgv-2540-1,,kgv,2540,yawir,yawir,,,,,,,,SN002723
-kgv-1014-2,,kgv,1014,ye,ye,,,,,,,,SN002724
-kgv-581-2,,kgv,581,yecie,yecie,,,,,,,,SN002725
-kgv-1439-2,,kgv,1439,yie,yie,,,,,,,,SN002729
-kgv-1268-5,,kgv,1268,yo,yo,,,,,,,,SN002731
-kgv-78-5,,kgv,78,yume,yume,,,,,,,,SN002735
-kgv-78-6,,kgv,78,yumene,yumene,,,,,,,,SN002736
-kgv-1225-3,,kgv,1225,yuol,yuol,,,,,,,,SN002737
-kgv-1238-2,,kgv,1238,yuol tama,yuol_tama,,,,,,,,SN002738
-kgv-708-2,,kgv,708,yuolyuol,yuolyuol,,,,,,,,SN002739
-kgv-1343-1,,kgv,1343,yuon,yuon,,,,,,,,SN002740
-kgv-1449-2,,kgv,1449,yuon,yuon,,,,,,,,SN002741
-kgv-332-1,,kgv,332,yuon,yuon,,,,,,,,SN002742
-kgv-1817-5,,kgv,1817,yuon daruk,yuon_daruk,,,,,,,,SN002744
-kgv-452-1,,kgv,452,yuon monpak,yuon_monpak,,,,,,,,SN002745
-kgv-12-1,,kgv,12,yuon nawariri,yuon_nawariri,,,,,,,,SN002746
-kgv-2296-1,,kgv,2296,yuon sara,yuon_sara,,,,,,,,SN002747
-kgv-1225-4,,kgv,1225,yuor,yuor,,,,,,,,SN002749
-kgv-1019-4,,kgv,1019,yuor,yuor,,,,,,,,SN002751
-kgv-1657-3,,kgv,1657,yuor,yuor,,,,,,,,SN002752
-kgv-1404-1,,kgv,1404,yuorsik,yuorsik,,,,,,,,SN002753
-kgv-1214-3,,kgv,1214,yuwa,yuwa,,,,,,,,SN002755
-kgv-1558-2,,kgv,1558,yuwandi,yuwandi,,,,,,,,SN002756
-kgv-1214-4,,kgv,1214,yuwane,yuwane,,,,,,,,SN002757
-kgv-136-2,,kgv,136,yuwatko,yuwatko,,,,,,,,SN002758
+kgv-1447-1,,kgv,1447,Ø,Ø,�,,,,,�,,SN000001
+kgv-1268-1,,kgv,1268,a'a,a'a,a a,,,,,a ' a,,SN000005
+kgv-1747-1,,kgv,1747,adat,adat,a d a t,,,,,a d a t,,SN000006
+kgv-3725-1,,kgv,3725,afukat,afukat,a f u k a t,,,,,a f u k a t,,SN000010
+kgv-1699-1,,kgv,1699,ahat,ahat,a h a t,,,,,a h a t,,SN000011
+kgv-1964-1,,kgv,1964,-ahutak,-ahutak,+ a h u t a k,,,,,- a h u t a k,,SN000012
+kgv-709-1,,kgv,709,ajar,ajar,a ɟ a r,,,,,a j a r,,SN000013
+kgv-3699-1,,kgv,3699,ajar,ajar,a ɟ a r,,,,,a j a r,,SN000014
+kgv-2572-1,,kgv,2572,akal,akal,a k a l,,,,,a k a l,,SN000016
+kgv-1592-1,,kgv,1592,aknar,aknar,a k n a r,,,,,a k n a r,,SN000017
+kgv-1994-1,,kgv,1994,aknar kangun,aknar_kangun,a k n a r + k a ŋ u n,,,,,a k n a r _ k a ng u n,,SN000018
+kgv-606-1,,kgv,606,*al,*al,a l,,,,,* a l,,SN000020
+kgv-1402-1,,kgv,1402,am,am,a m,,,,,a m,,SN000027
+kgv-796-1,,kgv,796,am belun,am_belun,a m + b e l u n,,,,,a m _ b e l u n,,SN000028
+kgv-586-1,,kgv,586,amdir,amdir,a m d i r,,,,,a m d i r,,SN000030
+kgv-1195-1,,kgv,1195,amkeit,amkeit,a m k e i t,,,,,a m k ei t,,SN000032
+kgv-1209-1,,kgv,1209,an,an,a n,,,,,a n,,SN000033
+kgv-2090-1,,kgv,2090,-an,-an,+ a n,,,,,- a n,,SN000034
+kgv-1567-1,,kgv,1567,anggas,anggas,a ŋ g a s,,,,,a ng g a s,,SN000039
+kgv-80-1,,kgv,80,anggas padenun,anggas_padenun,a ŋ g a s + p a d e n u n,,,,,a ng g a s _ p a d e n u n,,SN000040
+kgv-2090-2,,kgv,2090,anggon,anggon,a ŋ g o n,,,,,a ng g o n,,SN000041
+kgv-1356-1,,kgv,1356,anka,anka,a n k a,,,,,a n k a,,SN000042
+kgv-770-1,,kgv,770,anting,anting,a n t i ŋ,,,,,a n t i ng,,SN000044
+kgv-493-1,,kgv,493,ap,ap,a p,,,,,a p,,SN000046
+kgv-119-1,,kgv,119,ar,ar,a r,,,,,a r,,SN000047
+kgv-2879-1,,kgv,2879,ar,ar,a r,,,,,a r,,SN000050
+kgv-906-1,,kgv,906,*ar,*ar,a r,,,,,* a r,,SN000051
+kgv-1948-1,,kgv,1948,aragadi,aragadi,a r a g a d i,,,,,a r a g a d i,,SN000054
+kgv-1202-1,,kgv,1202,aremun,aremun,a r e m u n,,,,,a r e m u n,,SN000057
+kgv-2035-1,,kgv,2035,arep,arep,a r e p,,,,,a r e p,,SN000058
+kgv-1692-1,,kgv,1692,ariemun,ariemun,a r i e m u n,,,,,a r ie m u n,,SN000061
+kgv-2628-1,,kgv,2628,arun,arun,a r u n,,,,,a r u n,,SN000062
+kgv-53-1,,kgv,53,arwa,arwa,a r w a,,,,,a rw a,,SN000063
+kgv-863-1,,kgv,863,*as,*as,a s,,,,,* a s,,SN000064
+kgv-863-2,,kgv,863,asun,asun,a s u n,,,,,a s u n,,SN000069
+kgv-1014-1,,kgv,1014,atau,atau,a t a u,,,,,a t au,,SN000071
+kgv-1568-1,,kgv,1568,ator,ator,a t o r,,,,,a t o r,,SN000072
+kgv-1289-1,,kgv,1289,au,au,a u,,,,,au,,SN000073
+kgv-1869-1,,kgv,1869,ba,ba,b a,,,,,b a,,SN000074
+kgv-2009-1,,kgv,2009,bal,bal,b a l,,,,,b a l,,SN000079
+kgv-1039-1,,kgv,1039,balaok,balaok,b a l a o k,,,,,b a l ao k,,SN000082
+kgv-1013-1,,kgv,1013,baluku,baluku,b a l u k u,,,,,b a l u k u,,SN000086
+kgv-2584-1,,kgv,2584,banku,banku,b a n k u,,,,,b a n k u,,SN000087
+kgv-2014-1,,kgv,2014,bara,bara,b a r a,,,,,b a r a,,SN000088
+kgv-1564-1,,kgv,1564,barahala,barahala,b a r a h a l a,,,,,b a r a h a l a,,SN000089
+kgv-2842-1,,kgv,2842,barang,barang,b a r a ŋ,,,,,b a r a ng,,SN000092
+kgv-1424-1,,kgv,1424,baranggap,baranggap,b a r a ŋ g a p,,,,,b a r a ng g a p,,SN000093
+kgv-1231-1,,kgv,1231,baru,baru,b a r u,,,,,b a r u,,SN000095
+kgv-1006-1,,kgv,1006,bataku,bataku,b a t a k u,,,,,b a t a k u,,SN000096
+kgv-2368-1,,kgv,2368,bawang iriskapten,bawang_iriskapten,b a w a ŋ + i r i s k a p t e n,,,,,b a w a ng _ i r i s k a p t e n,,SN000097
+kgv-975-1,,kgv,975,bayam,bayam,b a j a m,,,,,b a ya m,,SN000099
+kgv-1360-1,,kgv,1360,bebak,bebak,b e b a k,,,,,b e b a k,,SN000101
+kgv-1482-1,,kgv,1482,bekiem,bekiem,b e k i e m,,,,,b e k ie m,,SN000102
+kgv-172-1,,kgv,172,bekiemkang,bekiemkang,b e k i e m k a ŋ,,,,,b e k ie m k a ng,,SN000103
+kgv-504-1,,kgv,504,belajar,belajar,b e l a ɟ a r,,,,,b e l a j a r,,SN000105
+kgv-1396-1,,kgv,1396,belbel,belbel,b e l b e l,,,,,b e l b e l,,SN000106
+kgv-972-1,,kgv,972,belek,belek,b e l e k,,,,,b e l e k,,SN000107
+kgv-1205-1,,kgv,1205,belen,belen,b e l e n,,,,,b e l e n,,SN000108
+kgv-1035-1,,kgv,1035,bes,bes,b e s,,,,,b e s,,SN000109
+kgv-1639-1,,kgv,1639,bir,bir,b i r,,,,,b i r,,SN000117
+kgv-972-2,,kgv,972,bisa,bisa,b i s a,,,,,b i s a,,SN000119
+kgv-695-1,,kgv,695,bo,bo,b o,,,,,b o,,SN000121
+kgv-2753-1,,kgv,2753,bo,bo,b o,,,,,b o,,SN000122
+kgv-1518-1,,kgv,1518,boda,boda,b o d a,,,,,b o d a,,SN000123
+kgv-674-1,,kgv,674,bol,bol,b o l,,,,,b o l,,SN000124
+kgv-1845-1,,kgv,1845,bola,bola,b o l a,,,,,b o l a,,SN000125
+kgv-1336-1,,kgv,1336,bolkoyal,bolkoyal,b o l k o j a l,,,,,b o l k oya l,,SN000126
+kgv-478-1,,kgv,478,bolkul,bolkul,b o l k u l,,,,,b o l k u l,,SN000127
+kgv-2924-1,,kgv,2924,bolon,bolon,b o l o n,,,,,b o l o n,,SN000129
+kgv-692-1,,kgv,692,bon,bon,b o n,,,,,b o n,,SN000130
+kgv-1577-1,,kgv,1577,=bon,=bon,+ b o n,,,,,= b o n,,SN000131
+kgv-2223-1,,kgv,2223,bonaras,bonaras,b o n a r a s,,,,,b o n a r a s,,SN000132
+kgv-1812-1,,kgv,1812,bonasau,bonasau,b o n a s a u,,,,,b o n a s au,,SN000133
+kgv-1501-1,,kgv,1501,bor,bor,b o r,,,,,b o r,,SN000135
+kgv-3423-1,,kgv,3423,bor,bor,b o r,,,,,b o r,,SN000136
+kgv-1156-1,,kgv,1156,borma,borma,b o r m a,,,,,b o r m a,,SN000138
+kgv-2393-1,,kgv,2393,bot,bot,b o t,,,,,b o t,,SN000140
+kgv-1321-1,,kgv,1321,botal,botal,b o t a l,,,,,b o t a l,,SN000141
+kgv-1206-1,,kgv,1206,boukbouk,boukbouk,b o u k b o u k,,,,,b ou k b ou k,,SN000143
+kgv-2049-1,,kgv,2049,bubir,bubir,b u b i r,,,,,b u b i r,,SN000144
+kgv-963-1,,kgv,963,buk,buk,b u k,,,,,b u k,,SN000146
+kgv-239-1,,kgv,239,bunga,bunga,b u ŋ a,,,,,b u ng a,,SN000148
+kgv-3161-1,,kgv,3161,buokbuok,buokbuok,b u o k b u o k,,,,,b uo k b uo k,,SN000155
+kgv-1221-1,,kgv,1221,bustang,bustang,b u s t a ŋ,,,,,b u s t a ng,,SN000162
+kgv-1178-1,,kgv,1178,bustang posun,bustang_posun,b u s t a ŋ + p o s u n,,,,,b u s t a ng _ p o s u n,,SN000163
+kgv-34-1,,kgv,34,but,but,b u t,,,,,b u t,,SN000164
+kgv-732-1,,kgv,732,-ca,-ca,+ c a,,,,,- c a,,SN000165
+kgv-1554-1,,kgv,1554,-cam,-cam,+ c a m,,,,,- c a m,,SN000169
+kgv-2017-1,,kgv,2017,campur,campur,c a m p u r,,,,,c a m p u r,,SN000170
+kgv-1554-2,,kgv,1554,canam,canam,c a n a m,,,,,c a n a m,,SN000171
+kgv-476-1,,kgv,476,cangkir,cangkir,c a ŋ k i r,,,,,c a ng k i r,,SN000172
+kgv-2001-1,,kgv,2001,cat,cat,c a t,,,,,c a t,,SN000173
+kgv-1246-1,,kgv,1246,caun,caun,c a u n,,,,,c au n,,SN000174
+kgv-732-2,,kgv,732,-ce,-ce,+ c e,,,,,- c e,,SN000175
+kgv-1975-1,,kgv,1975,cek,cek,c e k,,,,,c e k,,SN000176
+kgv-1711-1,,kgv,1711,cerita,cerita,c e r i t a,,,,,c e r i t a,,SN000178
+kgv-2060-1,,kgv,2060,cerita,cerita,c e r i t a,,,,,c e r i t a,,SN000179
+kgv-1246-2,,kgv,1246,cicaun,cicaun,c i c a u n,,,,,c i c au n,,SN000180
+kgv-750-1,,kgv,750,cici,cici,c i c i,,,,,c i c i,,SN000182
+kgv-1812-2,,kgv,1812,coba,coba,c o b a,,,,,c o b a,,SN000184
+kgv-3029-1,,kgv,3029,cok,cok,c o k,,,,,c o k,,SN000185
+kgv-634-1,,kgv,634,dagim,dagim,d a g i m,,,,,d a g i m,,SN000187
+kgv-1829-1,,kgv,1829,dalang,dalang,d a l a ŋ,,,,,d a l a ng,,SN000190
+kgv-1719-1,,kgv,1719,dan,dan,d a n,,,,,d a n,,SN000195
+kgv-1088-1,,kgv,1088,dare,dare,d a r e,,,,,d a r e,,SN000197
+kgv-897-1,,kgv,897,dareok,dareok,d a r e o k,,,,,d a r eo k,,SN000198
+kgv-1817-1,,kgv,1817,daru,daru,d a r u,,,,,d a r u,,SN000201
+kgv-2604-1,,kgv,2604,dedesi,dedesi,d e d e s i,,,,,d e d e s i,,SN000206
+kgv-1452-1,,kgv,1452,deir,deir,d e i r,,,,,d ei r,,SN000207
+kgv-708-1,,kgv,708,delepdelep,delepdelep,d e l e p d e l e p,,,,,d e l e p d e l e p,,SN000209
+kgv-185-1,,kgv,185,didir,didir,d i d i r,,,,,d i d i r,,SN000213
+kgv-1365-1,,kgv,1365,didiras,didiras,d i d i r a s,,,,,d i d i r a s,,SN000214
+kgv-778-1,,kgv,778,diguar,diguar,d i g u a r,,,,,d i g ua r,,SN000215
+kgv-221-1,,kgv,221,din,din,d i n,,,,,d i n,,SN000218
+kgv-67-1,,kgv,67,din songsong,din_songsong,d i n + s o ŋ s o ŋ,,,,,d i n _ s o ng s o ng,,SN000220
+kgv-2102-1,,kgv,2102,dinan,dinan,d i n a n,,,,,d i n a n,,SN000221
+kgv-1895-1,,kgv,1895,dodon,dodon,d o d o n,,,,,d o d o n,,SN000226
+kgv-682-1,,kgv,682,-dok,-dok,+ d o k,,,,,- d o k,,SN000227
+kgv-738-1,,kgv,738,don,don,d o n,,,,,d o n,,SN000232
+kgv-862-1,,kgv,862,don iriskap,don_iriskap,d o n + i r i s k a p,,,,,d o n _ i r i s k a p,,SN000233
+kgv-862-2,,kgv,862,don penpen,don_penpen,d o n + p e n p e n,,,,,d o n _ p e n p e n,,SN000236
+kgv-604-1,,kgv,604,don pernanan,don_pernanan,d o n + p e r n a n a n,,,,,d o n _ p e r n a n a n,,SN000237
+kgv-625-1,,kgv,625,don yuolyuol,don_yuolyuol,d o n + j u o l j u o l,,,,,d o n _ yuo l yuo l,,SN000238
+kgv-3053-1,,kgv,3053,dong,dong,d o ŋ,,,,,d o ng,,SN000241
+kgv-1616-1,,kgv,1616,donselet,donselet,d o n s e l e t,,,,,d o ns e l e t,,SN000242
+kgv-2325-1,,kgv,2325,dorma,dorma,d o r m a,,,,,d o r m a,,SN000244
+kgv-2548-1,,kgv,2548,dorom,dorom,d o r o m,,,,,d o r o m,,SN000245
+kgv-714-1,,kgv,714,dowi,dowi,d o w i,,,,,d o w i,,SN000246
+kgv-1575-1,,kgv,1575,dudin,dudin,d u d i n,,,,,d u d i n,,SN000249
+kgv-863-3,,kgv,863,duk,duk,d u k,,,,,d u k,,SN000250
+kgv-398-1,,kgv,398,durma,durma,d u r m a,,,,,d u r m a,,SN000257
+kgv-2921-1,,kgv,2921,eba,eba,e b a,,,,,e b a,,SN000260
+kgv-1839-1,,kgv,1839,ecua,ecua,e c u a,,,,,e c ua,,SN000263
+kgv-1498-1,,kgv,1498,eir,eir,e i r,,,,,ei r,,SN000266
+kgv-66-1,,kgv,66,eiruk,eiruk,e i r u k,,,,,ei r u k,,SN000267
+kgv-713-1,,kgv,713,eksuet,eksuet,e k s u e t,,,,,e ks ue t,,SN000269
+kgv-1160-1,,kgv,1160,eksuet,eksuet,e k s u e t,,,,,e ks ue t,,SN000270
+kgv-690-1,,kgv,690,*elak,*elak,e l a k,,,,,* e l a k,,SN000272
+kgv-206-1,,kgv,206,elam,elam,e l a m,,,,,e l a m,,SN000273
+kgv-1485-1,,kgv,1485,elao,elao,e l a o,,,,,e l ao,,SN000274
+kgv-690-2,,kgv,690,elaun,elaun,e l a u n,,,,,e l au n,,SN000275
+kgv-797-1,,kgv,797,elkin narun,elkin_narun,e l k i n + n a r u n,,,,,e l k i n _ n a r u n,,SN000277
+kgv-1216-1,,kgv,1216,ema,ema,e m a,,,,,e m a,,SN000279
+kgv-1272-1,,kgv,1272,ema caun,ema_caun,e m a + c a u n,,,,,e m a _ c au n,,SN000281
+kgv-1272-2,,kgv,1272,ema temun,ema_temun,e m a + t e m u n,,,,,e m a _ t e m u n,,SN000282
+kgv-1278-1,,kgv,1278,emguk,emguk,e m g u k,,,,,e m g u k,,SN000284
+kgv-1278-2,,kgv,1278,emguk,emguk,e m g u k,,,,,e m g u k,,SN000285
+kgv-1496-1,,kgv,1496,emnem,emnem,e m n e m,,,,,e m n e m,,SN000286
+kgv-1202-2,,kgv,1202,emun,emun,e m u n,,,,,e m u n,,SN000290
+kgv-345-1,,kgv,345,emun,emun,e m u n,,,,,e m u n,,SN000291
+kgv-1686-1,,kgv,1686,epko,epko,e p k o,,,,,e p k o,,SN000297
+kgv-1493-1,,kgv,1493,epkon,epkon,e p k o n,,,,,e p k o n,,SN000298
+kgv-1480-1,,kgv,1480,eren,eren,e r e n,,,,,e r e n,,SN000301
+kgv-1839-2,,kgv,1839,eruap,eruap,e r u a p,,,,,e r ua p,,SN000303
+kgv-617-1,,kgv,617,es,es,e s,,,,,e s,,SN000304
+kgv-1217-1,,kgv,1217,esa,esa,e s a,,,,,e s a,,SN000305
+kgv-1327-1,,kgv,1327,esa caun,esa_caun,e s a + c a u n,,,,,e s a _ c au n,,SN000306
+kgv-1327-2,,kgv,1327,esa temun,esa_temun,e s a + t e m u n,,,,,e s a _ t e m u n,,SN000308
+kgv-1268-2,,kgv,1268,esie,esie,e s i e,,,,,e s ie,,SN000309
+kgv-1901-1,,kgv,1901,eskop,eskop,e s k o p,,,,,e s k o p,,SN000310
+kgv-1383-1,,kgv,1383,esnem,esnem,e s n e m,,,,,e s n e m,,SN000312
+kgv-683-1,,kgv,683,-et,-et,+ e t,,,,,- e t,,SN000316
+kgv-1242-1,,kgv,1242,etaman,etaman,e t a m a n,,,,,e t a m a n,,SN000318
+kgv-1493-2,,kgv,1493,etkon,etkon,e t k o n,,,,,e t k o n,,SN000319
+kgv-1623-1,,kgv,1623,ewa,ewa,e w a,,,,,e w a,,SN000321
+kgv-1623-2,,kgv,1623,ewawa,ewawa,e w a w a,,,,,e w a w a,,SN000324
+kgv-681-1,,kgv,681,fakurat,fakurat,f a k u r a t,,,,,f a k u r a t,,SN000326
+kgv-3452-1,,kgv,3452,fakurat,fakurat,f a k u r a t,,,,,f a k u r a t,,SN000327
+kgv-1025-1,,kgv,1025,filoit,filoit,f i l o i t,,,,,f i l oi t,,SN000333
+kgv-133-1,,kgv,133,gaim,gaim,g a i m,,,,,g ai m,,SN000336
+kgv-945-1,,kgv,945,gala,gala,g a l a,,,,,g a l a,,SN000338
+kgv-1684-1,,kgv,1684,galip,galip,g a l i p,,,,,g a l i p,,SN000339
+kgv-2401-1,,kgv,2401,gambar,gambar,g a m b a r,,,,,g a m b a r,,SN000340
+kgv-1495-1,,kgv,1495,gampang,gampang,g a m p a ŋ,,,,,g a m p a ng,,SN000341
+kgv-98-1,,kgv,98,-gan,-gan,+ g a n,,,,,- g a n,,SN000342
+kgv-2884-1,,kgv,2884,gang,gang,g a ŋ,,,,,g a ng,,SN000343
+kgv-2884-2,,kgv,2884,ganggang,ganggang,g a ŋ g a ŋ,,,,,g a ng g a ng,,SN000344
+kgv-501-1,,kgv,501,ganggie,ganggie,g a ŋ g i e,,,,,g a ng g ie,,SN000345
+kgv-2430-1,,kgv,2430,gantor,gantor,g a n t o r,,,,,g a n t o r,,SN000346
+kgv-96-1,,kgv,96,gare,gare,g a r e,,,,,g a r e,,SN000348
+kgv-1487-1,,kgv,1487,gareor,gareor,g a r e o r,,,,,g a r eo r,,SN000349
+kgv-721-1,,kgv,721,garos,garos,g a r o s,,,,,g a r o s,,SN000350
+kgv-688-1,,kgv,688,gawar,gawar,g a w a r,,,,,g a w a r,,SN000354
+kgv-2124-1,,kgv,2124,gawar,gawar,g a w a r,,,,,g a w a r,,SN000356
+kgv-2124-2,,kgv,2124,gawar,gawar,g a w a r,,,,,g a w a r,,SN000357
+kgv-1240-1,,kgv,1240,ge,ge,g e,,,,,g e,,SN000360
+kgv-687-1,,kgv,687,ge mera,ge_mera,g e + m e r a,,,,,g e _ m e r a,,SN000361
+kgv-604-2,,kgv,604,gelas,gelas,g e l a s,,,,,g e l a s,,SN000364
+kgv-3710-1,,kgv,3710,gelas,gelas,g e l a s,,,,,g e l a s,,SN000365
+kgv-1028-1,,kgv,1028,gelem,gelem,g e l e m,,,,,g e l e m,,SN000366
+kgv-3689-1,,kgv,3689,gelembung,gelembung,g e l e m b u ŋ,,,,,g e l e m b u ng,,SN000367
+kgv-3280-1,,kgv,3280,gelemun,gelemun,g e l e m u n,,,,,g e l e m u n,,SN000368
+kgv-2895-1,,kgv,2895,genggalong,genggalong,g e ŋ g a l o ŋ,,,,,g e ng g a l o ng,,SN000370
+kgv-3809-1,,kgv,3809,genggueng,genggueng,g e ŋ g u e ŋ,,,,,g e ng g ue ng,,SN000371
+kgv-1309-1,,kgv,1309,gerket,gerket,g e r k e t,,,,,g e r k e t,,SN000373
+kgv-1240-2,,kgv,1240,get,get,g e t,,,,,g e t,,SN000374
+kgv-1231-2,,kgv,1231,giar,giar,g i a r,,,,,g ia r,,SN000376
+kgv-728-1,,kgv,728,giarun,giarun,g i a r u n,,,,,g ia r u n,,SN000377
+kgv-1380-1,,kgv,1380,gier,gier,g i e r,,,,,g ie r,,SN000378
+kgv-139-1,,kgv,139,gierkawer,gierkawer,g i e r k a w e r,,,,,g ie r k a w e r,,SN000379
+kgv-770-2,,kgv,770,gigiwang,gigiwang,g i g i w a ŋ,,,,,g i g i w a ng,,SN000380
+kgv-604-3,,kgv,604,ginana,ginana,g i n a n a,,,,,g i n a n a,,SN000381
+kgv-723-1,,kgv,723,go,go,g o,,,,,g o,,SN000386
+kgv-2297-1,,kgv,2297,go kerkap,go_kerkap,g o + k e r k a p,,,,,g o _ k e r k a p,,SN000391
+kgv-1233-1,,kgv,1233,go saun,go_saun,g o + s a u n,,,,,g o _ s au n,,SN000393
+kgv-1225-1,,kgv,1225,go yuol,go_yuol,g o + j u o l,,,,,g o _ yuo l,,SN000395
+kgv-1422-1,,kgv,1422,gocie,gocie,g o c i e,,,,,g o c ie,,SN000397
+kgv-1150-1,,kgv,1150,godarung,godarung,g o d a r u ŋ,,,,,g o d a r u ng,,SN000398
+kgv-1654-1,,kgv,1654,godelep,godelep,g o d e l e p,,,,,g o d e l e p,,SN000399
+kgv-230-1,,kgv,230,gokabara,gokabara,g o k a b a r a,,,,,g o k a b a r a,,SN000401
+kgv-1845-2,,kgv,1845,gol,gol,g o l,,,,,g o l,,SN000402
+kgv-430-1,,kgv,430,golma,golma,g o l m a,,,,,g o l m a,,SN000404
+kgv-3626-1,,kgv,3626,gonggin,gonggin,g o ŋ g i n,,,,,g o ng g i n,,SN000405
+kgv-3319-1,,kgv,3319,gonggong,gonggong,g o ŋ g o ŋ,,,,,g o ng g o ng,,SN000406
+kgv-2990-1,,kgv,2990,goni,goni,g o n i,,,,,g o n i,,SN000408
+kgv-933-1,,kgv,933,goparar,goparar,g o p a r a r,,,,,g o p a r a r,,SN000409
+kgv-2628-2,,kgv,2628,*gor,*gor,g o r,,,,,* g o r,,SN000410
+kgv-2628-3,,kgv,2628,gorun,gorun,g o r u n,,,,,g o r u n,,SN000416
+kgv-88-1,,kgv,88,gowienkier,gowienkier,g o w i e n k i e r,,,,,g o w ie n k ie r,,SN000422
+kgv-96-2,,kgv,96,guadang,guadang,g u a d a ŋ,,,,,g ua d a ng,,SN000424
+kgv-1468-1,,kgv,1468,guanggarien,guanggarien,g u a ŋ g a r i e n,,,,,g ua ng g a r ie n,,SN000426
+kgv-1038-1,,kgv,1038,guru,guru,g u r u,,,,,g u r u,,SN000432
+kgv-3746-1,,kgv,3746,gusi,gusi,g u s i,,,,,g u s i,,SN000433
+kgv-1236-1,,kgv,1236,ha,ha,h a,,,,,h a,,SN000435
+kgv-1157-1,,kgv,1157,habis,habis,h a b i s,,,,,h a b i s,,SN000437
+kgv-1657-1,,kgv,1657,haidak,haidak,h a i d a k,,,,,h ai d a k,,SN000438
+kgv-203-1,,kgv,203,halar,halar,h a l a r,,,,,h a l a r,,SN000440
+kgv-2432-1,,kgv,2432,halar,halar,h a l a r,,,,,h a l a r,,SN000441
+kgv-1856-1,,kgv,1856,halus,halus,h a l u s,,,,,h a l u s,,SN000442
+kgv-1021-1,,kgv,1021,handuk,handuk,h a n d u k,,,,,h a n d u k,,SN000443
+kgv-1580-1,,kgv,1580,hanya,hanya,h a n j a,,,,,h a n ya,,SN000444
+kgv-1225-2,,kgv,1225,hari,hari,h a r i,,,,,h a r i,,SN000445
+kgv-1699-2,,kgv,1699,hari minggu,hari_minggu,h a r i + m i ŋ g u,,,,,h a r i _ m i ng g u,,SN000446
+kgv-971-1,,kgv,971,harus,harus,h a r u s,,,,,h a r u s,,SN000447
+kgv-1422-2,,kgv,1422,hidup,hidup,h i d u p,,,,,h i d u p,,SN000449
+kgv-210-1,,kgv,210,hidup,hidup,h i d u p,,,,,h i d u p,,SN000450
+kgv-1448-1,,kgv,1448,iar,iar,i a r,,,,,ia r,,SN000457
+kgv-1155-1,,kgv,1155,iar,iar,i a r,,,,,ia r,,SN000458
+kgv-2711-1,,kgv,2711,iar,iar,i a r,,,,,ia r,,SN000459
+kgv-1241-1,,kgv,1241,ikon,ikon,i k o n,,,,,i k o n,,SN000464
+kgv-868-1,,kgv,868,im,im,i m,,,,,i m,,SN000465
+kgv-1198-1,,kgv,1198,imbuang,imbuang,i m b u a ŋ,,,,,i m b ua ng,,SN000474
+kgv-78-1,,kgv,78,ime,ime,i m e,,,,,i m e,,SN000475
+kgv-78-2,,kgv,78,imene,imene,i m e n e,,,,,i m e n e,,SN000476
+kgv-1212-1,,kgv,1212,in,in,i n,,,,,i n,,SN000478
+kgv-1405-1,,kgv,1405,in,in,i n,,,,,i n,,SN000479
+kgv-98-2,,kgv,98,inaninggan,inaninggan,i n a n i ŋ g a n,,,,,i n a n i ng g a n,,SN000482
+kgv-1018-1,,kgv,1018,ingatan,ingatan,i ŋ a t a n,,,,,i ng a t a n,,SN000484
+kgv-780-1,,kgv,780,inggon,inggon,i ŋ g o n,,,,,i ng g o n,,SN000485
+kgv-2634-1,,kgv,2634,inier,inier,i n i e r,,,,,i n ie r,,SN000488
+kgv-178-1,,kgv,178,iren,iren,i r e n,,,,,i r e n,,SN000492
+kgv-1705-1,,kgv,1705,irie,irie,i r i e,,,,,i r ie,,SN000493
+kgv-1335-1,,kgv,1335,iriskap,iriskap,i r i s k a p,,,,,i r i s k a p,,SN000494
+kgv-1597-1,,kgv,1597,iskap,iskap,i s k a p,,,,,i s k a p,,SN000500
+kgv-168-1,,kgv,168,istirahat,istirahat,i s t i r a h a t,,,,,i s t i r a h a t,,SN000501
+kgv-2880-1,,kgv,2880,istop,istop,i s t o p,,,,,i s t o p,,SN000502
+kgv-1362-1,,kgv,1362,istrat,istrat,i s t r a t,,,,,i s t r a t,,SN000503
+kgv-3050-1,,kgv,3050,iun,iun,i u n,,,,,i u n,,SN000506
+kgv-3017-1,,kgv,3017,iwora,iwora,i w o r a,,,,,i w o r a,,SN000509
+kgv-1564-2,,kgv,1564,jabul,jabul,ɟ a b u l,,,,,j a b u l,,SN000510
+kgv-1990-1,,kgv,1990,jadi,jadi,ɟ a d i,,,,,j a d i,,SN000511
+kgv-2336-1,,kgv,2336,jadi,jadi,ɟ a d i,,,,,j a d i,,SN000512
+kgv-1353-1,,kgv,1353,jam,jam,ɟ a m,,,,,j a m,,SN000514
+kgv-678-1,,kgv,678,jangkut,jangkut,ɟ a ŋ k u t,,,,,j a ng k u t,,SN000515
+kgv-1675-1,,kgv,1675,janji,janji,ɟ a n ɟ i,,,,,j a n j i,,SN000516
+kgv-1275-1,,kgv,1275,jawab,jawab,ɟ a w a b,,,,,j a w a b,,SN000519
+kgv-1375-1,,kgv,1375,jendela,jendela,ɟ e n d e l a,,,,,j e n d e l a,,SN000520
+kgv-1869-2,,kgv,1869,jie,jie,ɟ i e,,,,,j ie,,SN000521
+kgv-1213-1,,kgv,1213,ka,ka,k a,,,,,k a,,SN000525
+kgv-693-1,,kgv,693,=ka,=ka,+ k a,,,,,= k a,,SN000526
+kgv-230-2,,kgv,230,kabara,kabara,k a b a r a,,,,,k a b a r a,,SN000530
+kgv-1650-1,,kgv,1650,kabarua,kabarua,k a b a r u a,,,,,k a b a r ua,,SN000531
+kgv-197-1,,kgv,197,kabas,kabas,k a b a s,,,,,k a b a s,,SN000536
+kgv-197-2,,kgv,197,kabas,kabas,k a b a s,,,,,k a b a s,,SN000537
+kgv-1429-1,,kgv,1429,kabor,kabor,k a b o r,,,,,k a b o r,,SN000540
+kgv-819-1,,kgv,819,kabor,kabor,k a b o r,,,,,k a b o r,,SN000541
+kgv-1533-1,,kgv,1533,kabor lalang,kabor_lalang,k a b o r + l a l a ŋ,,,,,k a b o r _ l a l a ng,,SN000543
+kgv-1123-1,,kgv,1123,kaborko,kaborko,k a b o r k o,,,,,k a b o r k o,,SN000544
+kgv-1991-1,,kgv,1991,kabun,kabun,k a b u n,,,,,k a b u n,,SN000547
+kgv-2223-2,,kgv,2223,kacok,kacok,k a c o k,,,,,k a c o k,,SN000550
+kgv-2223-3,,kgv,2223,kademor,kademor,k a d e m o r,,,,,k a d e m o r,,SN000552
+kgv-1480-2,,kgv,1480,kaden,kaden,k a d e n,,,,,k a d e n,,SN000553
+kgv-1924-1,,kgv,1924,kaden kies,kaden_kies,k a d e n + k i e s,,,,,k a d e n _ k ie s,,SN000554
+kgv-2327-1,,kgv,2327,kaden lalang,kaden_lalang,k a d e n + l a l a ŋ,,,,,k a d e n _ l a l a ng,,SN000556
+kgv-189-1,,kgv,189,kadenenen,kadenenen,k a d e n e n e n,,,,,k a d e n e n e n,,SN000557
+kgv-1476-1,,kgv,1476,kadera,kadera,k a d e r a,,,,,k a d e r a,,SN000558
+kgv-1965-1,,kgv,1965,kadok,kadok,k a d o k,,,,,k a d o k,,SN000559
+kgv-834-1,,kgv,834,kahaman,kahaman,k a h a m a n,,,,,k a h a m a n,,SN000564
+kgv-1935-1,,kgv,1935,kahamanpos,kahamanpos,k a h a m a n p o s,,,,,k a h a m a n p o s,,SN000565
+kgv-1156-2,,kgv,1156,kahetma,kahetma,k a h e t m a,,,,,k a h e t m a,,SN000568
+kgv-10-1,,kgv,10,kai,kai,k a i,,,,,k ai,,SN000570
+kgv-1850-1,,kgv,1850,kai kawas,kai_kawas,k a i + k a w a s,,,,,k ai _ k a w a s,,SN000572
+kgv-732-3,,kgv,732,kain,kain,k a i n,,,,,k ai n,,SN000576
+kgv-2440-1,,kgv,2440,kainasu,kainasu,k a i n a s u,,,,,k ai n a s u,,SN000577
+kgv-790-1,,kgv,790,kalar,kalar,k a l a r,,,,,k a l a r,,SN000589
+kgv-3710-2,,kgv,3710,kalar,kalar,k a l a r,,,,,k a l a r,,SN000590
+kgv-1459-1,,kgv,1459,kalau,kalau,k a l a u,,,,,k a l au,,SN000591
+kgv-1856-2,,kgv,1856,kalawen,kalawen,k a l a w e n,,,,,k a l a w e n,,SN000592
+kgv-1223-1,,kgv,1223,kale,kale,k a l e,,,,,k a l e,,SN000593
+kgv-1074-1,,kgv,1074,kaling,kaling,k a l i ŋ,,,,,k a l i ng,,SN000596
+kgv-31-1,,kgv,31,kaling,kaling,k a l i ŋ,,,,,k a l i ng,,SN000597
+kgv-1253-1,,kgv,1253,kalis,kalis,k a l i s,,,,,k a l i s,,SN000599
+kgv-658-1,,kgv,658,kalis,kalis,k a l i s,,,,,k a l i s,,SN000600
+kgv-1733-1,,kgv,1733,kalis tanggir,kalis_tanggir,k a l i s + t a ŋ g i r,,,,,k a l i s _ t a ng g i r,,SN000602
+kgv-1509-1,,kgv,1509,kalkalet,kalkalet,k a l k a l e t,,,,,k a l k a l e t,,SN000603
+kgv-1958-1,,kgv,1958,kalomun,kalomun,k a l o m u n,,,,,k a l o m u n,,SN000607
+kgv-1450-1,,kgv,1450,kalot,kalot,k a l o t,,,,,k a l o t,,SN000608
+kgv-1961-1,,kgv,1961,kalung,kalung,k a l u ŋ,,,,,k a l u ng,,SN000612
+kgv-1127-1,,kgv,1127,kama,kama,k a m a,,,,,k a m a,,SN000613
+kgv-606-2,,kgv,606,kaman,kaman,k a m a n,,,,,k a m a n,,SN000614
+kgv-394-1,,kgv,394,kamanget,kamanget,k a m a ŋ e t,,,,,k a m a ng e t,,SN000618
+kgv-1726-1,,kgv,1726,kamen,kamen,k a m e n,,,,,k a m e n,,SN000627
+kgv-859-1,,kgv,859,kamfor,kamfor,k a m f o r,,,,,k a m f o r,,SN000629
+kgv-1693-1,,kgv,1693,kamis,kamis,k a m i s,,,,,k a m i s,,SN000630
+kgv-1981-1,,kgv,1981,kamun,kamun,k a m u n,,,,,k a m u n,,SN000633
+kgv-621-1,,kgv,621,kamung,kamung,k a m u ŋ,,,,,k a m u ng,,SN000634
+kgv-1019-1,,kgv,1019,kan,kan,k a n,,,,,k a n,,SN000635
+kgv-1394-1,,kgv,1394,kang,kang,k a ŋ,,,,,k a ng,,SN000643
+kgv-1396-2,,kgv,1396,kang,kang,k a ŋ,,,,,k a ng,,SN000644
+kgv-1470-1,,kgv,1470,kang,kang,k a ŋ,,,,,k a ng,,SN000645
+kgv-124-1,,kgv,124,*kang,*kang,k a ŋ,,,,,* k a ng,,SN000646
+kgv-1400-1,,kgv,1400,kanggarom,kanggarom,k a ŋ g a r o m,,,,,k a ng g a r o m,,SN000648
+kgv-1413-1,,kgv,1413,kanggei,kanggei,k a ŋ g e i,,,,,k a ng g ei,,SN000649
+kgv-2467-1,,kgv,2467,kanggeit,kanggeit,k a ŋ g e i t,,,,,k a ng g ei t,,SN000651
+kgv-1248-1,,kgv,1248,kanggir,kanggir,k a ŋ g i r,,,,,k a ng g i r,,SN000654
+kgv-1757-1,,kgv,1757,kanggir pop,kanggir_pop,k a ŋ g i r + p o p,,,,,k a ng g i r _ p o p,,SN000656
+kgv-17-1,,kgv,17,kanggir pulun,kanggir_pulun,k a ŋ g i r + p u l u n,,,,,k a ng g i r _ p u l u n,,SN000657
+kgv-1653-1,,kgv,1653,kanggir saun,kanggir_saun,k a ŋ g i r + s a u n,,,,,k a ng g i r _ s au n,,SN000658
+kgv-1560-1,,kgv,1560,kanggirar,kanggirar,k a ŋ g i r a r,,,,,k a ng g i r a r,,SN000659
+kgv-1560-2,,kgv,1560,kanggirar,kanggirar,k a ŋ g i r a r,,,,,k a ng g i r a r,,SN000660
+kgv-3807-1,,kgv,3807,kanggirnar,kanggirnar,k a ŋ g i r n a r,,,,,k a ng g i r n a r,,SN000661
+kgv-1958-2,,kgv,1958,kangguar,kangguar,k a ŋ g u a r,,,,,k a ng g ua r,,SN000663
+kgv-674-2,,kgv,674,kanggur,kanggur,k a ŋ g u r,,,,,k a ng g u r,,SN000664
+kgv-1510-1,,kgv,1510,kanggus,kanggus,k a ŋ g u s,,,,,k a ng g u s,,SN000667
+kgv-124-2,,kgv,124,kangun,kangun,k a ŋ u n,,,,,k a ng u n,,SN000671
+kgv-1835-1,,kgv,1835,kangun nerunggo,kangun_nerunggo,k a ŋ u n + n e r u ŋ g o,,,,,k a ng u n _ n e r u ng g o,,SN000672
+kgv-1917-1,,kgv,1917,kanie,kanie,k a n i e,,,,,k a n ie,,SN000673
+kgv-1311-1,,kgv,1311,-kaning,-kaning,+ k a n i ŋ,,,,,- k a n i ng,,SN000674
+kgv-1483-1,,kgv,1483,kaninggonie,kaninggonie,k a n i ŋ g o n i e,,,,,k a n i ng g o n ie,,SN000675
+kgv-1500-1,,kgv,1500,kansuor,kansuor,k a n s u o r,,,,,k a ns uo r,,SN000676
+kgv-1669-1,,kgv,1669,kanus,kanus,k a n u s,,,,,k a n u s,,SN000678
+kgv-1728-1,,kgv,1728,kap,kap,k a p,,,,,k a p,,SN000680
+kgv-1117-1,,kgv,1117,=kap,=kap,+ k a p,,,,,= k a p,,SN000681
+kgv-740-1,,kgv,740,kapal,kapal,k a p a l,,,,,k a p a l,,SN000682
+kgv-1850-2,,kgv,1850,kapas,kapas,k a p a s,,,,,k a p a s,,SN000684
+kgv-1836-1,,kgv,1836,kar,kar,k a r,,,,,k a r,,SN000687
+kgv-3689-2,,kgv,3689,karabubu,karabubu,k a r a b u b u,,,,,k a r a b u b u,,SN000689
+kgv-1086-1,,kgv,1086,karajang,karajang,k a r a ɟ a ŋ,,,,,k a r a j a ng,,SN000691
+kgv-984-1,,kgv,984,karajang,karajang,k a r a ɟ a ŋ,,,,,k a r a j a ng,,SN000692
+kgv-487-1,,kgv,487,karames,karames,k a r a m e s,,,,,k a r a m e s,,SN000695
+kgv-1884-1,,kgv,1884,karan,karan,k a r a n,,,,,k a r a n,,SN000697
+kgv-1539-1,,kgv,1539,karanjang,karanjang,k a r a n ɟ a ŋ,,,,,k a r a n j a ng,,SN000698
+kgv-1400-2,,kgv,1400,karaonggis,karaonggis,k a r a o ŋ g i s,,,,,k a r ao ng g i s,,SN000700
+kgv-379-1,,kgv,379,karaonggis,karaonggis,k a r a o ŋ g i s,,,,,k a r ao ng g i s,,SN000701
+kgv-1113-1,,kgv,1113,karap,karap,k a r a p,,,,,k a r a p,,SN000702
+kgv-1398-1,,kgv,1398,kararak,kararak,k a r a r a k,,,,,k a r a r a k,,SN000703
+kgv-588-1,,kgv,588,kararcie,kararcie,k a r a r c i e,,,,,k a r a r c ie,,SN000704
+kgv-1218-1,,kgv,1218,karek,karek,k a r e k,,,,,k a r e k,,SN000709
+kgv-1157-2,,kgv,1157,karena,karena,k a r e n a,,,,,k a r e n a,,SN000711
+kgv-503-1,,kgv,503,kareng,kareng,k a r e ŋ,,,,,k a r e ng,,SN000712
+kgv-1662-1,,kgv,1662,kariemun,kariemun,k a r i e m u n,,,,,k a r ie m u n,,SN000716
+kgv-1531-1,,kgv,1531,karok,karok,k a r o k,,,,,k a r o k,,SN000720
+kgv-977-1,,kgv,977,karop,karop,k a r o p,,,,,k a r o p,,SN000722
+kgv-206-2,,kgv,206,karop,karop,k a r o p,,,,,k a r o p,,SN000723
+kgv-492-1,,kgv,492,karuok,karuok,k a r u o k,,,,,k a r uo k,,SN000731
+kgv-946-1,,kgv,946,karyak,karyak,k a r j a k,,,,,k a r ya k,,SN000732
+kgv-864-1,,kgv,864,kasabiti,kasabiti,k a s a b i t i,,,,,k a s a b i t i,,SN000734
+kgv-937-1,,kgv,937,kasamin,kasamin,k a s a m i n,,,,,k a s a m i n,,SN000737
+kgv-1923-1,,kgv,1923,kasar,kasar,k a s a r,,,,,k a s a r,,SN000739
+kgv-466-1,,kgv,466,kasawari,kasawari,k a s a w a r i,,,,,k a s a w a r i,,SN000740
+kgv-1615-1,,kgv,1615,kasawircie,kasawircie,k a s a w i r c i e,,,,,k a s a w i r c ie,,SN000741
+kgv-1455-1,,kgv,1455,kasawirma,kasawirma,k a s a w i r m a,,,,,k a s a w i r m a,,SN000742
+kgv-1720-1,,kgv,1720,kasep,kasep,k a s e p,,,,,k a s e p,,SN000743
+kgv-1674-1,,kgv,1674,kasian,kasian,k a s i a n,,,,,k a s ia n,,SN000744
+kgv-999-1,,kgv,999,*kasir,*kasir,k a s i r,,,,,* k a s i r,,SN000746
+kgv-855-1,,kgv,855,kasorma,kasorma,k a s o r m a,,,,,k a s o r m a,,SN000750
+kgv-549-1,,kgv,549,kasuo,kasuo,k a s u o,,,,,k a s uo,,SN000752
+kgv-1329-1,,kgv,1329,kasur,kasur,k a s u r,,,,,k a s u r,,SN000754
+kgv-666-1,,kgv,666,kat,kat,k a t,,,,,k a t,,SN000756
+kgv-680-1,,kgv,680,kawar,kawar,k a w a r,,,,,k a w a r,,SN000763
+kgv-588-2,,kgv,588,kawarcie,kawarcie,k a w a r c i e,,,,,k a w a r c ie,,SN000767
+kgv-1436-1,,kgv,1436,kaware,kaware,k a w a r e,,,,,k a w a r e,,SN000768
+kgv-1470-2,,kgv,1470,kawarma,kawarma,k a w a r m a,,,,,k a w a r m a,,SN000770
+kgv-1013-2,,kgv,1013,kawarsuop,kawarsuop,k a w a r s u o p,,,,,k a w a r s uo p,,SN000771
+kgv-1161-1,,kgv,1161,kawas,kawas,k a w a s,,,,,k a w a s,,SN000773
+kgv-1531-2,,kgv,1531,kawat,kawat,k a w a t,,,,,k a w a t,,SN000774
+kgv-1470-3,,kgv,1470,kawetkawet,kawetkawet,k a w e t k a w e t,,,,,k a w e t k a w e t,,SN000776
+kgv-360-1,,kgv,360,kawiawi,kawiawi,k a w i a w i,,,,,k a w ia w i,,SN000777
+kgv-641-1,,kgv,641,kawien,kawien,k a w i e n,,,,,k a w ie n,,SN000778
+kgv-2130-1,,kgv,2130,kawier,kawier,k a w i e r,,,,,k a w ie r,,SN000779
+kgv-275-1,,kgv,275,kawotma,kawotma,k a w o t m a,,,,,k a w o t m a,,SN000781
+kgv-832-1,,kgv,832,kawuok,kawuok,k a w u o k,,,,,k a w uo k,,SN000782
+kgv-812-1,,kgv,812,ke,ke,k e,,,,,k e,,SN000786
+kgv-1179-1,,kgv,1179,keirko,keirko,k e i r k o,,,,,k ei r k o,,SN000794
+kgv-1753-1,,kgv,1753,keirun,keirun,k e i r u n,,,,,k ei r u n,,SN000795
+kgv-1753-2,,kgv,1753,*keit,*keit,k e i t,,,,,* k ei t,,SN000798
+kgv-1180-1,,kgv,1180,keitar,keitar,k e i t a r,,,,,k ei t a r,,SN000799
+kgv-1741-1,,kgv,1741,keitko,keitko,k e i t k o,,,,,k ei t k o,,SN000801
+kgv-1753-3,,kgv,1753,keitko,keitko,k e i t k o,,,,,k ei t k o,,SN000802
+kgv-1886-1,,kgv,1886,keleng,keleng,k e l e ŋ,,,,,k e l e ng,,SN000805
+kgv-1247-1,,kgv,1247,kelkam,kelkam,k e l k a m,,,,,k e l k a m,,SN000808
+kgv-3634-1,,kgv,3634,kelkam,kelkam,k e l k a m,,,,,k e l k a m,,SN000809
+kgv-996-1,,kgv,996,kelkam toktok,kelkam_toktok,k e l k a m + t o k t o k,,,,,k e l k a m _ t o k t o k,,SN000812
+kgv-1408-1,,kgv,1408,kelua,kelua,k e l u a,,,,,k e l ua,,SN000814
+kgv-1107-1,,kgv,1107,keluar,keluar,k e l u a r,,,,,k e l ua r,,SN000815
+kgv-2348-1,,kgv,2348,keluer,keluer,k e l u e r,,,,,k e l ue r,,SN000816
+kgv-1817-2,,kgv,1817,kemanur,kemanur,k e m a n u r,,,,,k e m a n u r,,SN000818
+kgv-1817-3,,kgv,1817,kemanurep,kemanurep,k e m a n u r e p,,,,,k e m a n u r e p,,SN000819
+kgv-1601-1,,kgv,1601,kememe,kememe,k e m e m e,,,,,k e m e m e,,SN000821
+kgv-112-1,,kgv,112,kerar,kerar,k e r a r,,,,,k e r a r,,SN000824
+kgv-156-1,,kgv,156,kerkap,kerkap,k e r k a p,,,,,k e r k a p,,SN000825
+kgv-1741-2,,kgv,1741,kerunggo,kerunggo,k e r u ŋ g o,,,,,k e r u ng g o,,SN000828
+kgv-1060-1,,kgv,1060,ketan,ketan,k e t a n,,,,,k e t a n,,SN000829
+kgv-506-1,,kgv,506,keteles,keteles,k e t e l e s,,,,,k e t e l e s,,SN000830
+kgv-1831-1,,kgv,1831,ketemu,ketemu,k e t e m u,,,,,k e t e m u,,SN000831
+kgv-1252-1,,kgv,1252,kewe,kewe,k e w e,,,,,k e w e,,SN000833
+kgv-1213-2,,kgv,1213,ki,ki,k i,,,,,k i,,SN000835
+kgv-1199-1,,kgv,1199,kian,kian,k i a n,,,,,k ia n,,SN000840
+kgv-1199-2,,kgv,1199,*kiar,*kiar,k i a r,,,,,* k ia r,,SN000841
+kgv-1411-1,,kgv,1411,kidi,kidi,k i d i,,,,,k i d i,,SN000847
+kgv-1388-1,,kgv,1388,kiek,kiek,k i e k,,,,,k ie k,,SN000848
+kgv-1388-2,,kgv,1388,kiekter,kiekter,k i e k t e r,,,,,k ie k t e r,,SN000849
+kgv-670-1,,kgv,670,*kiel,*kiel,k i e l,,,,,* k ie l,,SN000851
+kgv-670-2,,kgv,670,kielun,kielun,k i e l u n,,,,,k ie l u n,,SN000854
+kgv-1539-2,,kgv,1539,kiem,kiem,k i e m,,,,,k ie m,,SN000855
+kgv-1519-1,,kgv,1519,kiem,kiem,k i e m,,,,,k ie m,,SN000856
+kgv-1127-2,,kgv,1127,kiempanait,kiempanait,k i e m p a n a i t,,,,,k ie m p a n ai t,,SN000857
+kgv-787-1,,kgv,787,kier,kier,k i e r,,,,,k ie r,,SN000859
+kgv-2635-1,,kgv,2635,kier,kier,k i e r,,,,,k ie r,,SN000860
+kgv-1489-1,,kgv,1489,kierun,kierun,k i e r u n,,,,,k ie r u n,,SN000862
+kgv-228-1,,kgv,228,kies,kies,k i e s,,,,,k ie s,,SN000863
+kgv-1113-2,,kgv,1113,kies,kies,k i e s,,,,,k ie s,,SN000864
+kgv-1113-3,,kgv,1113,kies,kies,k i e s,,,,,k ie s,,SN000865
+kgv-1493-3,,kgv,1493,kieskon,kieskon,k i e s k o n,,,,,k ie s k o n,,SN000869
+kgv-676-1,,kgv,676,kiet,kiet,k i e t,,,,,k ie t,,SN000870
+kgv-675-1,,kgv,675,kiet,kiet,k i e t,,,,,k ie t,,SN000871
+kgv-676-2,,kgv,676,kietkiet,kietkiet,k i e t k i e t,,,,,k ie t k ie t,,SN000872
+kgv-1159-1,,kgv,1159,kietpo,kietpo,k i e t p o,,,,,k ie t p o,,SN000874
+kgv-2400-1,,kgv,2400,kin,kin,k i n,,,,,k i n,,SN000879
+kgv-1213-3,,kgv,1213,kinaninggan,kinaninggan,k i n a n i ŋ g a n,,,,,k i n a n i ng g a n,,SN000883
+kgv-787-2,,kgv,787,kinggir,kinggir,k i ŋ g i r,,,,,k i ng g i r,,SN000885
+kgv-1448-2,,kgv,1448,kinkin,kinkin,k i n k i n,,,,,k i n k i n,,SN000886
+kgv-1246-3,,kgv,1246,kinkin,kinkin,k i n k i n,,,,,k i n k i n,,SN000887
+kgv-1246-4,,kgv,1246,kinkinun,kinkinun,k i n k i n u n,,,,,k i n k i n u n,,SN000888
+kgv-203-2,,kgv,203,kion,kion,k i o n,,,,,k i o n,,SN000890
+kgv-730-1,,kgv,730,kip,kip,k i p,,,,,k i p,,SN000892
+kgv-2018-1,,kgv,2018,kir,kir,k i r,,,,,k i r,,SN000894
+kgv-3114-1,,kgv,3114,kir,kir,k i r,,,,,k i r,,SN000895
+kgv-682-2,,kgv,682,kir,kir,k i r,,,,,k i r,,SN000896
+kgv-682-3,,kgv,682,kirarun,kirarun,k i r a r u n,,,,,k i r a r u n,,SN000899
+kgv-801-1,,kgv,801,kirkangkang,kirkangkang,k i r k a ŋ k a ŋ,,,,,k i r k a ng k a ng,,SN000901
+kgv-1732-1,,kgv,1732,kisileng,kisileng,k i s i l e ŋ,,,,,k i s i l e ng,,SN000903
+kgv-598-1,,kgv,598,ko,ko,k o,,,,,k o,,SN000904
+kgv-319-1,,kgv,319,kobelen,kobelen,k o b e l e n,,,,,k o b e l e n,,SN000909
+kgv-1387-1,,kgv,1387,kobes,kobes,k o b e s,,,,,k o b e s,,SN000910
+kgv-204-1,,kgv,204,kodaet,kodaet,k o d a e t,,,,,k o d ae t,,SN000912
+kgv-2882-1,,kgv,2882,koder,koder,k o d e r,,,,,k o d e r,,SN000914
+kgv-1084-1,,kgv,1084,kodi,kodi,k o d i,,,,,k o d i,,SN000915
+kgv-646-1,,kgv,646,koep,koep,k o e p,,,,,k oe p,,SN000917
+kgv-1299-1,,kgv,1299,kofir,kofir,k o f i r,,,,,k o f i r,,SN000919
+kgv-204-2,,kgv,204,koi,koi,k o i,,,,,k oi,,SN000920
+kgv-2921-2,,kgv,2921,koi,koi,k o i,,,,,k oi,,SN000921
+kgv-1467-1,,kgv,1467,kokarap,kokarap,k o k a r a p,,,,,k o k a r a p,,SN000923
+kgv-1113-4,,kgv,1113,kokies,kokies,k o k i e s,,,,,k o k ie s,,SN000926
+kgv-1942-1,,kgv,1942,kokir,kokir,k o k i r,,,,,k o k i r,,SN000927
+kgv-1318-1,,kgv,1318,kokok,kokok,k o k o k,,,,,k o k o k,,SN000929
+kgv-1893-1,,kgv,1893,kokok ladok,kokok_ladok,k o k o k + l a d o k,,,,,k o k o k _ l a d o k,,SN000930
+kgv-762-1,,kgv,762,*kol,*kol,k o l,,,,,* k o l,,SN000933
+kgv-639-1,,kgv,639,kolak,kolak,k o l a k,,,,,k o l a k,,SN000934
+kgv-2795-1,,kgv,2795,kolambu,kolambu,k o l a m b u,,,,,k o l a m b u,,SN000935
+kgv-791-1,,kgv,791,kolet,kolet,k o l e t,,,,,k o l e t,,SN000936
+kgv-1730-1,,kgv,1730,koliep,koliep,k o l i e p,,,,,k o l ie p,,SN000938
+kgv-471-1,,kgv,471,kolkiem,kolkiem,k o l k i e m,,,,,k o l k ie m,,SN000940
+kgv-32-1,,kgv,32,kolkiet,kolkiet,k o l k i e t,,,,,k o l k ie t,,SN000941
+kgv-762-2,,kgv,762,kolko,kolko,k o l k o,,,,,k o l k o,,SN000942
+kgv-318-1,,kgv,318,kolkom,kolkom,k o l k o m,,,,,k o l k o m,,SN000944
+kgv-2325-2,,kgv,2325,kolo,kolo,k o l o,,,,,k o l o,,SN000945
+kgv-762-3,,kgv,762,kolpis,kolpis,k o l p i s,,,,,k o l p i s,,SN000947
+kgv-1831-2,,kgv,1831,koluk,koluk,k o l u k,,,,,k o l u k,,SN000950
+kgv-146-1,,kgv,146,kom,kom,k o m,,,,,k o m,,SN000951
+kgv-1456-1,,kgv,1456,komain,komain,k o m a i n,,,,,k o m ai n,,SN000953
+kgv-1324-1,,kgv,1324,komamun,komamun,k o m a m u n,,,,,k o m a m u n,,SN000954
+kgv-2102-2,,kgv,2102,komaruk,komaruk,k o m a r u k,,,,,k o m a r u k,,SN000958
+kgv-761-1,,kgv,761,komasabur,komasabur,k o m a s a b u r,,,,,k o m a s a b u r,,SN000959
+kgv-1409-1,,kgv,1409,kome,kome,k o m e,,,,,k o m e,,SN000962
+kgv-1819-1,,kgv,1819,kome,kome,k o m e,,,,,k o m e,,SN000963
+kgv-2102-3,,kgv,2102,komelek,komelek,k o m e l e k,,,,,k o m e l e k,,SN000964
+kgv-496-1,,kgv,496,komurkomur,komurkomur,k o m u r k o m u r,,,,,k o m u r k o m u r,,SN000967
+kgv-2904-1,,kgv,2904,komurkomur,komurkomur,k o m u r k o m u r,,,,,k o m u r k o m u r,,SN000968
+kgv-1493-4,,kgv,1493,kon,kon,k o n,,,,,k o n,,SN000969
+kgv-2271-1,,kgv,2271,kona,kona,k o n a,,,,,k o n a,,SN000972
+kgv-1409-2,,kgv,1409,kona,kona,k o n a,,,,,k o n a,,SN000973
+kgv-1560-3,,kgv,1560,konasur,konasur,k o n a s u r,,,,,k o n a s u r,,SN000975
+kgv-1523-1,,kgv,1523,konawaruo,konawaruo,k o n a w a r u o,,,,,k o n a w a r uo,,SN000976
+kgv-707-1,,kgv,707,konenen,konenen,k o n e n e n,,,,,k o n e n e n,,SN000979
+kgv-693-2,,kgv,693,=kongga,=kongga,+ k o ŋ g a,,,,,= k o ng g a,,SN000981
+kgv-855-2,,kgv,855,konggelem,konggelem,k o ŋ g e l e m,,,,,k o ng g e l e m,,SN000984
+kgv-3703-1,,kgv,3703,kopol,kopol,k o p o l,,,,,k o p o l,,SN000987
+kgv-1297-1,,kgv,1297,kor,kor,k o r,,,,,k o r,,SN000988
+kgv-1403-1,,kgv,1403,koraruo,koraruo,k o r a r u o,,,,,k o r a r uo,,SN000993
+kgv-1443-1,,kgv,1443,korgi marmar,korgi_marmar,k o r g i + m a r m a r,,,,,k o r g i _ m a r m a r,,SN000996
+kgv-803-1,,kgv,803,korkasir,korkasir,k o r k a s i r,,,,,k o r k a s i r,,SN000998
+kgv-498-1,,kgv,498,kormul,kormul,k o r m u l,,,,,k o r m u l,,SN001003
+kgv-1371-1,,kgv,1371,korpak,korpak,k o r p a k,,,,,k o r p a k,,SN001006
+kgv-1389-1,,kgv,1389,korparokparok,korparokparok,k o r p a r o k p a r o k,,,,,k o r p a r o k p a r o k,,SN001007
+kgv-186-1,,kgv,186,korus,korus,k o r u s,,,,,k o r u s,,SN001010
+kgv-479-1,,kgv,479,kos,kos,k o s,,,,,k o s,,SN001011
+kgv-1264-1,,kgv,1264,kosalir,kosalir,k o s a l i r,,,,,k o s a l i r,,SN001012
+kgv-1433-1,,kgv,1433,kosara,kosara,k o s a r a,,,,,k o s a r a,,SN001014
+kgv-1596-1,,kgv,1596,koser,koser,k o s e r,,,,,k o s e r,,SN001017
+kgv-1472-1,,kgv,1472,koser,koser,k o s e r,,,,,k o s e r,,SN001018
+kgv-1452-2,,kgv,1452,kosiaur,kosiaur,k o s i a u r,,,,,k o s ia u r,,SN001019
+kgv-1421-1,,kgv,1421,kosom,kosom,k o s o m,,,,,k o s o m,,SN001022
+kgv-161-1,,kgv,161,kotipol,kotipol,k o t i p o l,,,,,k o t i p o l,,SN001028
+kgv-1230-1,,kgv,1230,kotur,kotur,k o t u r,,,,,k o t u r,,SN001029
+kgv-25-1,,kgv,25,kotur,kotur,k o t u r,,,,,k o t u r,,SN001030
+kgv-175-1,,kgv,175,kou,kou,k o u,,,,,k ou,,SN001031
+kgv-1267-1,,kgv,1267,kou,kou,k o u,,,,,k ou,,SN001032
+kgv-928-1,,kgv,928,koup,koup,k o u p,,,,,k ou p,,SN001033
+kgv-2223-4,,kgv,2223,kouran,kouran,k o u r a n,,,,,k ou r a n,,SN001034
+kgv-957-1,,kgv,957,kowam,kowam,k o w a m,,,,,k o w a m,,SN001039
+kgv-378-1,,kgv,378,kowaram,kowaram,k o w a r a m,,,,,k o w a r a m,,SN001042
+kgv-272-1,,kgv,272,kowaram,kowaram,k o w a r a m,,,,,k o w a r a m,,SN001043
+kgv-1264-2,,kgv,1264,kowat,kowat,k o w a t,,,,,k o w a t,,SN001046
+kgv-153-1,,kgv,153,kowewep,kowewep,k o w e w e p,,,,,k o w e w e p,,SN001047
+kgv-1486-1,,kgv,1486,koya,koya,k o j a,,,,,k oya,,SN001048
+kgv-2017-2,,kgv,2017,koyal,koyal,k o j a l,,,,,k oya l,,SN001050
+kgv-1767-1,,kgv,1767,koyal,koyal,k o j a l,,,,,k oya l,,SN001051
+kgv-1046-1,,kgv,1046,koyen,koyen,k o j e n,,,,,k oye n,,SN001053
+kgv-1102-1,,kgv,1102,koyos,koyos,k o j o s,,,,,k o y o s,,SN001055
+kgv-1951-1,,kgv,1951,kuang,kuang,k u a ŋ,,,,,k ua ng,,SN001057
+kgv-1100-1,,kgv,1100,kuar,kuar,k u a r,,,,,k ua r,,SN001058
+kgv-785-1,,kgv,785,kuat,kuat,k u a t,,,,,k ua t,,SN001059
+kgv-1598-1,,kgv,1598,kuawi,kuawi,k u a w i,,,,,k ua w i,,SN001060
+kgv-1773-1,,kgv,1773,kubir,kubir,k u b i r,,,,,k u b i r,,SN001062
+kgv-3284-1,,kgv,3284,kubirar,kubirar,k u b i r a r,,,,,k u b i r a r,,SN001063
+kgv-615-1,,kgv,615,kuda,kuda,k u d a,,,,,k u d a,,SN001065
+kgv-713-2,,kgv,713,kuek,kuek,k u e k,,,,,k ue k,,SN001069
+kgv-235-1,,kgv,235,kuek,kuek,k u e k,,,,,k ue k,,SN001070
+kgv-692-2,,kgv,692,kuet,kuet,k u e t,,,,,k ue t,,SN001072
+kgv-2502-1,,kgv,2502,kulikuli,kulikuli,k u l i k u l i,,,,,k u l i k u l i,,SN001078
+kgv-763-1,,kgv,763,kulun,kulun,k u l u n,,,,,k u l u n,,SN001081
+kgv-735-1,,kgv,735,kumbai,kumbai,k u m b a i,,,,,k u m b ai,,SN001082
+kgv-1553-1,,kgv,1553,kumkum,kumkum,k u m k u m,,,,,k u m k u m,,SN001083
+kgv-1479-1,,kgv,1479,kurap,kurap,k u r a p,,,,,k u r a p,,SN001089
+kgv-86-1,,kgv,86,kurera,kurera,k u r e r a,,,,,k u r e r a,,SN001090
+kgv-2581-1,,kgv,2581,kurera,kurera,k u r e r a,,,,,k u r e r a,,SN001092
+kgv-692-3,,kgv,692,kuru,kuru,k u r u,,,,,k u r u,,SN001094
+kgv-1188-1,,kgv,1188,kus,kus,k u s,,,,,k u s,,SN001096
+kgv-163-1,,kgv,163,kuskap,kuskap,k u s k a p,,,,,k u s k a p,,SN001097
+kgv-1622-1,,kgv,1622,ladan,ladan,l a d a n,,,,,l a d a n,,SN001102
+kgv-615-2,,kgv,615,lajarang,lajarang,l a ɟ a r a ŋ,,,,,l a j a r a ng,,SN001103
+kgv-1286-1,,kgv,1286,lalang,lalang,l a l a ŋ,,,,,l a l a ng,,SN001105
+kgv-1494-1,,kgv,1494,lalat,lalat,l a l a t,,,,,l a l a t,,SN001106
+kgv-3011-1,,kgv,3011,laluon,laluon,l a l u o n,,,,,l a l uo n,,SN001107
+kgv-625-2,,kgv,625,lampur,lampur,l a m p u r,,,,,l a m p u r,,SN001111
+kgv-3699-2,,kgv,3699,langjut,langjut,l a ŋ ɟ u t,,,,,l a ng j u t,,SN001118
+kgv-1423-1,,kgv,1423,langka,langka,l a ŋ k a,,,,,l a ng k a,,SN001119
+kgv-750-2,,kgv,750,lapas,lapas,l a p a s,,,,,l a p a s,,SN001123
+kgv-1227-1,,kgv,1227,lat,lat,l a t,,,,,l a t,,SN001126
+kgv-2124-3,,kgv,2124,lauk,lauk,l a u k,,,,,l au k,,SN001127
+kgv-1107-2,,kgv,1107,lauk,lauk,l a u k,,,,,l au k,,SN001128
+kgv-2493-1,,kgv,2493,laur,laur,l a u r,,,,,l au r,,SN001129
+kgv-1243-1,,kgv,1243,laus,laus,l a u s,,,,,l au s,,SN001132
+kgv-1474-1,,kgv,1474,laut,laut,l a u t,,,,,l au t,,SN001133
+kgv-2951-1,,kgv,2951,lawalawat,lawalawat,l a w a l a w a t,,,,,l a w a l a w a t,,SN001135
+kgv-804-1,,kgv,804,lawarun,lawarun,l a w a r u n,,,,,l a w a r u n,,SN001138
+kgv-149-1,,kgv,149,layier,layier,l a j i e r,,,,,l a y ie r,,SN001143
+kgv-1992-1,,kgv,1992,lebe,lebe,l e b e,,,,,l e b e,,SN001147
+kgv-1508-1,,kgv,1508,leit,leit,l e i t,,,,,l ei t,,SN001149
+kgv-1306-1,,kgv,1306,leit pas,leit_pas,l e i t + p a s,,,,,l ei t _ p a s,,SN001150
+kgv-1502-1,,kgv,1502,lek,lek,l e k,,,,,l e k,,SN001151
+kgv-1350-1,,kgv,1350,leki,leki,l e k i,,,,,l e k i,,SN001153
+kgv-1128-1,,kgv,1128,lem,lem,l e m,,,,,l e m,,SN001155
+kgv-1281-1,,kgv,1281,lembaga,lembaga,l e m b a g a,,,,,l e m b a g a,,SN001158
+kgv-622-1,,kgv,622,lempuang,lempuang,l e m p u a ŋ,,,,,l e m p ua ng,,SN001160
+kgv-6-1,,kgv,6,leng dek,leng_dek,l e ŋ + d e k,,,,,l e ng _ d e k,,SN001165
+kgv-919-1,,kgv,919,lenggalengga,lenggalengga,l e ŋ g a l e ŋ g a,,,,,l e ng g a l e ng g a,,SN001166
+kgv-829-1,,kgv,829,lepir,lepir,l e p i r,,,,,l e p i r,,SN001170
+kgv-1951-2,,kgv,1951,lewat,lewat,l e w a t,,,,,l e w a t,,SN001174
+kgv-1234-1,,kgv,1234,licing,licing,l i c i ŋ,,,,,l i c i ng,,SN001175
+kgv-1325-1,,kgv,1325,lidan,lidan,l i d a n,,,,,l i d a n,,SN001176
+kgv-3155-1,,kgv,3155,linggis,linggis,l i ŋ g i s,,,,,l i ng g i s,,SN001178
+kgv-1754-1,,kgv,1754,liti,liti,l i t i,,,,,l i t i,,SN001179
+kgv-1117-2,,kgv,1117,lo,lo,l o,,,,,l o,,SN001180
+kgv-702-1,,kgv,702,loku,loku,l o k u,,,,,l o k u,,SN001185
+kgv-1204-1,,kgv,1204,lokul,lokul,l o k u l,,,,,l o k u l,,SN001186
+kgv-628-1,,kgv,628,lolok,lolok,l o l o k,,,,,l o l o k,,SN001187
+kgv-1559-1,,kgv,1559,lolok,lolok,l o l o k,,,,,l o l o k,,SN001188
+kgv-1667-1,,kgv,1667,lolouk,lolouk,l o l o u k,,,,,l o l ou k,,SN001189
+kgv-1650-2,,kgv,1650,loncing,loncing,l o n c i ŋ,,,,,l o n c i ng,,SN001190
+kgv-1011-1,,kgv,1011,los,los,l o s,,,,,l o s,,SN001194
+kgv-1287-1,,kgv,1287,lu,lu,l u,,,,,l u,,SN001199
+kgv-1446-1,,kgv,1446,luk,luk,l u k,,,,,l u k,,SN001202
+kgv-1905-1,,kgv,1905,lusi,lusi,l u s i,,,,,l u s i,,SN001203
+kgv-1211-1,,kgv,1211,ma,ma,m a,,,,,m a,,SN001206
+kgv-1463-1,,kgv,1463,mabuk,mabuk,m a b u k,,,,,m a b u k,,SN001211
+kgv-214-1,,kgv,214,madong,madong,m a d o ŋ,,,,,m a d o ng,,SN001212
+kgv-98-3,,kgv,98,-mahap,-mahap,+ m a h a p,,,,,- m a h a p,,SN001214
+kgv-2473-1,,kgv,2473,main,main,m a i n,,,,,m ai n,,SN001217
+kgv-3537-1,,kgv,3537,malaouk,malaouk,m a l a ou k,,,,,m a l aou k,,SN001225
+kgv-1848-1,,kgv,1848,malawan,malawan,m a l a w a n,,,,,m a l a w a n,,SN001226
+kgv-1965-2,,kgv,1965,malor,malor,m a l o r,,,,,m a l o r,,SN001231
+kgv-1939-1,,kgv,1939,malu,malu,m a l u,,,,,m a l u,,SN001232
+kgv-1327-3,,kgv,1327,mama,mama,m a m a,,,,,m a m a,,SN001234
+kgv-1216-2,,kgv,1216,mama,mama,m a m a,,,,,m a m a,,SN001235
+kgv-1327-4,,kgv,1327,mama caun,mama_caun,m a m a + c a u n,,,,,m a m a _ c au n,,SN001236
+kgv-1327-5,,kgv,1327,mama temun,mama_temun,m a m a + t e m u n,,,,,m a m a _ t e m u n,,SN001237
+kgv-1442-1,,kgv,1442,mambara,mambara,m a m b a r a,,,,,m a m b a r a,,SN001238
+kgv-1937-1,,kgv,1937,mambon,mambon,m a m b o n,,,,,m a m b o n,,SN001239
+kgv-3260-1,,kgv,3260,mamor,mamor,m a m o r,,,,,m a m o r,,SN001241
+kgv-1752-1,,kgv,1752,mamun,mamun,m a m u n,,,,,m a m u n,,SN001242
+kgv-351-1,,kgv,351,manadu,manadu,m a n a d u,,,,,m a n a d u,,SN001244
+kgv-887-1,,kgv,887,mang,mang,m a ŋ,,,,,m a ng,,SN001245
+kgv-1307-1,,kgv,1307,mang,mang,m a ŋ,,,,,m a ng,,SN001246
+kgv-2502-2,,kgv,2502,manggamangga,manggamangga,m a ŋ g a m a ŋ g a,,,,,m a ng g a m a ng g a,,SN001247
+kgv-357-1,,kgv,357,manggang,manggang,m a ŋ g a ŋ,,,,,m a ng g a ng,,SN001248
+kgv-96-3,,kgv,96,manggaren,manggaren,m a ŋ g a r e n,,,,,m a ng g a r e n,,SN001249
+kgv-1520-1,,kgv,1520,maraok,maraok,m a r a o k,,,,,m a r ao k,,SN001262
+kgv-998-1,,kgv,998,maraouk,maraouk,m a r a ou k,,,,,m a r aou k,,SN001263
+kgv-1398-2,,kgv,1398,mararak,mararak,m a r a r a k,,,,,m a r a r a k,,SN001264
+kgv-1369-1,,kgv,1369,marau,marau,m a r a u,,,,,m a r au,,SN001265
+kgv-1443-2,,kgv,1443,marmar,marmar,m a r m a r,,,,,m a r m a r,,SN001266
+kgv-1432-1,,kgv,1432,marum,marum,m a r u m,,,,,m a r u m,,SN001269
+kgv-208-1,,kgv,208,marur,marur,m a r u r,,,,,m a r u r,,SN001270
+kgv-3364-1,,kgv,3364,masa,masa,m a s a,,,,,m a s a,,SN001272
+kgv-501-2,,kgv,501,masak,masak,m a s a k,,,,,m a s a k,,SN001273
+kgv-1735-1,,kgv,1735,masarut,masarut,m a s a r u t,,,,,m a s a r u t,,SN001277
+kgv-1538-1,,kgv,1538,masawin,masawin,m a s a w i n,,,,,m a s a w i n,,SN001278
+kgv-1430-1,,kgv,1430,maser,maser,m a s e r,,,,,m a s e r,,SN001279
+kgv-3032-1,,kgv,3032,maser,maser,m a s e r,,,,,m a s e r,,SN001280
+kgv-1603-1,,kgv,1603,masikit,masikit,m a s i k i t,,,,,m a s i k i t,,SN001281
+kgv-1977-1,,kgv,1977,masinul,masinul,m a s i n u l,,,,,m a s i n u l,,SN001282
+kgv-3548-1,,kgv,3548,masir,masir,m a s i r,,,,,m a s i r,,SN001283
+kgv-2934-1,,kgv,2934,masoi,masoi,m a s o i,,,,,m a s oi,,SN001284
+kgv-749-1,,kgv,749,masuk,masuk,m a s u k,,,,,m a s u k,,SN001288
+kgv-206-3,,kgv,206,mata dimdim,mata_dimdim,m a t a + d i m d i m,,,,,m a t a _ d i m d i m,,SN001291
+kgv-750-3,,kgv,750,matur,matur,m a t u r,,,,,m a t u r,,SN001293
+kgv-1784-1,,kgv,1784,mau,mau,m a u,,,,,m au,,SN001294
+kgv-2004-1,,kgv,2004,maulma,maulma,m a u l m a,,,,,m au l m a,,SN001297
+kgv-1244-1,,kgv,1244,mawal,mawal,m a w a l,,,,,m a w a l,,SN001298
+kgv-3537-2,,kgv,3537,mayilma,mayilma,m a j i l m a,,,,,m a y i l m a,,SN001300
+kgv-78-3,,kgv,78,me,me,m e,,,,,m e,,SN001301
+kgv-1719-2,,kgv,1719,mecua,mecua,m e c u a,,,,,m e c ua,,SN001303
+kgv-1446-2,,kgv,1446,mei,mei,m e i,,,,,m ei,,SN001304
+kgv-1775-1,,kgv,1775,meja,meja,m e ɟ a,,,,,m e j a,,SN001305
+kgv-1416-1,,kgv,1416,meleluo,meleluo,m e l e l u o,,,,,m e l e l uo,,SN001309
+kgv-703-1,,kgv,703,mena,mena,m e n a,,,,,m e n a,,SN001310
+kgv-1536-1,,kgv,1536,mengerti,mengerti,m e ŋ e r t i,,,,,m e ng e r t i,,SN001313
+kgv-1937-2,,kgv,1937,mengga,mengga,m e ŋ g a,,,,,m e ng g a,,SN001314
+kgv-1261-1,,kgv,1261,menyanyi,menyanyi,m e n j a n j i,,,,,m e n ya n y i,,SN001315
+kgv-2921-3,,kgv,2921,mera,mera,m e r a,,,,,m e r a,,SN001316
+kgv-1907-1,,kgv,1907,merar,merar,m e r a r,,,,,m e r a r,,SN001318
+kgv-7-1,,kgv,7,merengguen,merengguen,m e r e ŋ g u e n,,,,,m e r e ng g ue n,,SN001320
+kgv-1916-1,,kgv,1916,mesang,mesang,m e s a ŋ,,,,,m e s a ng,,SN001323
+kgv-78-4,,kgv,78,met,met,m e t,,,,,m e t,,SN001325
+kgv-1937-3,,kgv,1937,metko,metko,m e t k o,,,,,m e t k o,,SN001326
+kgv-1446-3,,kgv,1446,mia,mia,m i a,,,,,m ia,,SN001327
+kgv-2635-2,,kgv,2635,mier,mier,m i e r,,,,,m ie r,,SN001331
+kgv-1429-2,,kgv,1429,mikon,mikon,m i k o n,,,,,m i k o n,,SN001332
+kgv-1585-1,,kgv,1585,min,min,m i n,,,,,m i n,,SN001333
+kgv-1224-1,,kgv,1224,min,min,m i n,,,,,m i n,,SN001334
+kgv-802-1,,kgv,802,minar,minar,m i n a r,,,,,m i n a r,,SN001335
+kgv-1484-1,,kgv,1484,ming,ming,m i ŋ,,,,,m i ng,,SN001337
+kgv-1663-1,,kgv,1663,minggalot,minggalot,m i ŋ g a l o t,,,,,m i ng g a l o t,,SN001338
+kgv-1983-1,,kgv,1983,minggaruk,minggaruk,m i ŋ g a r u k,,,,,m i ng g a r u k,,SN001339
+kgv-1469-1,,kgv,1469,minggu,minggu,m i ŋ g u,,,,,m i ng g u,,SN001341
+kgv-1401-1,,kgv,1401,minum,minum,m i n u m,,,,,m i n u m,,SN001344
+kgv-1261-2,,kgv,1261,mirik,mirik,m i r i k,,,,,m i r i k,,SN001346
+kgv-1096-1,,kgv,1096,mirik,mirik,m i r i k,,,,,m i r i k,,SN001347
+kgv-1493-5,,kgv,1493,mirkon,mirkon,m i r k o n,,,,,m i r k o n,,SN001348
+kgv-1268-3,,kgv,1268,m'm,m'm,m m,,,,,m ' m,,SN001350
+kgv-1631-1,,kgv,1631,mon,mon,m o n,,,,,m o n,,SN001354
+kgv-1564-3,,kgv,1564,monkaret,monkaret,m o n k a r e t,,,,,m o n k a r e t,,SN001355
+kgv-1906-1,,kgv,1906,mor,mor,m o r,,,,,m o r,,SN001356
+kgv-2486-1,,kgv,2486,mormor,mormor,m o r m o r,,,,,m o r m o r,,SN001358
+kgv-2077-1,,kgv,2077,mososor,mososor,m o s o s o r,,,,,m o s o s o r,,SN001360
+kgv-691-1,,kgv,691,mosun,mosun,m o s u n,,,,,m o s u n,,SN001361
+kgv-110-1,,kgv,110,motor,motor,m o t o r,,,,,m o t o r,,SN001362
+kgv-817-1,,kgv,817,mu,mu,m u,,,,,m u,,SN001363
+kgv-1336-2,,kgv,1336,muap,muap,m u a p,,,,,m ua p,,SN001364
+kgv-256-1,,kgv,256,muap,muap,m u a p,,,,,m ua p,,SN001365
+kgv-2802-1,,kgv,2802,muap sabur sangganun,muap_sabur_sangganun,m u a p + s a b u r + s a ŋ g a n u n,,,,,m ua p _ s a b u r _ s a ng g a n u n,,SN001368
+kgv-1100-2,,kgv,1100,muawaruo,muawaruo,m u a w a r u o,,,,,m ua w a r uo,,SN001370
+kgv-1533-2,,kgv,1533,muawese,muawese,m u a w e s e,,,,,m ua w e s e,,SN001371
+kgv-1456-2,,kgv,1456,mudi,mudi,m u d i,,,,,m u d i,,SN001373
+kgv-2400-2,,kgv,2400,muin,muin,m u i n,,,,,m u i n,,SN001375
+kgv-1533-3,,kgv,1533,muisese,muisese,m u i s e s e,,,,,m u i s e s e,,SN001376
+kgv-668-1,,kgv,668,muk,muk,m u k,,,,,m u k,,SN001379
+kgv-1909-1,,kgv,1909,mukmuk,mukmuk,m u k m u k,,,,,m u k m u k,,SN001381
+kgv-682-4,,kgv,682,*mul,*mul,m u l,,,,,* m u l,,SN001382
+kgv-1681-1,,kgv,1681,muler,muler,m u l e r,,,,,m u l e r,,SN001383
+kgv-682-5,,kgv,682,mulun,mulun,m u l u n,,,,,m u l u n,,SN001385
+kgv-1728-2,,kgv,1728,mun,mun,m u n,,,,,m u n,,SN001387
+kgv-1392-1,,kgv,1392,mun,mun,m u n,,,,,m u n,,SN001389
+kgv-813-1,,kgv,813,-mun,-mun,+ m u n,,,,,- m u n,,SN001390
+kgv-267-1,,kgv,267,mun sunsun,mun_sunsun,m u n + s u n s u n,,,,,m u n _ s u ns u n,,SN001391
+kgv-2787-1,,kgv,2787,na,na,n a,,,,,n a,,SN001408
+kgv-724-1,,kgv,724,nabaca,nabaca,n a b a c a,,,,,n a b a c a,,SN001410
+kgv-1275-2,,kgv,1275,nabalas,nabalas,n a b a l a s,,,,,n a b a l a s,,SN001411
+kgv-750-4,,kgv,750,naberuak,naberuak,n a b e r u a k,,,,,n a b e r ua k,,SN001413
+kgv-1156-3,,kgv,1156,nabuka,nabuka,n a b u k a,,,,,n a b u k a,,SN001417
+kgv-827-1,,kgv,827,nabulis,nabulis,n a b u l i s,,,,,n a b u l i s,,SN001418
+kgv-1711-2,,kgv,1711,nacerita,nacerita,n a c e r i t a,,,,,n a c e r i t a,,SN001419
+kgv-1812-3,,kgv,1812,nacoba,nacoba,n a c o b a,,,,,n a c o b a,,SN001420
+kgv-133-2,,kgv,133,nadadi,nadadi,n a d a d i,,,,,n a d a d i,,SN001421
+kgv-1452-3,,kgv,1452,nadorong,nadorong,n a d o r o ŋ,,,,,n a d o r o ng,,SN001422
+kgv-2271-2,,kgv,2271,nafikir,nafikir,n a f i k i r,,,,,n a f i k i r,,SN001426
+kgv-1420-1,,kgv,1420,nahitung,nahitung,n a h i t u ŋ,,,,,n a h i t u ng,,SN001432
+kgv-3030-1,,kgv,3030,naiar,naiar,n a j a r,,,,,n aia r,,SN001433
+kgv-1117-3,,kgv,1117,nain,nain,n a i n,,,,,n ai n,,SN001434
+kgv-84-1,,kgv,84,nak=,nak=,n a k +,,,,,n a k =,,SN001437
+kgv-1256-1,,kgv,1256,nakal,nakal,n a k a l,,,,,n a k a l,,SN001440
+kgv-1127-3,,kgv,1127,nakirim,nakirim,n a k i r i m,,,,,n a k i r i m,,SN001442
+kgv-2067-1,,kgv,2067,nakukus,nakukus,n a k u k u s,,,,,n a k u k u s,,SN001444
+kgv-3119-1,,kgv,3119,naladur,naladur,n a l a d u r,,,,,n a l a d u r,,SN001445
+kgv-1494-2,,kgv,1494,nalat,nalat,n a l a t,,,,,n a l a t,,SN001446
+kgv-225-1,,kgv,225,naloli,naloli,n a l o l i,,,,,n a l o l i,,SN001447
+kgv-2290-1,,kgv,2290,nam,nam,n a m,,,,,n a m,,SN001449
+kgv-1200-1,,kgv,1200,*nam,*nam,n a m,,,,,* n a m,,SN001450
+kgv-1593-1,,kgv,1593,naman,naman,n a m a n,,,,,n a m a n,,SN001452
+kgv-1235-1,,kgv,1235,naman,naman,n a m a n,,,,,n a m a n,,SN001453
+kgv-1597-2,,kgv,1597,namandi,namandi,n a m a n d i,,,,,n a m a n d i,,SN001454
+kgv-1560-4,,kgv,1560,namangadap,namangadap,n a m a ŋ a d a p,,,,,n a m a ng a d a p,,SN001455
+kgv-85-1,,kgv,85,namasuk,namasuk,n a m a s u k,,,,,n a m a s u k,,SN001457
+kgv-1875-1,,kgv,1875,namenyasal,namenyasal,n a m e n j a s a l,,,,,n a m e n ya s a l,,SN001459
+kgv-554-1,,kgv,554,namot,namot,n a m o t,,,,,n a m o t,,SN001462
+kgv-1336-3,,kgv,1336,nanetkon,nanetkon,n a n e t k o n,,,,,n a n e t k o n,,SN001468
+kgv-1261-3,,kgv,1261,nanggan,nanggan,n a ŋ g a n,,,,,n a ng g a n,,SN001469
+kgv-98-4,,kgv,98,-naninggan,-naninggan,+ n a n i ŋ g a n,,,,,- n a n i ng g a n,,SN001470
+kgv-1493-6,,kgv,1493,naon,naon,n a o n,,,,,n ao n,,SN001471
+kgv-976-1,,kgv,976,napaki,napaki,n a p a k i,,,,,n a p a k i,,SN001472
+kgv-1436-2,,kgv,1436,naparis,naparis,n a p a r i s,,,,,n a p a r i s,,SN001473
+kgv-765-1,,kgv,765,napinda,napinda,n a p i n d a,,,,,n a p i n d a,,SN001475
+kgv-1823-1,,kgv,1823,napinjam,napinjam,n a p i n ɟ a m,,,,,n a p i n j a m,,SN001476
+kgv-1823-2,,kgv,1823,napinjang,napinjang,n a p i n ɟ a ŋ,,,,,n a p i n j a ng,,SN001477
+kgv-680-2,,kgv,680,naputus,naputus,n a p u t u s,,,,,n a p u t u s,,SN001478
+kgv-744-1,,kgv,744,nar,nar,n a r,,,,,n a r,,SN001479
+kgv-715-1,,kgv,715,narabir,narabir,n a r a b i r,,,,,n a r a b i r,,SN001481
+kgv-1449-1,,kgv,1449,naram,naram,n a r a m,,,,,n a r a m,,SN001482
+kgv-1414-1,,kgv,1414,naramas,naramas,n a r a m a s,,,,,n a r a m a s,,SN001483
+kgv-855-3,,kgv,855,narampas,narampas,n a r a m p a s,,,,,n a r a m p a s,,SN001484
+kgv-1423-2,,kgv,1423,naras,naras,n a r a s,,,,,n a r a s,,SN001486
+kgv-21-1,,kgv,21,narasa,narasa,n a r a s a,,,,,n a r a s a,,SN001487
+kgv-21-2,,kgv,21,narasaun,narasaun,n a r a s a u n,,,,,n a r a s au n,,SN001488
+kgv-1420-2,,kgv,1420,narekin,narekin,n a r e k i n,,,,,n a r e k i n,,SN001490
+kgv-1493-7,,kgv,1493,narkon,narkon,n a r k o n,,,,,n a r k o n,,SN001493
+kgv-2030-1,,kgv,2030,narorar,narorar,n a r o r a r,,,,,n a r o r a r,,SN001496
+kgv-1264-3,,kgv,1264,naruba,naruba,n a r u b a,,,,,n a r u b a,,SN001498
+kgv-744-2,,kgv,744,narun,narun,n a r u n,,,,,n a r u n,,SN001499
+kgv-2862-1,,kgv,2862,nasambung,nasambung,n a s a m b u ŋ,,,,,n a s a m b u ng,,SN001504
+kgv-3619-1,,kgv,3619,nasandar,nasandar,n a s a n d a r,,,,,n a s a n d a r,,SN001505
+kgv-2904-2,,kgv,2904,nasanggur,nasanggur,n a s a ŋ g u r,,,,,n a s a ng g u r,,SN001507
+kgv-1455-2,,kgv,1455,naseduk,naseduk,n a s e d u k,,,,,n a s e d u k,,SN001509
+kgv-613-1,,kgv,613,nasesak,nasesak,n a s e s a k,,,,,n a s e s a k,,SN001511
+kgv-1487-2,,kgv,1487,nasirang,nasirang,n a s i r a ŋ,,,,,n a s i r a ng,,SN001513
+kgv-2493-2,,kgv,2493,nasomit,nasomit,n a s o m i t,,,,,n a s o m i t,,SN001515
+kgv-1437-1,,kgv,1437,nasuarik,nasuarik,n a s u a r i k,,,,,n a s ua r i k,,SN001516
+kgv-862-3,,kgv,862,nasuena,nasuena,n a s u e n a,,,,,n a s ue n a,,SN001518
+kgv-1879-1,,kgv,1879,nasula,nasula,n a s u l a,,,,,n a s u l a,,SN001520
+kgv-1720-2,,kgv,1720,natanda,natanda,n a t a n d a,,,,,n a t a n d a,,SN001524
+kgv-1550-1,,kgv,1550,natangkis,natangkis,n a t a ŋ k i s,,,,,n a t a ng k i s,,SN001525
+kgv-1875-2,,kgv,1875,natobat,natobat,n a t o b a t,,,,,n a t o b a t,,SN001529
+kgv-3684-1,,kgv,3684,natuka,natuka,n a t u k a,,,,,n a t u k a,,SN001531
+kgv-1434-1,,kgv,1434,natukar,natukar,n a t u k a r,,,,,n a t u k a r,,SN001532
+kgv-1672-1,,kgv,1672,natulis,natulis,n a t u l i s,,,,,n a t u l i s,,SN001533
+kgv-1590-1,,kgv,1590,natunggu,natunggu,n a t u ŋ g u,,,,,n a t u ng g u,,SN001535
+kgv-1640-1,,kgv,1640,naukia,naukia,n a u k i a,,,,,n au k ia,,SN001541
+kgv-1640-2,,kgv,1640,naukiaka,naukiaka,n a u k i a k a,,,,,n au k ia k a,,SN001542
+kgv-1831-3,,kgv,1831,nauleluk,nauleluk,n a u l e l u k,,,,,n au l e l u k,,SN001544
+kgv-1228-1,,kgv,1228,naun,naun,n a u n,,,,,n au n,,SN001545
+kgv-1507-1,,kgv,1507,naun,naun,n a u n,,,,,n au n,,SN001546
+kgv-1399-1,,kgv,1399,naun kerkap,naun_kerkap,n a u n + k e r k a p,,,,,n au n _ k e r k a p,,SN001547
+kgv-1039-2,,kgv,1039,naunak,naunak,n a u n a k,,,,,n au n a k,,SN001548
+kgv-2248-1,,kgv,2248,naunin,naunin,n a u n i n,,,,,n au n i n,,SN001549
+kgv-1720-3,,kgv,1720,naunin,naunin,n a u n i n,,,,,n au n i n,,SN001550
+kgv-1339-1,,kgv,1339,naupar,naupar,n a u p a r,,,,,n au p a r,,SN001551
+kgv-1444-1,,kgv,1444,naurar,naurar,n a u r a r,,,,,n au r a r,,SN001552
+kgv-2208-1,,kgv,2208,nausair,nausair,n a u s a i r,,,,,n au s ai r,,SN001553
+kgv-2964-1,,kgv,2964,nauwar,nauwar,n a u w a r,,,,,n au w a r,,SN001554
+kgv-581-1,,kgv,581,nawali,nawali,n a w a l i,,,,,n a w a l i,,SN001556
+kgv-3669-1,,kgv,3669,nawanen,nawanen,n a w a n e n,,,,,n a w a n e n,,SN001558
+kgv-1590-2,,kgv,1590,nawanggar,nawanggar,n a w a ŋ g a r,,,,,n a w a ng g a r,,SN001559
+kgv-1265-1,,kgv,1265,nawarir,nawarir,n a w a r i r,,,,,n a w a r i r,,SN001562
+kgv-813-2,,kgv,813,nawerar,nawerar,n a w e r a r,,,,,n a w e r a r,,SN001565
+kgv-1236-2,,kgv,1236,neba,neba,n e b a,,,,,n e b a,,SN001569
+kgv-1606-1,,kgv,1606,neko,neko,n e k o,,,,,n e k o,,SN001574
+kgv-2353-1,,kgv,2353,nene,nene,n e n e,,,,,n e n e,,SN001576
+kgv-1236-3,,kgv,1236,nenggap,nenggap,n e ŋ g a p,,,,,n e ng g a p,,SN001577
+kgv-1606-2,,kgv,1606,*ner,*ner,n e r,,,,,* n e r,,SN001578
+kgv-1606-3,,kgv,1606,nerun,nerun,n e r u n,,,,,n e r u n,,SN001579
+kgv-1606-4,,kgv,1606,nerunggo,nerunggo,n e r u ŋ g o,,,,,n e r u ng g o,,SN001580
+kgv-200-1,,kgv,200,newa,newa,n e w a,,,,,n e w a,,SN001581
+kgv-718-1,,kgv,718,newer,newer,n e w e r,,,,,n e w e r,,SN001583
+kgv-19-1,,kgv,19,nika,nika,n i k a,,,,,n i k a,,SN001585
+kgv-2432-2,,kgv,2432,nika,nika,n i k a,,,,,n i k a,,SN001586
+kgv-1496-2,,kgv,1496,nina,nina,n i n a,,,,,n i n a,,SN001588
+kgv-2561-1,,kgv,2561,ning,ning,n i ŋ,,,,,n i ng,,SN001590
+kgv-1986-1,,kgv,1986,ning,ning,n i ŋ,,,,,n i ng,,SN001591
+kgv-48-1,,kgv,48,nokin,nokin,n o k i n,,,,,n o k i n,,SN001592
+kgv-55-1,,kgv,55,noknok,noknok,n o k n o k,,,,,n o k n o k,,SN001593
+kgv-1356-2,,kgv,1356,numur,numur,n u m u r,,,,,n u m u r,,SN001596
+kgv-2879-2,,kgv,2879,nun,nun,n u n,,,,,n u n,,SN001597
+kgv-2486-2,,kgv,2486,nung,nung,n u ŋ,,,,,n u ng,,SN001598
+kgv-2063-1,,kgv,2063,nunun,nunun,n u n u n,,,,,n u n u n,,SN001600
+kgv-1096-2,,kgv,1096,nyanyi,nyanyi,n j a n j i,,,,,n ya n y i,,SN001601
+kgv-1143-1,,kgv,1143,ofin,ofin,o f i n,,,,,o f i n,,SN001605
+kgv-628-2,,kgv,628,*ol,*ol,o l,,,,,* o l,,SN001609
+kgv-628-3,,kgv,628,olun,olun,o l u n,,,,,o l u n,,SN001611
+kgv-1283-1,,kgv,1283,opa yuwa,opa_yuwa,o p a + j u w a,,,,,o p a _ y u w a,,SN001616
+kgv-1376-1,,kgv,1376,opatun,opatun,o p a t u n,,,,,o p a t u n,,SN001617
+kgv-1220-1,,kgv,1220,or,or,o r,,,,,o r,,SN001618
+kgv-892-1,,kgv,892,oras,oras,o r a s,,,,,o r a s,,SN001620
+kgv-1220-2,,kgv,1220,orun,orun,o r u n,,,,,o r u n,,SN001622
+kgv-671-1,,kgv,671,os,os,o s,,,,,o s,,SN001623
+kgv-1591-1,,kgv,1591,osa,osa,o s a,,,,,o s a,,SN001627
+kgv-3460-1,,kgv,3460,osep,osep,o s e p,,,,,o s e p,,SN001629
+kgv-168-2,,kgv,168,osie,osie,o s i e,,,,,o s ie,,SN001630
+kgv-1280-1,,kgv,1280,our,our,o u r,,,,,ou r,,SN001636
+kgv-3411-1,,kgv,3411,owa,owa,o w a,,,,,o w a,,SN001637
+kgv-3411-2,,kgv,3411,owangga,owangga,o w a ŋ g a,,,,,o w a ng g a,,SN001638
+kgv-3411-3,,kgv,3411,owatko,owatko,o w a t k o,,,,,o w a t k o,,SN001639
+kgv-1441-1,,kgv,1441,pabalet,pabalet,p a b a l e t,,,,,p a b a l e t,,SN001640
+kgv-465-1,,kgv,465,pabie,pabie,p a b i e,,,,,p a b ie,,SN001641
+kgv-1763-1,,kgv,1763,pabiep,pabiep,p a b i e p,,,,,p a b ie p,,SN001642
+kgv-281-1,,kgv,281,paden,paden,p a d e n,,,,,p a d e n,,SN001644
+kgv-2026-1,,kgv,2026,padi,padi,p a d i,,,,,p a d i,,SN001648
+kgv-1156-4,,kgv,1156,paherma,paherma,p a h e r m a,,,,,p a h e r m a,,SN001651
+kgv-321-1,,kgv,321,pak,pak,p a k,,,,,p a k,,SN001654
+kgv-1313-1,,kgv,1313,pak,pak,p a k,,,,,p a k,,SN001655
+kgv-1896-1,,kgv,1896,pak,pak,p a k,,,,,p a k,,SN001658
+kgv-3691-1,,kgv,3691,pak talawak,pak_talawak,p a k + t a l a w a k,,,,,p a k _ t a l a w a k,,SN001660
+kgv-3690-1,,kgv,3690,pak tubak,pak_tubak,p a k + t u b a k,,,,,p a k _ t u b a k,,SN001661
+kgv-1043-1,,kgv,1043,pakpak,pakpak,p a k p a k,,,,,p a k p a k,,SN001663
+kgv-3306-1,,kgv,3306,paku,paku,p a k u,,,,,p a k u,,SN001667
+kgv-3702-1,,kgv,3702,palawak,palawak,p a l a w a k,,,,,p a l a w a k,,SN001669
+kgv-1440-1,,kgv,1440,palom,palom,p a l o m,,,,,p a l o m,,SN001671
+kgv-1440-2,,kgv,1440,palom,palom,p a l o m,,,,,p a l o m,,SN001672
+kgv-2984-1,,kgv,2984,*pan,*pan,p a n,,,,,* p a n,,SN001673
+kgv-31-2,,kgv,31,panci,panci,p a n c i,,,,,p a n c i,,SN001674
+kgv-1614-1,,kgv,1614,pang,pang,p a ŋ,,,,,p a ng,,SN001677
+kgv-1573-1,,kgv,1573,panggala,panggala,p a ŋ g a l a,,,,,p a ng g a l a,,SN001679
+kgv-925-1,,kgv,925,panggala,panggala,p a ŋ g a l a,,,,,p a ng g a l a,,SN001680
+kgv-1158-1,,kgv,1158,panggat,panggat,p a ŋ g a t,,,,,p a ng g a t,,SN001682
+kgv-2247-1,,kgv,2247,panggatpanggat,panggatpanggat,p a ŋ g a t p a ŋ g a t,,,,,p a ng g a t p a ng g a t,,SN001684
+kgv-2273-1,,kgv,2273,panggawangga,panggawangga,p a ŋ g a w a ŋ g a,,,,,p a ng g a w a ng g a,,SN001685
+kgv-1309-2,,kgv,1309,paning,paning,p a n i ŋ,,,,,p a n i ng,,SN001687
+kgv-1128-2,,kgv,1128,panok,panok,p a n o k,,,,,p a n o k,,SN001688
+kgv-1128-3,,kgv,1128,panok,panok,p a n o k,,,,,p a n o k,,SN001689
+kgv-640-1,,kgv,640,paos,paos,p a o s,,,,,p ao s,,SN001693
+kgv-735-2,,kgv,735,parai,parai,p a r a i,,,,,p a r ai,,SN001694
+kgv-1437-2,,kgv,1437,parair,parair,p a r a i r,,,,,p a r ai r,,SN001695
+kgv-8-1,,kgv,8,parambura,parambura,p a r a m b u r a,,,,,p a r a m b u r a,,SN001696
+kgv-1432-2,,kgv,1432,paramua,paramua,p a r a m u a,,,,,p a r a m ua,,SN001697
+kgv-1857-1,,kgv,1857,paramuang,paramuang,p a r a m u a ŋ,,,,,p a r a m ua ng,,SN001698
+kgv-1942-2,,kgv,1942,paransik,paransik,p a r a n s i k,,,,,p a r a ns i k,,SN001700
+kgv-1441-2,,kgv,1441,pararuo,pararuo,p a r a r u o,,,,,p a r a r uo,,SN001704
+kgv-67-2,,kgv,67,paras,paras,p a r a s,,,,,p a r a s,,SN001705
+kgv-1571-1,,kgv,1571,parein,parein,p a r e i n,,,,,p a r ei n,,SN001706
+kgv-657-1,,kgv,657,pareinun,pareinun,p a r e i n u n,,,,,p a r ei n u n,,SN001707
+kgv-1085-1,,kgv,1085,pareir,pareir,p a r e i r,,,,,p a r ei r,,SN001708
+kgv-1998-1,,kgv,1998,parenta,parenta,p a r e n t a,,,,,p a r e n t a,,SN001709
+kgv-72-1,,kgv,72,paritman,paritman,p a r i t m a n,,,,,p a r i t m a n,,SN001710
+kgv-2339-1,,kgv,2339,parlu,parlu,p a r l u,,,,,p a r l u,,SN001711
+kgv-1389-2,,kgv,1389,parok,parok,p a r o k,,,,,p a r o k,,SN001712
+kgv-2148-1,,kgv,2148,parua,parua,p a r u a,,,,,p a r ua,,SN001714
+kgv-750-5,,kgv,750,paruak,paruak,p a r u a k,,,,,p a r ua k,,SN001715
+kgv-1257-1,,kgv,1257,parun,parun,p a r u n,,,,,p a r u n,,SN001716
+kgv-813-3,,kgv,813,paruo,paruo,p a r u o,,,,,p a r uo,,SN001717
+kgv-1752-2,,kgv,1752,paruok,paruok,p a r u o k,,,,,p a r uo k,,SN001718
+kgv-962-1,,kgv,962,pas,pas,p a s,,,,,p a s,,SN001720
+kgv-926-1,,kgv,926,pasa,pasa,p a s a,,,,,p a s a,,SN001723
+kgv-633-1,,kgv,633,pasar,pasar,p a s a r,,,,,p a s a r,,SN001724
+kgv-676-3,,kgv,676,pasienggara bot,pasienggara_bot,p a s i e ŋ g a r a + b o t,,,,,p a s ie ng g a r a _ b o t,,SN001727
+kgv-1474-2,,kgv,1474,pasier,pasier,p a s i e r,,,,,p a s ie r,,SN001729
+kgv-113-1,,kgv,113,pasierbol,pasierbol,p a s i e r b o l,,,,,p a s ie r b o l,,SN001731
+kgv-70-1,,kgv,70,pasirwasir,pasirwasir,p a s i r w a s i r,,,,,p a s i rw a s i r,,SN001732
+kgv-1756-1,,kgv,1756,paskot,paskot,p a s k o t,,,,,p a s k o t,,SN001733
+kgv-991-1,,kgv,991,pasor,pasor,p a s o r,,,,,p a s o r,,SN001734
+kgv-3024-1,,kgv,3024,pasparin,pasparin,p a s p a r i n,,,,,p a s p a r i n,,SN001735
+kgv-1457-1,,kgv,1457,pat,pat,p a t,,,,,p a t,,SN001736
+kgv-1257-2,,kgv,1257,pat,pat,p a t,,,,,p a t,,SN001737
+kgv-497-1,,kgv,497,patin ter,patin_ter,p a t i n + t e r,,,,,p a t i n _ t e r,,SN001740
+kgv-1227-2,,kgv,1227,pawan,pawan,p a w a n,,,,,p a w a n,,SN001744
+kgv-2006-1,,kgv,2006,payiem,payiem,p a j i e m,,,,,p a y ie m,,SN001746
+kgv-780-2,,kgv,780,-pe,-pe,+ p e,,,,,- p e,,SN001747
+kgv-962-2,,kgv,962,pebis,pebis,p e b i s,,,,,p e b i s,,SN001749
+kgv-1966-1,,kgv,1966,pel,pel,p e l,,,,,p e l,,SN001753
+kgv-184-1,,kgv,184,peler,peler,p e l e r,,,,,p e l e r,,SN001757
+kgv-717-1,,kgv,717,pen,pen,p e n,,,,,p e n,,SN001758
+kgv-1986-2,,kgv,1986,penyakit,penyakit,p e n j a k i t,,,,,p e n ya k i t,,SN001759
+kgv-1337-1,,kgv,1337,pep,pep,p e p,,,,,p e p,,SN001761
+kgv-948-1,,kgv,948,per,per,p e r,,,,,p e r,,SN001764
+kgv-1373-1,,kgv,1373,per kerkap,per_kerkap,p e r + k e r k a p,,,,,p e r _ k e r k a p,,SN001766
+kgv-1299-2,,kgv,1299,per kuskap,per_kuskap,p e r + k u s k a p,,,,,p e r _ k u s k a p,,SN001767
+kgv-2352-1,,kgv,2352,per paiwai,per_paiwai,p e r + p a i w a i,,,,,p e r _ p ai w ai,,SN001769
+kgv-3463-1,,kgv,3463,perbol,perbol,p e r b o l,,,,,p e r b o l,,SN001771
+kgv-943-1,,kgv,943,perki,perki,p e r k i,,,,,p e r k i,,SN001772
+kgv-1651-1,,kgv,1651,pertam,pertam,p e r t a m,,,,,p e r t a m,,SN001774
+kgv-2983-1,,kgv,2983,perusahan,perusahan,p e r u s a h a n,,,,,p e r u s a h a n,,SN001775
+kgv-763-2,,kgv,763,pes,pes,p e s,,,,,p e s,,SN001777
+kgv-1597-3,,kgv,1597,pesawat,pesawat,p e s a w a t,,,,,p e s a w a t,,SN001778
+kgv-909-1,,kgv,909,pespes,pespes,p e s p e s,,,,,p e s p e s,,SN001780
+kgv-1465-1,,kgv,1465,peti,peti,p e t i,,,,,p e t i,,SN001781
+kgv-1212-2,,kgv,1212,pi,pi,p i,,,,,p i,,SN001782
+kgv-2634-2,,kgv,2634,pier,pier,p i e r,,,,,p ie r,,SN001783
+kgv-780-3,,kgv,780,pin,pin,p i n,,,,,p i n,,SN001786
+kgv-98-5,,kgv,98,pinaninggan,pinaninggan,p i n a n i ŋ g a n,,,,,p i n a n i ng g a n,,SN001787
+kgv-480-1,,kgv,480,pingan,pingan,p i ŋ a n,,,,,p i ng a n,,SN001788
+kgv-682-6,,kgv,682,-pis,-pis,+ p i s,,,,,- p i s,,SN001792
+kgv-1559-2,,kgv,1559,pitis,pitis,p i t i s,,,,,p i t i s,,SN001794
+kgv-1264-4,,kgv,1264,pitisnaharen,pitisnaharen,p i t i s n a h a r e n,,,,,p i t i s n a h a r e n,,SN001795
+kgv-2371-1,,kgv,2371,po,po,p o,,,,,p o,,SN001796
+kgv-1870-1,,kgv,1870,po,po,p o,,,,,p o,,SN001797
+kgv-345-2,,kgv,345,pol,pol,p o l,,,,,p o l,,SN001800
+kgv-594-1,,kgv,594,polas,polas,p o l a s,,,,,p o l a s,,SN001803
+kgv-2445-1,,kgv,2445,polkayak,polkayak,p o l k a j a k,,,,,p o l k a ya k,,SN001804
+kgv-1667-2,,kgv,1667,pos,pos,p o s,,,,,p o s,,SN001807
+kgv-1574-1,,kgv,1574,pouk,pouk,p o u k,,,,,p ou k,,SN001811
+kgv-2943-1,,kgv,2943,poun,poun,p o u n,,,,,p ou n,,SN001812
+kgv-2943-2,,kgv,2943,*poup,*poup,p o u p,,,,,* p ou p,,SN001814
+kgv-1493-8,,kgv,1493,poupkon,poupkon,p o u p k o n,,,,,p ou p k o n,,SN001816
+kgv-1433-2,,kgv,1433,pue,pue,p u e,,,,,p ue,,SN001820
+kgv-843-1,,kgv,843,pueselet,pueselet,p u e s e l e t,,,,,p ue s e l e t,,SN001821
+kgv-1257-3,,kgv,1257,pul,pul,p u l,,,,,p u l,,SN001823
+kgv-1655-1,,kgv,1655,pulem,pulem,p u l e m,,,,,p u l e m,,SN001824
+kgv-378-2,,kgv,378,pulma,pulma,p u l m a,,,,,p u l m a,,SN001827
+kgv-177-1,,kgv,177,pulor,pulor,p u l o r,,,,,p u l o r,,SN001828
+kgv-1791-1,,kgv,1791,pulpul,pulpul,p u l p u l,,,,,p u l p u l,,SN001829
+kgv-607-1,,kgv,607,pulseka,pulseka,p u l s e k a,,,,,p u l s e k a,,SN001831
+kgv-822-1,,kgv,822,puraman,puraman,p u r a m a n,,,,,p u r a m a n,,SN001834
+kgv-1717-1,,kgv,1717,purap,purap,p u r a p,,,,,p u r a p,,SN001835
+kgv-1710-1,,kgv,1710,purir,purir,p u r i r,,,,,p u r i r,,SN001837
+kgv-1734-1,,kgv,1734,purir ba kon,purir_ba_kon,p u r i r + b a + k o n,,,,,p u r i r _ b a _ k o n,,SN001838
+kgv-1280-2,,kgv,1280,pururu,pururu,p u r u r u,,,,,p u r u r u,,SN001839
+kgv-1768-1,,kgv,1768,pus,pus,p u s,,,,,p u s,,SN001840
+kgv-239-2,,kgv,239,pus,pus,p u s,,,,,p u s,,SN001841
+kgv-239-3,,kgv,239,pus,pus,p u s,,,,,p u s,,SN001842
+kgv-994-1,,kgv,994,pusir,pusir,p u s i r,,,,,p u s i r,,SN001844
+kgv-1722-1,,kgv,1722,putirie,putirie,p u t i r i e,,,,,p u t i r ie,,SN001846
+kgv-1724-1,,kgv,1724,putkaninggonie,putkaninggonie,p u t k a n i ŋ g o n i e,,,,,p u t k a n i ng g o n ie,,SN001847
+kgv-1716-1,,kgv,1716,putkansuor,putkansuor,p u t k a n s u o r,,,,,p u t k a ns uo r,,SN001849
+kgv-3556-1,,kgv,3556,putkansuor talinggon,putkansuor_talinggon,p u t k a n s u o r + t a l i ŋ g o n,,,,,p u t k a ns uo r _ t a l i ng g o n,,SN001850
+kgv-1715-1,,kgv,1715,putkaruok,putkaruok,p u t k a r u o k,,,,,p u t k a r uo k,,SN001851
+kgv-3480-1,,kgv,3480,putkaruok talinggon,putkaruok_talinggon,p u t k a r u o k + t a l i ŋ g o n,,,,,p u t k a r uo k _ t a l i ng g o n,,SN001854
+kgv-1515-1,,kgv,1515,putkon,putkon,p u t k o n,,,,,p u t k o n,,SN001856
+kgv-1709-1,,kgv,1709,putkon ba ap,putkon_ba_ap,p u t k o n + b a + a p,,,,,p u t k o n _ b a _ a p,,SN001857
+kgv-1707-1,,kgv,1707,putkon ba eir,putkon_ba_eir,p u t k o n + b a + e i r,,,,,p u t k o n _ b a _ ei r,,SN001858
+kgv-1708-1,,kgv,1708,putkon ba karuok,putkon_ba_karuok,p u t k o n + b a + k a r u o k,,,,,p u t k o n _ b a _ k a r uo k,,SN001859
+kgv-1706-1,,kgv,1706,putkon ba kon,putkon_ba_kon,p u t k o n + b a + k o n,,,,,p u t k o n _ b a _ k o n,,SN001860
+kgv-1718-1,,kgv,1718,putraman,putraman,p u t r a m a n,,,,,p u t r a m a n,,SN001861
+kgv-1721-1,,kgv,1721,putramandalin,putramandalin,p u t r a m a n d a l i n,,,,,p u t r a m a n d a l i n,,SN001862
+kgv-1408-2,,kgv,1408,ra,ra,r a,,,,,r a,,SN001864
+kgv-695-2,,kgv,695,ra,ra,r a,,,,,r a,,SN001865
+kgv-745-1,,kgv,745,rak,rak,r a k,,,,,r a k,,SN001866
+kgv-1703-1,,kgv,1703,raman,raman,r a m a n,,,,,r a m a n,,SN001871
+kgv-1704-1,,kgv,1704,ramandalin,ramandalin,r a m a n d a l i n,,,,,r a m a n d a l i n,,SN001872
+kgv-2517-1,,kgv,2517,rami,rami,r a m i,,,,,r a m i,,SN001874
+kgv-1455-3,,kgv,1455,ramie,ramie,r a m i e,,,,,r a m ie,,SN001875
+kgv-2895-2,,kgv,2895,rane,rane,r a n e,,,,,r a n e,,SN001877
+kgv-1627-1,,kgv,1627,ranti,ranti,r a n t i,,,,,r a n t i,,SN001880
+kgv-1093-1,,kgv,1093,raor,raor,r a o r,,,,,r ao r,,SN001881
+kgv-1093-2,,kgv,1093,raorko,raorko,r a o r k o,,,,,r ao r k o,,SN001882
+kgv-1355-1,,kgv,1355,rap,rap,r a p,,,,,r a p,,SN001883
+kgv-3053-2,,kgv,3053,rapat,rapat,r a p a t,,,,,r a p a t,,SN001884
+kgv-1831-4,,kgv,1831,rapat,rapat,r a p a t,,,,,r a p a t,,SN001885
+kgv-1117-4,,kgv,1117,rasa,rasa,r a s a,,,,,r a s a,,SN001888
+kgv-1809-1,,kgv,1809,rasemsem,rasemsem,r a s e m s e m,,,,,r a s e m s e m,,SN001889
+kgv-1198-2,,kgv,1198,reidak,reidak,r e i d a k,,,,,r ei d a k,,SN001891
+kgv-3452-2,,kgv,3452,rein,rein,r e i n,,,,,r ei n,,SN001893
+kgv-3516-1,,kgv,3516,reirap,reirap,r e i r a p,,,,,r ei r a p,,SN001895
+kgv-1634-1,,kgv,1634,*reit,*reit,r e i t,,,,,* r ei t,,SN001896
+kgv-1634-2,,kgv,1634,reitkon,reitkon,r e i t k o n,,,,,r ei t k o n,,SN001897
+kgv-694-1,,kgv,694,rep,rep,r e p,,,,,r e p,,SN001899
+kgv-2903-1,,kgv,2903,rer,rer,r e r,,,,,r e r,,SN001902
+kgv-2060-2,,kgv,2060,rer,rer,r e r,,,,,r e r,,SN001903
+kgv-1481-1,,kgv,1481,resan,resan,r e s a n,,,,,r e s a n,,SN001905
+kgv-1202-3,,kgv,1202,-rip,-rip,+ r i p,,,,,- r i p,,SN001906
+kgv-1843-1,,kgv,1843,ripi,ripi,r i p i,,,,,r i p i,,SN001907
+kgv-711-1,,kgv,711,ririn,ririn,r i r i n,,,,,r i r i n,,SN001909
+kgv-1694-1,,kgv,1694,roba,roba,r o b a,,,,,r o b a,,SN001910
+kgv-906-2,,kgv,906,ror,ror,r o r,,,,,r o r,,SN001915
+kgv-1204-2,,kgv,1204,ror kulun,ror_kulun,r o r + k u l u n,,,,,r o r _ k u l u n,,SN001919
+kgv-241-1,,kgv,241,ror tabur,ror_tabur,r o r + t a b u r,,,,,r o r _ t a b u r,,SN001921
+kgv-1531-3,,kgv,1531,rorkarok,rorkarok,r o r k a r o k,,,,,r o r k a r o k,,SN001923
+kgv-2894-1,,kgv,2894,rouk,rouk,r o u k,,,,,r ou k,,SN001924
+kgv-1588-1,,kgv,1588,roye,roye,r o j e,,,,,r oye,,SN001927
+kgv-1417-1,,kgv,1417,rua,rua,r u a,,,,,r ua,,SN001928
+kgv-1280-3,,kgv,1280,ruak,ruak,r u a k,,,,,r ua k,,SN001929
+kgv-2458-1,,kgv,2458,ruam,ruam,r u a m,,,,,r ua m,,SN001930
+kgv-1573-2,,kgv,1573,ruan,ruan,r u a n,,,,,r ua n,,SN001931
+kgv-1110-1,,kgv,1110,ruar,ruar,r u a r,,,,,r ua r,,SN001932
+kgv-1418-1,,kgv,1418,ruo,ruo,r u o,,,,,r uo,,SN001942
+kgv-269-1,,kgv,269,ruo,ruo,r u o,,,,,r uo,,SN001943
+kgv-3460-2,,kgv,3460,ruom,ruom,r u o m,,,,,r uo m,,SN001944
+kgv-1897-1,,kgv,1897,rup,rup,r u p,,,,,r u p,,SN001946
+kgv-1493-9,,kgv,1493,rurkon,rurkon,r u r k o n,,,,,r u r k o n,,SN001950
+kgv-1936-1,,kgv,1936,rusa,rusa,r u s a,,,,,r u s a,,SN001951
+kgv-1786-1,,kgv,1786,sa,sa,s a,,,,,s a,,SN001954
+kgv-2194-1,,kgv,2194,sabar,sabar,s a b a r,,,,,s a b a r,,SN001957
+kgv-2493-3,,kgv,2493,sabet,sabet,s a b e t,,,,,s a b e t,,SN001960
+kgv-1700-1,,kgv,1700,sabtu,sabtu,s a b t u,,,,,s a b t u,,SN001961
+kgv-976-2,,kgv,976,sabur,sabur,s a b u r,,,,,s a b u r,,SN001962
+kgv-788-1,,kgv,788,sabur,sabur,s a b u r,,,,,s a b u r,,SN001963
+kgv-2680-1,,kgv,2680,sadawak,sadawak,s a d a w a k,,,,,s a d a w a k,,SN001964
+kgv-1624-1,,kgv,1624,saerak,saerak,s a e r a k,,,,,s ae r a k,,SN001965
+kgv-98-6,,kgv,98,=saet,=saet,+ s a e t,,,,,= s ae t,,SN001966
+kgv-1657-2,,kgv,1657,saidak,saidak,s a i d a k,,,,,s ai d a k,,SN001967
+kgv-56-1,,kgv,56,saier,saier,s a i e r,,,,,s ai e r,,SN001968
+kgv-183-1,,kgv,183,sair,sair,s a i r,,,,,s ai r,,SN001972
+kgv-2397-1,,kgv,2397,sairarar,sairarar,s a i r a r a r,,,,,s ai r a r a r,,SN001973
+kgv-3155-2,,kgv,3155,sakarip,sakarip,s a k a r i p,,,,,s a k a r i p,,SN001975
+kgv-1390-1,,kgv,1390,sala,sala,s a l a,,,,,s a l a,,SN001977
+kgv-588-3,,kgv,588,salaboung,salaboung,s a l a b o u ŋ,,,,,s a l a b ou ng,,SN001978
+kgv-2078-1,,kgv,2078,salak,salak,s a l a k,,,,,s a l a k,,SN001981
+kgv-1264-5,,kgv,1264,salir,salir,s a l i r,,,,,s a l i r,,SN001985
+kgv-200-2,,kgv,200,sama,sama,s a m a,,,,,s a m a,,SN001987
+kgv-3018-1,,kgv,3018,samameng,samameng,s a m a m e ŋ,,,,,s a m a m e ng,,SN001988
+kgv-1817-4,,kgv,1817,samar,samar,s a m a r,,,,,s a m a r,,SN001989
+kgv-1860-1,,kgv,1860,samor,samor,s a m o r,,,,,s a m o r,,SN001990
+kgv-2753-2,,kgv,2753,sampai,sampai,s a m p a i,,,,,s a m p ai,,SN001991
+kgv-2753-3,,kgv,2753,sampi,sampi,s a m p i,,,,,s a m p i,,SN001992
+kgv-1387-2,,kgv,1387,sampi,sampi,s a m p i,,,,,s a m p i,,SN001993
+kgv-2308-1,,kgv,2308,samsik,samsik,s a m s i k,,,,,s a m s i k,,SN001994
+kgv-2242-1,,kgv,2242,sanggan,sanggan,s a ŋ g a n,,,,,s a ng g a n,,SN001999
+kgv-2319-1,,kgv,2319,sanggan,sanggan,s a ŋ g a n,,,,,s a ng g a n,,SN002000
+kgv-38-1,,kgv,38,sangganggam,sangganggam,s a ŋ g a ŋ g a m,,,,,s a ng g a ng g a m,,SN002001
+kgv-2319-2,,kgv,2319,sangganun,sangganun,s a ŋ g a n u n,,,,,s a ng g a n u n,,SN002002
+kgv-1468-2,,kgv,1468,sanggara,sanggara,s a ŋ g a r a,,,,,s a ng g a r a,,SN002003
+kgv-2270-1,,kgv,2270,sanggeran,sanggeran,s a ŋ g e r a n,,,,,s a ng g e r a n,,SN002005
+kgv-2673-1,,kgv,2673,sanggien,sanggien,s a ŋ g i e n,,,,,s a ng g ie n,,SN002007
+kgv-1531-4,,kgv,1531,sanggoup,sanggoup,s a ŋ g o u p,,,,,s a ng g ou p,,SN002009
+kgv-588-4,,kgv,588,sanggoyie,sanggoyie,s a ŋ g o j i e,,,,,s a ng g o y ie,,SN002010
+kgv-1398-3,,kgv,1398,sansa,sansa,s a n s a,,,,,s a ns a,,SN002012
+kgv-2880-2,,kgv,2880,sansan,sansan,s a n s a n,,,,,s a ns a n,,SN002014
+kgv-1870-2,,kgv,1870,saor,saor,s a o r,,,,,s ao r,,SN002016
+kgv-1870-3,,kgv,1870,saor,saor,s a o r,,,,,s ao r,,SN002017
+kgv-1076-1,,kgv,1076,saouk,saouk,s a ou k,,,,,s aou k,,SN002018
+kgv-1295-1,,kgv,1295,sap,sap,s a p,,,,,s a p,,SN002020
+kgv-1007-1,,kgv,1007,sapi,sapi,s a p i,,,,,s a p i,,SN002021
+kgv-1102-2,,kgv,1102,sara,sara,s a r a,,,,,s a r a,,SN002023
+kgv-1898-1,,kgv,1898,saramin,saramin,s a r a m i n,,,,,s a r a m i n,,SN002027
+kgv-2500-1,,kgv,2500,sarem,sarem,s a r e m,,,,,s a r e m,,SN002034
+kgv-1435-1,,kgv,1435,sarie,sarie,s a r i e,,,,,s a r ie,,SN002036
+kgv-614-1,,kgv,614,sarieng,sarieng,s a r i e ŋ,,,,,s a r ie ng,,SN002037
+kgv-1172-1,,kgv,1172,saroum,saroum,s a r o u m,,,,,s a r ou m,,SN002043
+kgv-1172-2,,kgv,1172,saroum,saroum,s a r o u m,,,,,s a r ou m,,SN002044
+kgv-231-1,,kgv,231,sarua,sarua,s a r u a,,,,,s a r ua,,SN002046
+kgv-1631-2,,kgv,1631,sasat,sasat,s a s a t,,,,,s a s a t,,SN002051
+kgv-1378-1,,kgv,1378,sasul,sasul,s a s u l,,,,,s a s u l,,SN002055
+kgv-1378-2,,kgv,1378,sasul,sasul,s a s u l,,,,,s a s u l,,SN002056
+kgv-1233-2,,kgv,1233,saun,saun,s a u n,,,,,s au n,,SN002057
+kgv-706-1,,kgv,706,sausaun,sausaun,s a u s a u n,,,,,s au s au n,,SN002060
+kgv-11-1,,kgv,11,sausaun,sausaun,s a u s a u n,,,,,s au s au n,,SN002061
+kgv-178-2,,kgv,178,sawaun,sawaun,s a w a u n,,,,,s a w au n,,SN002066
+kgv-470-1,,kgv,470,se,se,s e,,,,,s e,,SN002076
+kgv-2576-1,,kgv,2576,se,se,s e,,,,,s e,,SN002077
+kgv-3017-2,,kgv,3017,sebua,sebua,s e b u a,,,,,s e b ua,,SN002079
+kgv-2680-2,,kgv,2680,sedawak,sedawak,s e d a w a k,,,,,s e d a w a k,,SN002081
+kgv-2753-4,,kgv,2753,sehingga,sehingga,s e h i ŋ g a,,,,,s e h i ng g a,,SN002082
+kgv-673-1,,kgv,673,sekola,sekola,s e k o l a,,,,,s e k o l a,,SN002090
+kgv-1695-1,,kgv,1695,selasa,selasa,s e l a s a,,,,,s e l a s a,,SN002093
+kgv-594-2,,kgv,594,selet,selet,s e l e t,,,,,s e l e t,,SN002094
+kgv-594-3,,kgv,594,seletkon,seletkon,s e l e t k o n,,,,,s e l e t k o n,,SN002095
+kgv-3230-1,,kgv,3230,selinku,selinku,s e l i n k u,,,,,s e l i n k u,,SN002097
+kgv-1419-1,,kgv,1419,sem,sem,s e m,,,,,s e m,,SN002098
+kgv-1135-1,,kgv,1135,sempang,sempang,s e m p a ŋ,,,,,s e m p a ng,,SN002103
+kgv-1697-1,,kgv,1697,senen,senen,s e n e n,,,,,s e n e n,,SN002106
+kgv-769-1,,kgv,769,seng,seng,s e ŋ,,,,,s e ng,,SN002107
+kgv-1381-1,,kgv,1381,sepatu,sepatu,s e p a t u,,,,,s e p a t u,,SN002111
+kgv-771-1,,kgv,771,sepe,sepe,s e p e,,,,,s e p e,,SN002112
+kgv-2013-1,,kgv,2013,set,set,s e t,,,,,s e t,,SN002125
+kgv-1455-4,,kgv,1455,sewa,sewa,s e w a,,,,,s e w a,,SN002127
+kgv-790-2,,kgv,790,siap,siap,s i a p,,,,,s ia p,,SN002134
+kgv-571-1,,kgv,571,sie,sie,s i e,,,,,s ie,,SN002135
+kgv-863-4,,kgv,863,*siep,*siep,s i e p,,,,,* s ie p,,SN002137
+kgv-1175-1,,kgv,1175,sietan,sietan,s i e t a n,,,,,s ie t a n,,SN002139
+kgv-863-5,,kgv,863,sieun,sieun,s i e u n,,,,,s ie u n,,SN002140
+kgv-1621-1,,kgv,1621,sik,sik,s i k,,,,,s i k,,SN002141
+kgv-1208-1,,kgv,1208,sikan,sikan,s i k a n,,,,,s i k a n,,SN002143
+kgv-2921-4,,kgv,2921,siktak,siktak,s i k t a k,,,,,s i k t a k,,SN002147
+kgv-1291-1,,kgv,1291,*silep,*silep,s i l e p,,,,,* s i l e p,,SN002153
+kgv-1686-2,,kgv,1686,silepko,silepko,s i l e p k o,,,,,s i l e p k o,,SN002154
+kgv-1382-1,,kgv,1382,sin,sin,s i n,,,,,s i n,,SN002156
+kgv-1103-1,,kgv,1103,sinara,sinara,s i n a r a,,,,,s i n a r a,,SN002157
+kgv-587-1,,kgv,587,singasingat,singasingat,s i ŋ a s i ŋ a t,,,,,s i ng a s i ng a t,,SN002158
+kgv-3710-3,,kgv,3710,sir,sir,s i r,,,,,s i r,,SN002162
+kgv-1274-1,,kgv,1274,sira,sira,s i r a,,,,,s i r a,,SN002163
+kgv-1274-2,,kgv,1274,sira,sira,s i r a,,,,,s i r a,,SN002164
+kgv-1143-2,,kgv,1143,siriar,siriar,s i r i a r,,,,,s i r ia r,,SN002167
+kgv-1128-4,,kgv,1128,sirie,sirie,s i r i e,,,,,s i r ie,,SN002168
+kgv-2621-1,,kgv,2621,sirisiri,sirisiri,s i r i s i r i,,,,,s i r i s i r i,,SN002169
+kgv-2070-1,,kgv,2070,sisir,sisir,s i s i r,,,,,s i s i r,,SN002171
+kgv-1475-1,,kgv,1475,sisir,sisir,s i s i r,,,,,s i s i r,,SN002172
+kgv-729-1,,kgv,729,sobas,sobas,s o b a s,,,,,s o b a s,,SN002177
+kgv-2497-1,,kgv,2497,sol karek,sol_karek,s o l + k a r e k,,,,,s o l _ k a r e k,,SN002181
+kgv-683-2,,kgv,683,som,som,s o m,,,,,s o m,,SN002183
+kgv-1625-1,,kgv,1625,somin,somin,s o m i n,,,,,s o m i n,,SN002186
+kgv-791-2,,kgv,791,somkabas,somkabas,s o m k a b a s,,,,,s o m k a b a s,,SN002187
+kgv-683-3,,kgv,683,sontum,sontum,s o n t u m,,,,,s o n t u m,,SN002189
+kgv-791-3,,kgv,791,sontumkabas,sontumkabas,s o n t u m k a b a s,,,,,s o n t u m k a b a s,,SN002192
+kgv-3134-1,,kgv,3134,sontur,sontur,s o n t u r,,,,,s o n t u r,,SN002193
+kgv-227-1,,kgv,227,sor,sor,s o r,,,,,s o r,,SN002195
+kgv-3799-1,,kgv,3799,sor kangun,sor_kangun,s o r + k a ŋ u n,,,,,s o r _ k a ng u n,,SN002196
+kgv-1363-1,,kgv,1363,suara,suara,s u a r a,,,,,s ua r a,,SN002213
+kgv-1667-3,,kgv,1667,suarkang,suarkang,s u a r k a ŋ,,,,,s ua r k a ng,,SN002214
+kgv-2638-1,,kgv,2638,suban,suban,s u b a n,,,,,s u b a n,,SN002215
+kgv-737-1,,kgv,737,suensik,suensik,s u e n s i k,,,,,s ue ns i k,,SN002219
+kgv-1784-2,,kgv,1784,suka,suka,s u k a,,,,,s u k a,,SN002222
+kgv-737-2,,kgv,737,sumsik,sumsik,s u m s i k,,,,,s u m s i k,,SN002224
+kgv-809-1,,kgv,809,sungsung,sungsung,s u ŋ s u ŋ,,,,,s u ng s u ng,,SN002228
+kgv-680-3,,kgv,680,suo,suo,s u o,,,,,s uo,,SN002229
+kgv-1291-2,,kgv,1291,suol,suol,s u o l,,,,,s uo l,,SN002232
+kgv-805-1,,kgv,805,suolkasir,suolkasir,s u o l k a s i r,,,,,s uo l k a s i r,,SN002234
+kgv-1013-3,,kgv,1013,suopkaling,suopkaling,s u o p k a l i ŋ,,,,,s uo p k a l i ng,,SN002236
+kgv-1393-1,,kgv,1393,suor,suor,s u o r,,,,,s uo r,,SN002238
+kgv-680-4,,kgv,680,suosuo,suosuo,s u o s u o,,,,,s uo s uo,,SN002240
+kgv-584-1,,kgv,584,susa,susa,s u s a,,,,,s u s a,,SN002242
+kgv-584-2,,kgv,584,susia,susia,s u s i a,,,,,s u s ia,,SN002243
+kgv-621-2,,kgv,621,taba,taba,t a b a,,,,,t a b a,,SN002251
+kgv-974-1,,kgv,974,tabai,tabai,t a b a i,,,,,t a b ai,,SN002252
+kgv-816-1,,kgv,816,*tabak,*tabak,t a b a k,,,,,* t a b a k,,SN002254
+kgv-1246-5,,kgv,1246,tabaktabak,tabaktabak,t a b a k t a b a k,,,,,t a b a k t a b a k,,SN002255
+kgv-35-1,,kgv,35,tabalaki,tabalaki,t a b a l a k i,,,,,t a b a l a k i,,SN002256
+kgv-816-2,,kgv,816,tabaon,tabaon,t a b a o n,,,,,t a b ao n,,SN002259
+kgv-1280-4,,kgv,1280,tabarak,tabarak,t a b a r a k,,,,,t a b a r a k,,SN002260
+kgv-2655-1,,kgv,2655,taberak,taberak,t a b e r a k,,,,,t a b e r a k,,SN002262
+kgv-1645-1,,kgv,1645,tabusik,tabusik,t a b u s i k,,,,,t a b u s i k,,SN002268
+kgv-879-1,,kgv,879,tadon,tadon,t a d o n,,,,,t a d o n,,SN002269
+kgv-1992-2,,kgv,1992,=taet,=taet,+ t a e t,,,,,= t ae t,,SN002274
+kgv-204-3,,kgv,204,=taet,=taet,+ t a e t,,,,,= t ae t,,SN002275
+kgv-1210-1,,kgv,1210,tagier,tagier,t a g i e r,,,,,t a g ie r,,SN002277
+kgv-1877-1,,kgv,1877,tagur,tagur,t a g u r,,,,,t a g u r,,SN002280
+kgv-1186-1,,kgv,1186,tahan,tahan,t a h a n,,,,,t a h a n,,SN002284
+kgv-682-7,,kgv,682,tai-,tai-,t a i +,,,,,t ai -,,SN002285
+kgv-682-8,,kgv,682,taikon,taikon,t a i k o n,,,,,t ai k o n,,SN002286
+kgv-1964-2,,kgv,1964,-tain,-tain,+ t a i n,,,,,- t ai n,,SN002287
+kgv-682-9,,kgv,682,tair,tair,t a i r,,,,,t ai r,,SN002288
+kgv-628-4,,kgv,628,*tak,*tak,t a k,,,,,* t a k,,SN002289
+kgv-1580-2,,kgv,1580,=tak,=tak,+ t a k,,,,,= t a k,,SN002291
+kgv-2629-1,,kgv,2629,talam,talam,t a l a m,,,,,t a l a m,,SN002294
+kgv-1877-2,,kgv,1877,talawak,talawak,t a l a w a k,,,,,t a l a w a k,,SN002295
+kgv-762-4,,kgv,762,*talep,*talep,t a l e p,,,,,* t a l e p,,SN002296
+kgv-762-5,,kgv,762,talepko,talepko,t a l e p k o,,,,,t a l e p k o,,SN002297
+kgv-1615-2,,kgv,1615,taluk,taluk,t a l u k,,,,,t a l u k,,SN002299
+kgv-727-1,,kgv,727,tama,tama,t a m a,,,,,t a m a,,SN002300
+kgv-1239-1,,kgv,1239,tamandi,tamandi,t a m a n d i,,,,,t a m a n d i,,SN002301
+kgv-986-1,,kgv,986,tamatil,tamatil,t a m a t i l,,,,,t a m a t i l,,SN002303
+kgv-1237-1,,kgv,1237,tamatko,tamatko,t a m a t k o,,,,,t a m a t k o,,SN002304
+kgv-2928-1,,kgv,2928,tamawis,tamawis,t a m a w i s,,,,,t a m a w i s,,SN002305
+kgv-2882-2,,kgv,2882,tamba,tamba,t a m b a,,,,,t a m b a,,SN002306
+kgv-2546-1,,kgv,2546,tamun,tamun,t a m u n,,,,,t a m u n,,SN002308
+kgv-1183-1,,kgv,1183,tan laus,tan_laus,t a n + l a u s,,,,,t a n _ l au s,,SN002311
+kgv-1019-2,,kgv,1019,tanbes,tanbes,t a n b e s,,,,,t a n b e s,,SN002314
+kgv-714-2,,kgv,714,*tang,*tang,t a ŋ,,,,,* t a ng,,SN002315
+kgv-1258-1,,kgv,1258,tanggalip,tanggalip,t a ŋ g a l i p,,,,,t a ng g a l i p,,SN002319
+kgv-1374-1,,kgv,1374,tanggarara,tanggarara,t a ŋ g a r a r a,,,,,t a ng g a r a r a,,SN002320
+kgv-1448-3,,kgv,1448,tanggo,tanggo,t a ŋ g o,,,,,t a ng g o,,SN002322
+kgv-1226-1,,kgv,1226,tanggon,tanggon,t a ŋ g o n,,,,,t a ng g o n,,SN002323
+kgv-981-1,,kgv,981,tanggul,tanggul,t a ŋ g u l,,,,,t a ng g u l,,SN002327
+kgv-1156-5,,kgv,1156,tangguorma,tangguorma,t a ŋ g u o r m a,,,,,t a ng g uo r m a,,SN002329
+kgv-702-2,,kgv,702,tangkap,tangkap,t a ŋ k a p,,,,,t a ng k a p,,SN002330
+kgv-714-3,,kgv,714,tangun,tangun,t a ŋ u n,,,,,t a ng u n,,SN002331
+kgv-1781-1,,kgv,1781,tanparoemun,tanparoemun,t a n p a r o e m u n,,,,,t a n p a r oe m u n,,SN002333
+kgv-1303-1,,kgv,1303,tanparok,tanparok,t a n p a r o k,,,,,t a n p a r o k,,SN002334
+kgv-3387-1,,kgv,3387,tanparok raorkadok,tanparok_raorkadok,t a n p a r o k + r a o r k a d o k,,,,,t a n p a r o k _ r ao r k a d o k,,SN002336
+kgv-577-1,,kgv,577,tansahadat,tansahadat,t a n s a h a d a t,,,,,t a ns a h a d a t,,SN002337
+kgv-244-1,,kgv,244,tantayuon,tantayuon,t a n t a j u o n,,,,,t a n t a yuo n,,SN002339
+kgv-1493-10,,kgv,1493,taon,taon,t a o n,,,,,t ao n,,SN002341
+kgv-1979-1,,kgv,1979,taot,taot,t a o t,,,,,t ao t,,SN002342
+kgv-1979-2,,kgv,1979,taot,taot,t a o t,,,,,t ao t,,SN002343
+kgv-1411-2,,kgv,1411,taouk,taouk,t a ou k,,,,,t aou k,,SN002344
+kgv-1616-2,,kgv,1616,tapal,tapal,t a p a l,,,,,t a p a l,,SN002345
+kgv-164-1,,kgv,164,tapar,tapar,t a p a r,,,,,t a p a r,,SN002346
+kgv-1869-3,,kgv,1869,tapi,tapi,t a p i,,,,,t a p i,,SN002347
+kgv-1594-1,,kgv,1594,tapong,tapong,t a p o ŋ,,,,,t a p o ng,,SN002348
+kgv-1046-2,,kgv,1046,tara,tara,t a r a,,,,,t a r a,,SN002354
+kgv-1617-1,,kgv,1617,*tara,*tara,t a r a,,,,,* t a r a,,SN002356
+kgv-1496-3,,kgv,1496,tara emnem,tara_emnem,t a r a + e m n e m,,,,,t a r a _ e m n e m,,SN002357
+kgv-1383-2,,kgv,1383,tara esnem,tara_esnem,t a r a + e s n e m,,,,,t a r a _ e s n e m,,SN002358
+kgv-81-1,,kgv,81,taraman,taraman,t a r a m a n,,,,,t a r a m a n,,SN002363
+kgv-1595-1,,kgv,1595,tarangin,tarangin,t a r a ŋ i n,,,,,t a r a ng i n,,SN002364
+kgv-588-5,,kgv,588,taraouk,taraouk,t a r a ou k,,,,,t a r aou k,,SN002365
+kgv-980-1,,kgv,980,tararapang,tararapang,t a r a r a p a ŋ,,,,,t a r a r a p a ng,,SN002368
+kgv-1879-2,,kgv,1879,tarian,tarian,t a r i a n,,,,,t a r ia n,,SN002373
+kgv-694-2,,kgv,694,tarima,tarima,t a r i m a,,,,,t a r i m a,,SN002374
+kgv-1458-1,,kgv,1458,taru,taru,t a r u,,,,,t a r u,,SN002375
+kgv-1458-2,,kgv,1458,taruo,taruo,t a r u o,,,,,t a r uo,,SN002376
+kgv-2468-1,,kgv,2468,tas,tas,t a s,,,,,t a s,,SN002378
+kgv-1383-3,,kgv,1383,tata,tata,t a t a,,,,,t a t a,,SN002380
+kgv-1496-4,,kgv,1496,tatanina,tatanina,t a t a n i n a,,,,,t a t a n i n a,,SN002382
+kgv-1241-2,,kgv,1241,taukon,taukon,t a u k o n,,,,,t au k o n,,SN002387
+kgv-628-5,,kgv,628,taun,taun,t a u n,,,,,t au n,,SN002388
+kgv-2336-2,,kgv,2336,=tauna,=tauna,+ t a u n a,,,,,= t au n a,,SN002389
+kgv-297-1,,kgv,297,taungtaung,taungtaung,t a u ŋ t a u ŋ,,,,,t au ng t au ng,,SN002390
+kgv-2984-2,,kgv,2984,*taur,*taur,t a u r,,,,,* t au r,,SN002393
+kgv-1493-11,,kgv,1493,taurkon,taurkon,t a u r k o n,,,,,t au r k o n,,SN002395
+kgv-155-1,,kgv,155,tawara,tawara,t a w a r a,,,,,t a w a r a,,SN002396
+kgv-1808-1,,kgv,1808,te,te,t e,,,,,t e,,SN002401
+kgv-84-2,,kgv,84,=teba,=teba,+ t e b a,,,,,= t e b a,,SN002405
+kgv-98-7,,kgv,98,*tebon,*tebon,t e b o n,,,,,* t e b o n,,SN002408
+kgv-98-8,,kgv,98,tebonggan,tebonggan,t e b o ŋ g a n,,,,,t e b o ng g a n,,SN002409
+kgv-2830-1,,kgv,2830,teir,teir,t e i r,,,,,t ei r,,SN002410
+kgv-1332-1,,kgv,1332,*teit,*teit,t e i t,,,,,* t ei t,,SN002413
+kgv-575-1,,kgv,575,teitei,teitei,t e i t e i,,,,,t ei t ei,,SN002414
+kgv-1352-1,,kgv,1352,tektek,tektek,t e k t e k,,,,,t e k t e k,,SN002415
+kgv-3351-1,,kgv,3351,telin,telin,t e l i n,,,,,t e l i n,,SN002419
+kgv-1084-2,,kgv,1084,telpon,telpon,t e l p o n,,,,,t e l p o n,,SN002420
+kgv-668-2,,kgv,668,teltel,teltel,t e l t e l,,,,,t e l t e l,,SN002423
+kgv-1202-4,,kgv,1202,*tem,*tem,t e m,,,,,* t e m,,SN002424
+kgv-1325-2,,kgv,1325,teman,teman,t e m a n,,,,,t e m a n,,SN002426
+kgv-1614-2,,kgv,1614,temgerun,temgerun,t e m g e r u n,,,,,t e m g e r u n,,SN002427
+kgv-1202-5,,kgv,1202,temun,temun,t e m u n,,,,,t e m u n,,SN002429
+kgv-2336-3,,kgv,2336,=tenden,=tenden,+ t e n d e n,,,,,= t e n d e n,,SN002435
+kgv-1229-1,,kgv,1229,tenenun,tenenun,t e n e n u n,,,,,t e n e n u n,,SN002436
+kgv-1201-1,,kgv,1201,teng,teng,t e ŋ,,,,,t e ng,,SN002438
+kgv-1576-1,,kgv,1576,tengguen,tengguen,t e ŋ g u e n,,,,,t e ng g ue n,,SN002443
+kgv-1201-2,,kgv,1201,tengun,tengun,t e ŋ u n,,,,,t e ng u n,,SN002445
+kgv-1255-1,,kgv,1255,teok,teok,t e o k,,,,,t eo k,,SN002446
+kgv-249-1,,kgv,249,teok,teok,t e o k,,,,,t eo k,,SN002447
+kgv-1507-2,,kgv,1507,tep,tep,t e p,,,,,t e p,,SN002448
+kgv-1507-3,,kgv,1507,*tep,*tep,t e p,,,,,* t e p,,SN002450
+kgv-1462-1,,kgv,1462,tepeles,tepeles,t e p e l e s,,,,,t e p e l e s,,SN002452
+kgv-1493-12,,kgv,1493,tepkon,tepkon,t e p k o n,,,,,t e p k o n,,SN002453
+kgv-1373-2,,kgv,1373,ter,ter,t e r,,,,,t e r,,SN002455
+kgv-497-2,,kgv,497,ter,ter,t e r,,,,,t e r,,SN002456
+kgv-2921-5,,kgv,2921,terus,terus,t e r u s,,,,,t e r u s,,SN002461
+kgv-3699-3,,kgv,3699,terus,terus,t e r u s,,,,,t e r u s,,SN002462
+kgv-1383-4,,kgv,1383,tete,tete,t e t e,,,,,t e t e,,SN002463
+kgv-3353-1,,kgv,3353,teteris,teteris,t e t e r i s,,,,,t e t e r i s,,SN002464
+kgv-1507-4,,kgv,1507,teun,teun,t e u n,,,,,t eu n,,SN002466
+kgv-1554-3,,kgv,1554,teya,teya,t e j a,,,,,t eya,,SN002467
+kgv-492-2,,kgv,492,tiga,tiga,t i g a,,,,,t i g a,,SN002469
+kgv-1229-2,,kgv,1229,tik,tik,t i k,,,,,t i k,,SN002470
+kgv-863-6,,kgv,863,*tim,*tim,t i m,,,,,* t i m,,SN002473
+kgv-123-1,,kgv,123,timbang,timbang,t i m b a ŋ,,,,,t i m b a ng,,SN002474
+kgv-863-7,,kgv,863,timun,timun,t i m u n,,,,,t i m u n,,SN002476
+kgv-3808-1,,kgv,3808,ting,ting,t i ŋ,,,,,t i ng,,SN002478
+kgv-787-3,,kgv,787,tiri,tiri,t i r i,,,,,t i r i,,SN002479
+kgv-908-1,,kgv,908,tiri,tiri,t i r i,,,,,t i r i,,SN002480
+kgv-1019-3,,kgv,1019,to,to,t o,,,,,t o,,SN002482
+kgv-728-2,,kgv,728,tok,tok,t o k,,,,,t o k,,SN002484
+kgv-1422-3,,kgv,1422,tok bes,tok_bes,t o k + b e s,,,,,t o k _ b e s,,SN002486
+kgv-2355-1,,kgv,2355,tokitoki,tokitoki,t o k i t o k i,,,,,t o k i t o k i,,SN002489
+kgv-3667-1,,kgv,3667,toktok,toktok,t o k t o k,,,,,t o k t o k,,SN002491
+kgv-1422-4,,kgv,1422,toktok,toktok,t o k t o k,,,,,t o k t o k,,SN002492
+kgv-2444-1,,kgv,2444,tol,tol,t o l,,,,,t o l,,SN002493
+kgv-1432-3,,kgv,1432,tolcie,tolcie,t o l c i e,,,,,t o l c ie,,SN002496
+kgv-2468-2,,kgv,2468,toman,toman,t o m a n,,,,,t o m a n,,SN002499
+kgv-723-2,,kgv,723,tompat,tompat,t o m p a t,,,,,t o m p a t,,SN002500
+kgv-2548-2,,kgv,2548,tong,tong,t o ŋ,,,,,t o ng,,SN002501
+kgv-1458-3,,kgv,1458,toni,toni,t o n i,,,,,t o n i,,SN002504
+kgv-2235-1,,kgv,2235,toras,toras,t o r a s,,,,,t o r a s,,SN002508
+kgv-2298-1,,kgv,2298,towari,towari,t o w a r i,,,,,t o w a r i,,SN002515
+kgv-1433-3,,kgv,1433,tu,tu,t u,,,,,t u,,SN002516
+kgv-1422-5,,kgv,1422,tua,tua,t u a,,,,,t ua,,SN002517
+kgv-1229-3,,kgv,1229,tuaringgiar,tuaringgiar,t u a r i ŋ g i a r,,,,,t ua r i ng g ia r,,SN002520
+kgv-1422-6,,kgv,1422,tuaruar,tuaruar,t u a r u a r,,,,,t ua r ua r,,SN002521
+kgv-2766-1,,kgv,2766,tumin,tumin,t u m i n,,,,,t u m i n,,SN002525
+kgv-1949-1,,kgv,1949,tumteng,tumteng,t u m t e ŋ,,,,,t u m t e ng,,SN002526
+kgv-2099-1,,kgv,2099,tumun,tumun,t u m u n,,,,,t u m u n,,SN002527
+kgv-1246-6,,kgv,1246,tumun,tumun,t u m u n,,,,,t u m u n,,SN002528
+kgv-1620-1,,kgv,1620,tumun canam,tumun_canam,t u m u n + c a n a m,,,,,t u m u n _ c a n a m,,SN002529
+kgv-1149-1,,kgv,1149,tumun miskinden,tumun_miskinden,t u m u n + m i s k i n d e n,,,,,t u m u n _ m i s k i n d e n,,SN002531
+kgv-1357-1,,kgv,1357,tumun pas,tumun_pas,t u m u n + p a s,,,,,t u m u n _ p a s,,SN002532
+kgv-1311-2,,kgv,1311,=tun,=tun,+ t u n,,,,,= t u n,,SN002534
+kgv-1280-5,,kgv,1280,tur,tur,t u r,,,,,t u r,,SN002539
+kgv-614-2,,kgv,614,turing,turing,t u r i ŋ,,,,,t u r i ng,,SN002540
+kgv-1272-3,,kgv,1272,u,u,u,,,,,u,,SN002542
+kgv-1506-1,,kgv,1506,ukir,ukir,u k i r,,,,,u k i r,,SN002547
+kgv-2845-1,,kgv,2845,ukuran,ukuran,u k u r a n,,,,,u k u r a n,,SN002548
+kgv-1142-1,,kgv,1142,ul,ul,u l,,,,,u l,,SN002549
+kgv-1272-4,,kgv,1272,ulan,ulan,u l a n,,,,,u l a n,,SN002550
+kgv-108-1,,kgv,108,uli,uli,u l i,,,,,u l i,,SN002551
+kgv-1746-1,,kgv,1746,ulpom,ulpom,u l p o m,,,,,u l p o m,,SN002552
+kgv-592-1,,kgv,592,ulur,ulur,u l u r,,,,,u l u r,,SN002554
+kgv-789-1,,kgv,789,umat,umat,u m a t,,,,,u m a t,,SN002555
+kgv-1993-1,,kgv,1993,un=,un=,u n +,,,,,u n =,,SN002556
+kgv-2400-3,,kgv,2400,-un,-un,+ u n,,,,,- u n,,SN002557
+kgv-1119-1,,kgv,1119,unkoryap,unkoryap,u n k o r j a p,,,,,u n k o r ya p,,SN002565
+kgv-1195-2,,kgv,1195,unmasir,unmasir,u n m a s i r,,,,,u n m a s i r,,SN002566
+kgv-258-1,,kgv,258,up,up,u p,,,,,u p,,SN002569
+kgv-960-1,,kgv,960,ur,ur,u r,,,,,u r,,SN002573
+kgv-1489-2,,kgv,1489,ur kirun,ur_kirun,u r + k i r u n,,,,,u r _ k i r u n,,SN002574
+kgv-1914-1,,kgv,1914,uran,uran,u r a n,,,,,u r a n,,SN002576
+kgv-667-1,,kgv,667,urap,urap,u r a p,,,,,u r a p,,SN002577
+kgv-978-1,,kgv,978,uren,uren,u r e n,,,,,u r e n,,SN002578
+kgv-1222-1,,kgv,1222,us,us,u s,,,,,u s,,SN002581
+kgv-1720-4,,kgv,1720,ut,ut,u t,,,,,u t,,SN002587
+kgv-1720-5,,kgv,1720,ut,ut,u t,,,,,u t,,SN002588
+kgv-1241-3,,kgv,1241,utkon,utkon,u t k o n,,,,,u t k o n,,SN002590
+kgv-1214-1,,kgv,1214,wa,wa,w a,,,,,w a,,SN002592
+kgv-1238-1,,kgv,1238,waktu,waktu,w a k t u,,,,,w a k t u,,SN002595
+kgv-892-2,,kgv,892,waktu,waktu,w a k t u,,,,,w a k t u,,SN002596
+kgv-892-3,,kgv,892,*wan,*wan,w a n,,,,,* w a n,,SN002607
+kgv-1558-1,,kgv,1558,wandi,wandi,w a n d i,,,,,w a n d i,,SN002608
+kgv-1214-2,,kgv,1214,wane,wane,w a n e,,,,,w a n e,,SN002610
+kgv-2927-1,,kgv,2927,wangga,wangga,w a ŋ g a,,,,,w a ng g a,,SN002612
+kgv-2914-1,,kgv,2914,wanggon,wanggon,w a ŋ g o n,,,,,w a ng g o n,,SN002614
+kgv-777-1,,kgv,777,wangguwanggus,wangguwanggus,w a ŋ g u w a ŋ g u s,,,,,w a ng g u w a ng g u s,,SN002616
+kgv-2638-2,,kgv,2638,war,war,w a r,,,,,w a r,,SN002619
+kgv-1110-2,,kgv,1110,war,war,w a r,,,,,w a r,,SN002622
+kgv-891-1,,kgv,891,warkin,warkin,w a r k i n,,,,,w a r k i n,,SN002629
+kgv-1026-1,,kgv,1026,warkin garos,warkin_garos,w a r k i n + g a r o s,,,,,w a r k i n _ g a r o s,,SN002630
+kgv-1026-2,,kgv,1026,warkin kararak,warkin_kararak,w a r k i n + k a r a r a k,,,,,w a r k i n _ k a r a r a k,,SN002631
+kgv-613-2,,kgv,613,warkin laur,warkin_laur,w a r k i n + l a u r,,,,,w a r k i n _ l au r,,SN002632
+kgv-613-3,,kgv,613,warkin nasesak,warkin_nasesak,w a r k i n + n a s e s a k,,,,,w a r k i n _ n a s e s a k,,SN002633
+kgv-1026-3,,kgv,1026,warkin tararup,warkin_tararup,w a r k i n + t a r a r u p,,,,,w a r k i n _ t a r a r u p,,SN002634
+kgv-909-2,,kgv,909,warum,warum,w a r u m,,,,,w a r u m,,SN002636
+kgv-1439-1,,kgv,1439,waruo,waruo,w a r u o,,,,,w a r uo,,SN002637
+kgv-136-1,,kgv,136,watko,watko,w a t k o,,,,,w a t k o,,SN002648
+kgv-1425-1,,kgv,1425,welenggap,welenggap,w e l e ŋ g a p,,,,,w e l e ng g a p,,SN002656
+kgv-665-1,,kgv,665,wenawena,wenawena,w e n a w e n a,,,,,w e n a w e n a,,SN002657
+kgv-88-2,,kgv,88,wenawena eun,wenawena_eun,w e n a w e n a + e u n,,,,,w e n a w e n a _ eu n,,SN002658
+kgv-3064-1,,kgv,3064,wenggam,wenggam,w e ŋ g a m,,,,,w e ng g a m,,SN002659
+kgv-1040-1,,kgv,1040,westal,westal,w e s t a l,,,,,w e s t a l,,SN002663
+kgv-2398-1,,kgv,2398,wie,wie,w i e,,,,,w ie,,SN002666
+kgv-19-2,,kgv,19,wien,wien,w i e n,,,,,w ie n,,SN002667
+kgv-1156-6,,kgv,1156,wiercie,wiercie,w i e r c i e,,,,,w ie r c ie,,SN002671
+kgv-2628-4,,kgv,2628,wierun,wierun,w i e r u n,,,,,w ie r u n,,SN002672
+kgv-2628-5,,kgv,2628,wiet,wiet,w i e t,,,,,w ie t,,SN002673
+kgv-1474-3,,kgv,1474,wilak,wilak,w i l a k,,,,,w i l a k,,SN002674
+kgv-1156-7,,kgv,1156,wirma,wirma,w i r m a,,,,,w i r m a,,SN002676
+kgv-1174-1,,kgv,1174,wis,wis,w i s,,,,,w i s,,SN002677
+kgv-373-1,,kgv,373,wise,wise,w i s e,,,,,w i s e,,SN002678
+kgv-373-2,,kgv,373,wiseme,wiseme,w i s e m e,,,,,w i s e m e,,SN002679
+kgv-194-1,,kgv,194,wol,wol,w o l,,,,,w o l,,SN002680
+kgv-1272-5,,kgv,1272,wowa,wowa,w o w a,,,,,w o w a,,SN002684
+kgv-1272-6,,kgv,1272,wowa caun,wowa_caun,w o w a + c a u n,,,,,w o w a _ c au n,,SN002685
+kgv-1272-7,,kgv,1272,wowa temun,wowa_temun,w o w a + t e m u n,,,,,w o w a _ t e m u n,,SN002686
+kgv-607-2,,kgv,607,wuar sisiarun,wuar_sisiarun,w u a r + s i s i a r u n,,,,,w ua r _ s i s ia r u n,,SN002687
+kgv-1920-1,,kgv,1920,wuorwuor,wuorwuor,w u o r w u o r,,,,,w uo rw uo r,,SN002690
+kgv-1268-4,,kgv,1268,ya,ya,j a,,,,,ya,,SN002691
+kgv-3009-1,,kgv,3009,yakop,yakop,j a k o p,,,,,ya k o p,,SN002695
+kgv-3668-1,,kgv,3668,yal,yal,j a l,,,,,ya l,,SN002698
+kgv-234-1,,kgv,234,yal,yal,j a l,,,,,ya l,,SN002699
+kgv-3668-2,,kgv,3668,yalyal,yalyal,j a l j a l,,,,,ya l ya l,,SN002700
+kgv-549-2,,kgv,549,yam,yam,j a m,,,,,ya m,,SN002701
+kgv-1119-2,,kgv,1119,yap,yap,j a p,,,,,ya p,,SN002702
+kgv-410-1,,kgv,410,yap seran,yap_seran,j a p + s e r a n,,,,,ya p _ s e r a n,,SN002704
+kgv-857-1,,kgv,857,yar,yar,j a r,,,,,ya r,,SN002705
+kgv-3028-1,,kgv,3028,yaralus,yaralus,j a r a l u s,,,,,ya r a l u s,,SN002708
+kgv-668-3,,kgv,668,yarpan,yarpan,j a r p a n,,,,,ya r p a n,,SN002713
+kgv-1326-1,,kgv,1326,yawe,yawe,j a w e,,,,,ya w e,,SN002719
+kgv-2540-1,,kgv,2540,yawir,yawir,j a w i r,,,,,ya w i r,,SN002723
+kgv-1014-2,,kgv,1014,ye,ye,j e,,,,,ye,,SN002724
+kgv-581-2,,kgv,581,yecie,yecie,j e c i e,,,,,ye c ie,,SN002725
+kgv-1439-2,,kgv,1439,yie,yie,j i e,,,,,y ie,,SN002729
+kgv-1268-5,,kgv,1268,yo,yo,j o,,,,,y o,,SN002731
+kgv-78-5,,kgv,78,yume,yume,j u m e,,,,,y u m e,,SN002735
+kgv-78-6,,kgv,78,yumene,yumene,j u m e n e,,,,,y u m e n e,,SN002736
+kgv-1225-3,,kgv,1225,yuol,yuol,j u o l,,,,,yuo l,,SN002737
+kgv-1238-2,,kgv,1238,yuol tama,yuol_tama,j u o l + t a m a,,,,,yuo l _ t a m a,,SN002738
+kgv-708-2,,kgv,708,yuolyuol,yuolyuol,j u o l j u o l,,,,,yuo l yuo l,,SN002739
+kgv-1343-1,,kgv,1343,yuon,yuon,j u o n,,,,,yuo n,,SN002740
+kgv-1449-2,,kgv,1449,yuon,yuon,j u o n,,,,,yuo n,,SN002741
+kgv-332-1,,kgv,332,yuon,yuon,j u o n,,,,,yuo n,,SN002742
+kgv-1817-5,,kgv,1817,yuon daruk,yuon_daruk,j u o n + d a r u k,,,,,yuo n _ d a r u k,,SN002744
+kgv-452-1,,kgv,452,yuon monpak,yuon_monpak,j u o n + m o n p a k,,,,,yuo n _ m o n p a k,,SN002745
+kgv-12-1,,kgv,12,yuon nawariri,yuon_nawariri,j u o n + n a w a r i r i,,,,,yuo n _ n a w a r i r i,,SN002746
+kgv-2296-1,,kgv,2296,yuon sara,yuon_sara,j u o n + s a r a,,,,,yuo n _ s a r a,,SN002747
+kgv-1225-4,,kgv,1225,yuor,yuor,j u o r,,,,,yuo r,,SN002749
+kgv-1019-4,,kgv,1019,yuor,yuor,j u o r,,,,,yuo r,,SN002751
+kgv-1657-3,,kgv,1657,yuor,yuor,j u o r,,,,,yuo r,,SN002752
+kgv-1404-1,,kgv,1404,yuorsik,yuorsik,j u o r s i k,,,,,yuo r s i k,,SN002753
+kgv-1214-3,,kgv,1214,yuwa,yuwa,j u w a,,,,,y u w a,,SN002755
+kgv-1558-2,,kgv,1558,yuwandi,yuwandi,j u w a n d i,,,,,y u w a n d i,,SN002756
+kgv-1214-4,,kgv,1214,yuwane,yuwane,j u w a n e,,,,,y u w a n e,,SN002757
+kgv-136-2,,kgv,136,yuwatko,yuwatko,j u w a t k o,,,,,y u w a t k o,,SN002758

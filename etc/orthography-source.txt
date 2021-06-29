@@ -1,0 +1,12 @@
+The orthography profile was taken from
+
+  Eline Visser. 2021. Kalamang dictionary. In: Key, Mary Ritchie & Comrie,
+  Bernard (eds.) The Intercontinental Dictionary Series.  Leipzig: Max Planck
+  Institute for Evolutionary Anthropology.  (Available online at
+  https://ids.clld.org/)
+
+downloaded at
+
+  https://github.com/intercontinental-dictionary-series/visserkalamang
+
+under the conditions of the CC-BY-4.0 license.

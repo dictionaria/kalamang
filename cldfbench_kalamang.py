@@ -14,6 +14,7 @@ from pydictionaria.preprocess_lib import (
 
 import attr
 from cldfbench import CLDFSpec
+from segments import Profile, Tokenizer
 
 import pylexibank
 
@@ -345,6 +346,7 @@ class Dataset(pylexibank.Dataset):
 
             # processing
 
+            reprs = ['Phonemic']
             with open(self.dir / 'cldf.log', 'w', encoding='utf-8') as log_file:
                 log_name = '%s.cldf' % language_id
                 cldf_log = sfm2cldf.make_log(log_name, log_file)
@@ -421,19 +423,26 @@ class Dataset(pylexibank.Dataset):
                         Concepticon_ID=cid,
                         Concepticon_Gloss=self.concepticon.cached_glosses[cid])
 
+            ortho_profile = Profile.from_file(fname=self.etc_dir / 'orthography.tsv')
+            tokenizer = Tokenizer(profile=ortho_profile)
+
             entries_by_id = {e['ID']: e for e in entries}
             for sense in senses:
                 if sense.get('Concepticon_ID'):
-                    writer.add_form(
+                    form = entries_by_id[sense['Entry_ID']]['Headword'].replace(' ', '_')
+                    lexeme = writer.add_form_with_segments(
                         ID='{}-{}'.format(sense['ID'], sense['Concepticon_ID']),
                         Parameter_ID=sense['Concepticon_ID'],
                         Sense_ID=sense['ID'],
-                        Form=entries_by_id[sense['Entry_ID']]['Headword'].replace(' ', '_'),
+                        Form=form,
                         Value=entries_by_id[sense['Entry_ID']]['Headword'],
-                        Language_ID=language_id)
+                        Language_ID=language_id,
+                        Graphemes=tokenizer(form),
+                        Segments=tokenizer(form, column='IPA').split())
 
             writer.add_language(
                 ID=language_id,
                 Name=language_name,
                 ISO639P3code=isocode,
                 Glottocode=glottocode)
+            #Representations=reprs
