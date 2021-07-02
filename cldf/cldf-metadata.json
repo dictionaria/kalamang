@@ -13,7 +13,7 @@
         {
             "rdf:about": "git@github.com:dictionaria/kalamang",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-13-gbb250b4",
+            "dc:created": "v1.0-16-g9e1d5a0",
             "dc:title": "Repository"
         },
         {

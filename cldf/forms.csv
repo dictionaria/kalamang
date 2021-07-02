@@ -4,7 +4,7 @@ kgv-1268-1,,kgv,1268,a'a,a'a,a a,,,,,a ' a,,SN000005
 kgv-1747-1,,kgv,1747,adat,adat,a d a t,,,,,a d a t,,SN000006
 kgv-3725-1,,kgv,3725,afukat,afukat,a f u k a t,,,,,a f u k a t,,SN000010
 kgv-1699-1,,kgv,1699,ahat,ahat,a h a t,,,,,a h a t,,SN000011
-kgv-1964-1,,kgv,1964,-ahutak,-ahutak,+ a h u t a k,,,,,- a h u t a k,,SN000012
+kgv-1964-1,,kgv,1964,-ahutak,-ahutak,a h u t a k,,,,,- a h u t a k,,SN000012
 kgv-709-1,,kgv,709,ajar,ajar,a ɟ a r,,,,,a j a r,,SN000013
 kgv-3699-1,,kgv,3699,ajar,ajar,a ɟ a r,,,,,a j a r,,SN000014
 kgv-2572-1,,kgv,2572,akal,akal,a k a l,,,,,a k a l,,SN000016
@@ -16,7 +16,7 @@ kgv-796-1,,kgv,796,am belun,am_belun,a m + b e l u n,,,,,a m _ b e l u n,,SN0000
 kgv-586-1,,kgv,586,amdir,amdir,a m d i r,,,,,a m d i r,,SN000030
 kgv-1195-1,,kgv,1195,amkeit,amkeit,a m k e i t,,,,,a m k ei t,,SN000032
 kgv-1209-1,,kgv,1209,an,an,a n,,,,,a n,,SN000033
-kgv-2090-1,,kgv,2090,-an,-an,+ a n,,,,,- a n,,SN000034
+kgv-2090-1,,kgv,2090,-an,-an,a n,,,,,- a n,,SN000034
 kgv-1567-1,,kgv,1567,anggas,anggas,a ŋ g a s,,,,,a ng g a s,,SN000039
 kgv-80-1,,kgv,80,anggas padenun,anggas_padenun,a ŋ g a s + p a d e n u n,,,,,a ng g a s _ p a d e n u n,,SN000040
 kgv-2090-2,,kgv,2090,anggon,anggon,a ŋ g o n,,,,,a ng g o n,,SN000041
@@ -69,7 +69,7 @@ kgv-1336-1,,kgv,1336,bolkoyal,bolkoyal,b o l k o j a l,,,,,b o l k oya l,,SN0001
 kgv-478-1,,kgv,478,bolkul,bolkul,b o l k u l,,,,,b o l k u l,,SN000127
 kgv-2924-1,,kgv,2924,bolon,bolon,b o l o n,,,,,b o l o n,,SN000129
 kgv-692-1,,kgv,692,bon,bon,b o n,,,,,b o n,,SN000130
-kgv-1577-1,,kgv,1577,=bon,=bon,+ b o n,,,,,= b o n,,SN000131
+kgv-1577-1,,kgv,1577,=bon,=bon,b o n,,,,,= b o n,,SN000131
 kgv-2223-1,,kgv,2223,bonaras,bonaras,b o n a r a s,,,,,b o n a r a s,,SN000132
 kgv-1812-1,,kgv,1812,bonasau,bonasau,b o n a s a u,,,,,b o n a s au,,SN000133
 kgv-1501-1,,kgv,1501,bor,bor,b o r,,,,,b o r,,SN000135
@@ -85,14 +85,14 @@ kgv-3161-1,,kgv,3161,buokbuok,buokbuok,b u o k b u o k,,,,,b uo k b uo k,,SN0001
 kgv-1221-1,,kgv,1221,bustang,bustang,b u s t a ŋ,,,,,b u s t a ng,,SN000162
 kgv-1178-1,,kgv,1178,bustang posun,bustang_posun,b u s t a ŋ + p o s u n,,,,,b u s t a ng _ p o s u n,,SN000163
 kgv-34-1,,kgv,34,but,but,b u t,,,,,b u t,,SN000164
-kgv-732-1,,kgv,732,-ca,-ca,+ c a,,,,,- c a,,SN000165
-kgv-1554-1,,kgv,1554,-cam,-cam,+ c a m,,,,,- c a m,,SN000169
+kgv-732-1,,kgv,732,-ca,-ca,c a,,,,,- c a,,SN000165
+kgv-1554-1,,kgv,1554,-cam,-cam,c a m,,,,,- c a m,,SN000169
 kgv-2017-1,,kgv,2017,campur,campur,c a m p u r,,,,,c a m p u r,,SN000170
 kgv-1554-2,,kgv,1554,canam,canam,c a n a m,,,,,c a n a m,,SN000171
 kgv-476-1,,kgv,476,cangkir,cangkir,c a ŋ k i r,,,,,c a ng k i r,,SN000172
 kgv-2001-1,,kgv,2001,cat,cat,c a t,,,,,c a t,,SN000173
 kgv-1246-1,,kgv,1246,caun,caun,c a u n,,,,,c au n,,SN000174
-kgv-732-2,,kgv,732,-ce,-ce,+ c e,,,,,- c e,,SN000175
+kgv-732-2,,kgv,732,-ce,-ce,c e,,,,,- c e,,SN000175
 kgv-1975-1,,kgv,1975,cek,cek,c e k,,,,,c e k,,SN000176
 kgv-1711-1,,kgv,1711,cerita,cerita,c e r i t a,,,,,c e r i t a,,SN000178
 kgv-2060-1,,kgv,2060,cerita,cerita,c e r i t a,,,,,c e r i t a,,SN000179
@@ -116,7 +116,7 @@ kgv-221-1,,kgv,221,din,din,d i n,,,,,d i n,,SN000218
 kgv-67-1,,kgv,67,din songsong,din_songsong,d i n + s o ŋ s o ŋ,,,,,d i n _ s o ng s o ng,,SN000220
 kgv-2102-1,,kgv,2102,dinan,dinan,d i n a n,,,,,d i n a n,,SN000221
 kgv-1895-1,,kgv,1895,dodon,dodon,d o d o n,,,,,d o d o n,,SN000226
-kgv-682-1,,kgv,682,-dok,-dok,+ d o k,,,,,- d o k,,SN000227
+kgv-682-1,,kgv,682,-dok,-dok,d o k,,,,,- d o k,,SN000227
 kgv-738-1,,kgv,738,don,don,d o n,,,,,d o n,,SN000232
 kgv-862-1,,kgv,862,don iriskap,don_iriskap,d o n + i r i s k a p,,,,,d o n _ i r i s k a p,,SN000233
 kgv-862-2,,kgv,862,don penpen,don_penpen,d o n + p e n p e n,,,,,d o n _ p e n p e n,,SN000236
@@ -160,7 +160,7 @@ kgv-1327-2,,kgv,1327,esa temun,esa_temun,e s a + t e m u n,,,,,e s a _ t e m u n
 kgv-1268-2,,kgv,1268,esie,esie,e s i e,,,,,e s ie,,SN000309
 kgv-1901-1,,kgv,1901,eskop,eskop,e s k o p,,,,,e s k o p,,SN000310
 kgv-1383-1,,kgv,1383,esnem,esnem,e s n e m,,,,,e s n e m,,SN000312
-kgv-683-1,,kgv,683,-et,-et,+ e t,,,,,- e t,,SN000316
+kgv-683-1,,kgv,683,-et,-et,e t,,,,,- e t,,SN000316
 kgv-1242-1,,kgv,1242,etaman,etaman,e t a m a n,,,,,e t a m a n,,SN000318
 kgv-1493-2,,kgv,1493,etkon,etkon,e t k o n,,,,,e t k o n,,SN000319
 kgv-1623-1,,kgv,1623,ewa,ewa,e w a,,,,,e w a,,SN000321
@@ -173,7 +173,7 @@ kgv-945-1,,kgv,945,gala,gala,g a l a,,,,,g a l a,,SN000338
 kgv-1684-1,,kgv,1684,galip,galip,g a l i p,,,,,g a l i p,,SN000339
 kgv-2401-1,,kgv,2401,gambar,gambar,g a m b a r,,,,,g a m b a r,,SN000340
 kgv-1495-1,,kgv,1495,gampang,gampang,g a m p a ŋ,,,,,g a m p a ng,,SN000341
-kgv-98-1,,kgv,98,-gan,-gan,+ g a n,,,,,- g a n,,SN000342
+kgv-98-1,,kgv,98,-gan,-gan,g a n,,,,,- g a n,,SN000342
 kgv-2884-1,,kgv,2884,gang,gang,g a ŋ,,,,,g a ng,,SN000343
 kgv-2884-2,,kgv,2884,ganggang,ganggang,g a ŋ g a ŋ,,,,,g a ng g a ng,,SN000344
 kgv-501-1,,kgv,501,ganggie,ganggie,g a ŋ g i e,,,,,g a ng g ie,,SN000345
@@ -268,7 +268,7 @@ kgv-1275-1,,kgv,1275,jawab,jawab,ɟ a w a b,,,,,j a w a b,,SN000519
 kgv-1375-1,,kgv,1375,jendela,jendela,ɟ e n d e l a,,,,,j e n d e l a,,SN000520
 kgv-1869-2,,kgv,1869,jie,jie,ɟ i e,,,,,j ie,,SN000521
 kgv-1213-1,,kgv,1213,ka,ka,k a,,,,,k a,,SN000525
-kgv-693-1,,kgv,693,=ka,=ka,+ k a,,,,,= k a,,SN000526
+kgv-693-1,,kgv,693,=ka,=ka,k a,,,,,= k a,,SN000526
 kgv-230-2,,kgv,230,kabara,kabara,k a b a r a,,,,,k a b a r a,,SN000530
 kgv-1650-1,,kgv,1650,kabarua,kabarua,k a b a r u a,,,,,k a b a r ua,,SN000531
 kgv-197-1,,kgv,197,kabas,kabas,k a b a s,,,,,k a b a s,,SN000536
@@ -336,12 +336,12 @@ kgv-1510-1,,kgv,1510,kanggus,kanggus,k a ŋ g u s,,,,,k a ng g u s,,SN000667
 kgv-124-2,,kgv,124,kangun,kangun,k a ŋ u n,,,,,k a ng u n,,SN000671
 kgv-1835-1,,kgv,1835,kangun nerunggo,kangun_nerunggo,k a ŋ u n + n e r u ŋ g o,,,,,k a ng u n _ n e r u ng g o,,SN000672
 kgv-1917-1,,kgv,1917,kanie,kanie,k a n i e,,,,,k a n ie,,SN000673
-kgv-1311-1,,kgv,1311,-kaning,-kaning,+ k a n i ŋ,,,,,- k a n i ng,,SN000674
+kgv-1311-1,,kgv,1311,-kaning,-kaning,k a n i ŋ,,,,,- k a n i ng,,SN000674
 kgv-1483-1,,kgv,1483,kaninggonie,kaninggonie,k a n i ŋ g o n i e,,,,,k a n i ng g o n ie,,SN000675
 kgv-1500-1,,kgv,1500,kansuor,kansuor,k a n s u o r,,,,,k a ns uo r,,SN000676
 kgv-1669-1,,kgv,1669,kanus,kanus,k a n u s,,,,,k a n u s,,SN000678
 kgv-1728-1,,kgv,1728,kap,kap,k a p,,,,,k a p,,SN000680
-kgv-1117-1,,kgv,1117,=kap,=kap,+ k a p,,,,,= k a p,,SN000681
+kgv-1117-1,,kgv,1117,=kap,=kap,k a p,,,,,= k a p,,SN000681
 kgv-740-1,,kgv,740,kapal,kapal,k a p a l,,,,,k a p a l,,SN000682
 kgv-1850-2,,kgv,1850,kapas,kapas,k a p a s,,,,,k a p a s,,SN000684
 kgv-1836-1,,kgv,1836,kar,kar,k a r,,,,,k a r,,SN000687
@@ -494,7 +494,7 @@ kgv-1409-2,,kgv,1409,kona,kona,k o n a,,,,,k o n a,,SN000973
 kgv-1560-3,,kgv,1560,konasur,konasur,k o n a s u r,,,,,k o n a s u r,,SN000975
 kgv-1523-1,,kgv,1523,konawaruo,konawaruo,k o n a w a r u o,,,,,k o n a w a r uo,,SN000976
 kgv-707-1,,kgv,707,konenen,konenen,k o n e n e n,,,,,k o n e n e n,,SN000979
-kgv-693-2,,kgv,693,=kongga,=kongga,+ k o ŋ g a,,,,,= k o ng g a,,SN000981
+kgv-693-2,,kgv,693,=kongga,=kongga,k o ŋ g a,,,,,= k o ng g a,,SN000981
 kgv-855-2,,kgv,855,konggelem,konggelem,k o ŋ g e l e m,,,,,k o ng g e l e m,,SN000984
 kgv-3703-1,,kgv,3703,kopol,kopol,k o p o l,,,,,k o p o l,,SN000987
 kgv-1297-1,,kgv,1297,kor,kor,k o r,,,,,k o r,,SN000988
@@ -597,7 +597,7 @@ kgv-1905-1,,kgv,1905,lusi,lusi,l u s i,,,,,l u s i,,SN001203
 kgv-1211-1,,kgv,1211,ma,ma,m a,,,,,m a,,SN001206
 kgv-1463-1,,kgv,1463,mabuk,mabuk,m a b u k,,,,,m a b u k,,SN001211
 kgv-214-1,,kgv,214,madong,madong,m a d o ŋ,,,,,m a d o ng,,SN001212
-kgv-98-3,,kgv,98,-mahap,-mahap,+ m a h a p,,,,,- m a h a p,,SN001214
+kgv-98-3,,kgv,98,-mahap,-mahap,m a h a p,,,,,- m a h a p,,SN001214
 kgv-2473-1,,kgv,2473,main,main,m a i n,,,,,m ai n,,SN001217
 kgv-3537-1,,kgv,3537,malaouk,malaouk,m a l a ou k,,,,,m a l aou k,,SN001225
 kgv-1848-1,,kgv,1848,malawan,malawan,m a l a w a n,,,,,m a l a w a n,,SN001226
@@ -694,7 +694,7 @@ kgv-1681-1,,kgv,1681,muler,muler,m u l e r,,,,,m u l e r,,SN001383
 kgv-682-5,,kgv,682,mulun,mulun,m u l u n,,,,,m u l u n,,SN001385
 kgv-1728-2,,kgv,1728,mun,mun,m u n,,,,,m u n,,SN001387
 kgv-1392-1,,kgv,1392,mun,mun,m u n,,,,,m u n,,SN001389
-kgv-813-1,,kgv,813,-mun,-mun,+ m u n,,,,,- m u n,,SN001390
+kgv-813-1,,kgv,813,-mun,-mun,m u n,,,,,- m u n,,SN001390
 kgv-267-1,,kgv,267,mun sunsun,mun_sunsun,m u n + s u n s u n,,,,,m u n _ s u ns u n,,SN001391
 kgv-2787-1,,kgv,2787,na,na,n a,,,,,n a,,SN001408
 kgv-724-1,,kgv,724,nabaca,nabaca,n a b a c a,,,,,n a b a c a,,SN001410
@@ -710,7 +710,7 @@ kgv-2271-2,,kgv,2271,nafikir,nafikir,n a f i k i r,,,,,n a f i k i r,,SN001426
 kgv-1420-1,,kgv,1420,nahitung,nahitung,n a h i t u ŋ,,,,,n a h i t u ng,,SN001432
 kgv-3030-1,,kgv,3030,naiar,naiar,n a j a r,,,,,n aia r,,SN001433
 kgv-1117-3,,kgv,1117,nain,nain,n a i n,,,,,n ai n,,SN001434
-kgv-84-1,,kgv,84,nak=,nak=,n a k +,,,,,n a k =,,SN001437
+kgv-84-1,,kgv,84,nak=,nak=,n a k,,,,,n a k =,,SN001437
 kgv-1256-1,,kgv,1256,nakal,nakal,n a k a l,,,,,n a k a l,,SN001440
 kgv-1127-3,,kgv,1127,nakirim,nakirim,n a k i r i m,,,,,n a k i r i m,,SN001442
 kgv-2067-1,,kgv,2067,nakukus,nakukus,n a k u k u s,,,,,n a k u k u s,,SN001444
@@ -728,7 +728,7 @@ kgv-1875-1,,kgv,1875,namenyasal,namenyasal,n a m e n j a s a l,,,,,n a m e n ya 
 kgv-554-1,,kgv,554,namot,namot,n a m o t,,,,,n a m o t,,SN001462
 kgv-1336-3,,kgv,1336,nanetkon,nanetkon,n a n e t k o n,,,,,n a n e t k o n,,SN001468
 kgv-1261-3,,kgv,1261,nanggan,nanggan,n a ŋ g a n,,,,,n a ng g a n,,SN001469
-kgv-98-4,,kgv,98,-naninggan,-naninggan,+ n a n i ŋ g a n,,,,,- n a n i ng g a n,,SN001470
+kgv-98-4,,kgv,98,-naninggan,-naninggan,n a n i ŋ g a n,,,,,- n a n i ng g a n,,SN001470
 kgv-1493-6,,kgv,1493,naon,naon,n a o n,,,,,n ao n,,SN001471
 kgv-976-1,,kgv,976,napaki,napaki,n a p a k i,,,,,n a p a k i,,SN001472
 kgv-1436-2,,kgv,1436,naparis,naparis,n a p a r i s,,,,,n a p a r i s,,SN001473
@@ -884,7 +884,7 @@ kgv-1257-2,,kgv,1257,pat,pat,p a t,,,,,p a t,,SN001737
 kgv-497-1,,kgv,497,patin ter,patin_ter,p a t i n + t e r,,,,,p a t i n _ t e r,,SN001740
 kgv-1227-2,,kgv,1227,pawan,pawan,p a w a n,,,,,p a w a n,,SN001744
 kgv-2006-1,,kgv,2006,payiem,payiem,p a j i e m,,,,,p a y ie m,,SN001746
-kgv-780-2,,kgv,780,-pe,-pe,+ p e,,,,,- p e,,SN001747
+kgv-780-2,,kgv,780,-pe,-pe,p e,,,,,- p e,,SN001747
 kgv-962-2,,kgv,962,pebis,pebis,p e b i s,,,,,p e b i s,,SN001749
 kgv-1966-1,,kgv,1966,pel,pel,p e l,,,,,p e l,,SN001753
 kgv-184-1,,kgv,184,peler,peler,p e l e r,,,,,p e l e r,,SN001757
@@ -908,7 +908,7 @@ kgv-2634-2,,kgv,2634,pier,pier,p i e r,,,,,p ie r,,SN001783
 kgv-780-3,,kgv,780,pin,pin,p i n,,,,,p i n,,SN001786
 kgv-98-5,,kgv,98,pinaninggan,pinaninggan,p i n a n i ŋ g a n,,,,,p i n a n i ng g a n,,SN001787
 kgv-480-1,,kgv,480,pingan,pingan,p i ŋ a n,,,,,p i ng a n,,SN001788
-kgv-682-6,,kgv,682,-pis,-pis,+ p i s,,,,,- p i s,,SN001792
+kgv-682-6,,kgv,682,-pis,-pis,p i s,,,,,- p i s,,SN001792
 kgv-1559-2,,kgv,1559,pitis,pitis,p i t i s,,,,,p i t i s,,SN001794
 kgv-1264-4,,kgv,1264,pitisnaharen,pitisnaharen,p i t i s n a h a r e n,,,,,p i t i s n a h a r e n,,SN001795
 kgv-2371-1,,kgv,2371,po,po,p o,,,,,p o,,SN001796
@@ -976,7 +976,7 @@ kgv-694-1,,kgv,694,rep,rep,r e p,,,,,r e p,,SN001899
 kgv-2903-1,,kgv,2903,rer,rer,r e r,,,,,r e r,,SN001902
 kgv-2060-2,,kgv,2060,rer,rer,r e r,,,,,r e r,,SN001903
 kgv-1481-1,,kgv,1481,resan,resan,r e s a n,,,,,r e s a n,,SN001905
-kgv-1202-3,,kgv,1202,-rip,-rip,+ r i p,,,,,- r i p,,SN001906
+kgv-1202-3,,kgv,1202,-rip,-rip,r i p,,,,,- r i p,,SN001906
 kgv-1843-1,,kgv,1843,ripi,ripi,r i p i,,,,,r i p i,,SN001907
 kgv-711-1,,kgv,711,ririn,ririn,r i r i n,,,,,r i r i n,,SN001909
 kgv-1694-1,,kgv,1694,roba,roba,r o b a,,,,,r o b a,,SN001910
@@ -1005,7 +1005,7 @@ kgv-976-2,,kgv,976,sabur,sabur,s a b u r,,,,,s a b u r,,SN001962
 kgv-788-1,,kgv,788,sabur,sabur,s a b u r,,,,,s a b u r,,SN001963
 kgv-2680-1,,kgv,2680,sadawak,sadawak,s a d a w a k,,,,,s a d a w a k,,SN001964
 kgv-1624-1,,kgv,1624,saerak,saerak,s a e r a k,,,,,s ae r a k,,SN001965
-kgv-98-6,,kgv,98,=saet,=saet,+ s a e t,,,,,= s ae t,,SN001966
+kgv-98-6,,kgv,98,=saet,=saet,s a e t,,,,,= s ae t,,SN001966
 kgv-1657-2,,kgv,1657,saidak,saidak,s a i d a k,,,,,s ai d a k,,SN001967
 kgv-56-1,,kgv,56,saier,saier,s a i e r,,,,,s ai e r,,SN001968
 kgv-183-1,,kgv,183,sair,sair,s a i r,,,,,s ai r,,SN001972
@@ -1128,17 +1128,17 @@ kgv-1280-4,,kgv,1280,tabarak,tabarak,t a b a r a k,,,,,t a b a r a k,,SN002260
 kgv-2655-1,,kgv,2655,taberak,taberak,t a b e r a k,,,,,t a b e r a k,,SN002262
 kgv-1645-1,,kgv,1645,tabusik,tabusik,t a b u s i k,,,,,t a b u s i k,,SN002268
 kgv-879-1,,kgv,879,tadon,tadon,t a d o n,,,,,t a d o n,,SN002269
-kgv-1992-2,,kgv,1992,=taet,=taet,+ t a e t,,,,,= t ae t,,SN002274
-kgv-204-3,,kgv,204,=taet,=taet,+ t a e t,,,,,= t ae t,,SN002275
+kgv-1992-2,,kgv,1992,=taet,=taet,t a e t,,,,,= t ae t,,SN002274
+kgv-204-3,,kgv,204,=taet,=taet,t a e t,,,,,= t ae t,,SN002275
 kgv-1210-1,,kgv,1210,tagier,tagier,t a g i e r,,,,,t a g ie r,,SN002277
 kgv-1877-1,,kgv,1877,tagur,tagur,t a g u r,,,,,t a g u r,,SN002280
 kgv-1186-1,,kgv,1186,tahan,tahan,t a h a n,,,,,t a h a n,,SN002284
-kgv-682-7,,kgv,682,tai-,tai-,t a i +,,,,,t ai -,,SN002285
+kgv-682-7,,kgv,682,tai-,tai-,t a i,,,,,t ai -,,SN002285
 kgv-682-8,,kgv,682,taikon,taikon,t a i k o n,,,,,t ai k o n,,SN002286
-kgv-1964-2,,kgv,1964,-tain,-tain,+ t a i n,,,,,- t ai n,,SN002287
+kgv-1964-2,,kgv,1964,-tain,-tain,t a i n,,,,,- t ai n,,SN002287
 kgv-682-9,,kgv,682,tair,tair,t a i r,,,,,t ai r,,SN002288
 kgv-628-4,,kgv,628,*tak,*tak,t a k,,,,,* t a k,,SN002289
-kgv-1580-2,,kgv,1580,=tak,=tak,+ t a k,,,,,= t a k,,SN002291
+kgv-1580-2,,kgv,1580,=tak,=tak,t a k,,,,,= t a k,,SN002291
 kgv-2629-1,,kgv,2629,talam,talam,t a l a m,,,,,t a l a m,,SN002294
 kgv-1877-2,,kgv,1877,talawak,talawak,t a l a w a k,,,,,t a l a w a k,,SN002295
 kgv-762-4,,kgv,762,*talep,*talep,t a l e p,,,,,* t a l e p,,SN002296
@@ -1192,13 +1192,13 @@ kgv-1383-3,,kgv,1383,tata,tata,t a t a,,,,,t a t a,,SN002380
 kgv-1496-4,,kgv,1496,tatanina,tatanina,t a t a n i n a,,,,,t a t a n i n a,,SN002382
 kgv-1241-2,,kgv,1241,taukon,taukon,t a u k o n,,,,,t au k o n,,SN002387
 kgv-628-5,,kgv,628,taun,taun,t a u n,,,,,t au n,,SN002388
-kgv-2336-2,,kgv,2336,=tauna,=tauna,+ t a u n a,,,,,= t au n a,,SN002389
+kgv-2336-2,,kgv,2336,=tauna,=tauna,t a u n a,,,,,= t au n a,,SN002389
 kgv-297-1,,kgv,297,taungtaung,taungtaung,t a u ŋ t a u ŋ,,,,,t au ng t au ng,,SN002390
 kgv-2984-2,,kgv,2984,*taur,*taur,t a u r,,,,,* t au r,,SN002393
 kgv-1493-11,,kgv,1493,taurkon,taurkon,t a u r k o n,,,,,t au r k o n,,SN002395
 kgv-155-1,,kgv,155,tawara,tawara,t a w a r a,,,,,t a w a r a,,SN002396
 kgv-1808-1,,kgv,1808,te,te,t e,,,,,t e,,SN002401
-kgv-84-2,,kgv,84,=teba,=teba,+ t e b a,,,,,= t e b a,,SN002405
+kgv-84-2,,kgv,84,=teba,=teba,t e b a,,,,,= t e b a,,SN002405
 kgv-98-7,,kgv,98,*tebon,*tebon,t e b o n,,,,,* t e b o n,,SN002408
 kgv-98-8,,kgv,98,tebonggan,tebonggan,t e b o ŋ g a n,,,,,t e b o ng g a n,,SN002409
 kgv-2830-1,,kgv,2830,teir,teir,t e i r,,,,,t ei r,,SN002410
@@ -1212,7 +1212,7 @@ kgv-1202-4,,kgv,1202,*tem,*tem,t e m,,,,,* t e m,,SN002424
 kgv-1325-2,,kgv,1325,teman,teman,t e m a n,,,,,t e m a n,,SN002426
 kgv-1614-2,,kgv,1614,temgerun,temgerun,t e m g e r u n,,,,,t e m g e r u n,,SN002427
 kgv-1202-5,,kgv,1202,temun,temun,t e m u n,,,,,t e m u n,,SN002429
-kgv-2336-3,,kgv,2336,=tenden,=tenden,+ t e n d e n,,,,,= t e n d e n,,SN002435
+kgv-2336-3,,kgv,2336,=tenden,=tenden,t e n d e n,,,,,= t e n d e n,,SN002435
 kgv-1229-1,,kgv,1229,tenenun,tenenun,t e n e n u n,,,,,t e n e n u n,,SN002436
 kgv-1201-1,,kgv,1201,teng,teng,t e ŋ,,,,,t e ng,,SN002438
 kgv-1576-1,,kgv,1576,tengguen,tengguen,t e ŋ g u e n,,,,,t e ng g ue n,,SN002443
@@ -1264,7 +1264,7 @@ kgv-1246-6,,kgv,1246,tumun,tumun,t u m u n,,,,,t u m u n,,SN002528
 kgv-1620-1,,kgv,1620,tumun canam,tumun_canam,t u m u n + c a n a m,,,,,t u m u n _ c a n a m,,SN002529
 kgv-1149-1,,kgv,1149,tumun miskinden,tumun_miskinden,t u m u n + m i s k i n d e n,,,,,t u m u n _ m i s k i n d e n,,SN002531
 kgv-1357-1,,kgv,1357,tumun pas,tumun_pas,t u m u n + p a s,,,,,t u m u n _ p a s,,SN002532
-kgv-1311-2,,kgv,1311,=tun,=tun,+ t u n,,,,,= t u n,,SN002534
+kgv-1311-2,,kgv,1311,=tun,=tun,t u n,,,,,= t u n,,SN002534
 kgv-1280-5,,kgv,1280,tur,tur,t u r,,,,,t u r,,SN002539
 kgv-614-2,,kgv,614,turing,turing,t u r i ŋ,,,,,t u r i ng,,SN002540
 kgv-1272-3,,kgv,1272,u,u,u,,,,,u,,SN002542
@@ -1276,8 +1276,8 @@ kgv-108-1,,kgv,108,uli,uli,u l i,,,,,u l i,,SN002551
 kgv-1746-1,,kgv,1746,ulpom,ulpom,u l p o m,,,,,u l p o m,,SN002552
 kgv-592-1,,kgv,592,ulur,ulur,u l u r,,,,,u l u r,,SN002554
 kgv-789-1,,kgv,789,umat,umat,u m a t,,,,,u m a t,,SN002555
-kgv-1993-1,,kgv,1993,un=,un=,u n +,,,,,u n =,,SN002556
-kgv-2400-3,,kgv,2400,-un,-un,+ u n,,,,,- u n,,SN002557
+kgv-1993-1,,kgv,1993,un=,un=,u n,,,,,u n =,,SN002556
+kgv-2400-3,,kgv,2400,-un,-un,u n,,,,,- u n,,SN002557
 kgv-1119-1,,kgv,1119,unkoryap,unkoryap,u n k o r j a p,,,,,u n k o r ya p,,SN002565
 kgv-1195-2,,kgv,1195,unmasir,unmasir,u n m a s i r,,,,,u n m a s i r,,SN002566
 kgv-258-1,,kgv,258,up,up,u p,,,,,u p,,SN002569
