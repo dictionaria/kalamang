@@ -56,6 +56,8 @@ eu	e u	2	U+0065 U+0075
 nn	n n	2	U+006e U+006e
 aia	a j a	1	U+0061 U+0069 U+0061
 *	NULL		
+^=	NULL		
+=$	NULL		
 =	+		
 '	NULL		
 ^	NULL		
