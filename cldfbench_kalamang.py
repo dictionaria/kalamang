@@ -438,7 +438,7 @@ class Dataset(pylexibank.Dataset):
                         Value=entries_by_id[sense['Entry_ID']]['Headword'],
                         Language_ID=language_id,
                         Graphemes=tokenizer(form),
-                        Segments=tokenizer(form, column='IPA').split())
+                        Segments=tokenizer('^{}$'.format(form), column='IPA').split())
 
             writer.add_language(
                 ID=language_id,
