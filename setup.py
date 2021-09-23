@@ -13,6 +13,7 @@ setup(
     },
     install_requires=[
         'cldfbench',
+        'pyglottolog',
         'pydictionaria>=2.0',
     ],
     extras_require={
