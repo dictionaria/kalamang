@@ -27,12 +27,12 @@ Austronesian language Uruangnirin is spoken on the two smaller Karas islands. In
 older literature, Kalamang is known as Karas.
 
 <p>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0721-51EF-9460-0/Masvillage.JPG">
-<img alt="Mas village" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0721-51EF-9460-0/Masvillage.JPG" style="height:300px" title="Mas village"/>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0721-51EF-9460-0/Masvillage.JPG">
+<img alt="Mas village" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0721-51EF-9460-0/Masvillage.JPG" style="height:300px" title="Mas village"/>
 </a>
     
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0DDC-F9A3-D878-0/karasmapdictionaria.png">
-<img alt="The Karas Islands" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0DDC-F9A3-D878-0/karasmapdictionaria.png" style="height:300px" title="The Karas Islands"/>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0DDC-F9A3-D878-0/karasmapdictionaria.png">
+<img alt="The Karas Islands" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0DDC-F9A3-D878-0/karasmapdictionaria.png" style="height:300px" title="The Karas Islands"/>
 </a>
 </p>
 
@@ -81,42 +81,42 @@ Malik Yarkuran, Nurmia Yarkuran, Rahma Yarkuran, Sabtu Yarkuran, Salim Yarkuran,
 Samsia Yarkuran, Sebi Yarkuran, Amran Yorkuran, Hair Yorkuran, Jubair Yorkuran,
 Maimuna Yorkuran, Hawa Yorre, Jaleha Yorre and Naimun Yorre.
 
-<p><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B18A-8B02-DC52-0/AbdulMalik.jpg"><img alt="Abdul-Malik" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B18A-8B02-DC52-0/web.jpg" style="width:150px;height:200px;" title="Abdul Malik Baraweri"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-F899-CF1B-1F9C-0/Abu.jpg"><img alt="Abu" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-F899-CF1B-1F9C-0/web.jpg" style="width:150px;height:200px;" title="Abu Wambur"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-41EE-02C5-F896-0/Amir.jpg"><img alt="Amir" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-41EE-02C5-F896-0/web.jpg" style="width:150px;height:200px;" title="Amir Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-E304-91A6-593F-0/Amran.jpg"><img alt="Amran" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-E304-91A6-593F-0/web.jpg" style="width:150px;height:200px;" title="Amran Yorkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-ECBA-61AF-0E3B-0/Bini.jpg"><img alt="Bini" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-ECBA-61AF-0E3B-0/web.jpg" style="width:150px;height:200px;" title="Bini Rumatiga"/></a></p>
-<p><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-D6CE-44B2-03E0-0/Fajaria1.jpg"><img alt="Fajaria" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-D6CE-44B2-03E0-0/web.jpg" style="width:150px;height:200px;" title="Fajaria Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-9C31-317F-08D9-0/Hair.jpg"><img alt="Hair" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-9C31-317F-08D9-0/web.jpg" style="width:150px;height:200px;" title="Hair Yorkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-2C56-7296-5E16-0/Hapsa.jpg"><img alt="Hapsa" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-2C56-7296-5E16-0/web.jpg" style="width:150px;height:200px;" title="Hapsa Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-D014-A639-B347-0/Hawa2.jpg"><img alt="Hawa" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-D014-A639-B347-0/web.jpg" style="width:150px;height:200px;" title="Hawa Yorre"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-F141-8D21-2227-0/Jalehareal.jpg"><img alt="Jaleha" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-F141-8D21-2227-0/web.jpg" style="width:150px;height:200px;" title="Jaleha Yorre"/></a></p>
+<p><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B18A-8B02-DC52-0/AbdulMalik.jpg"><img alt="Abdul-Malik" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B18A-8B02-DC52-0/web.jpg" style="width:150px;height:200px;" title="Abdul Malik Baraweri"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-F899-CF1B-1F9C-0/Abu.jpg"><img alt="Abu" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-F899-CF1B-1F9C-0/web.jpg" style="width:150px;height:200px;" title="Abu Wambur"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-41EE-02C5-F896-0/Amir.jpg"><img alt="Amir" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-41EE-02C5-F896-0/web.jpg" style="width:150px;height:200px;" title="Amir Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-E304-91A6-593F-0/Amran.jpg"><img alt="Amran" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-E304-91A6-593F-0/web.jpg" style="width:150px;height:200px;" title="Amran Yorkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-ECBA-61AF-0E3B-0/Bini.jpg"><img alt="Bini" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-ECBA-61AF-0E3B-0/web.jpg" style="width:150px;height:200px;" title="Bini Rumatiga"/></a></p>
+<p><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-D6CE-44B2-03E0-0/Fajaria1.jpg"><img alt="Fajaria" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-D6CE-44B2-03E0-0/web.jpg" style="width:150px;height:200px;" title="Fajaria Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-9C31-317F-08D9-0/Hair.jpg"><img alt="Hair" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-9C31-317F-08D9-0/web.jpg" style="width:150px;height:200px;" title="Hair Yorkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-2C56-7296-5E16-0/Hapsa.jpg"><img alt="Hapsa" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-2C56-7296-5E16-0/web.jpg" style="width:150px;height:200px;" title="Hapsa Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-D014-A639-B347-0/Hawa2.jpg"><img alt="Hawa" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-D014-A639-B347-0/web.jpg" style="width:150px;height:200px;" title="Hawa Yorre"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-F141-8D21-2227-0/Jalehareal.jpg"><img alt="Jaleha" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-F141-8D21-2227-0/web.jpg" style="width:150px;height:200px;" title="Jaleha Yorre"/></a></p>
 <p>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-C6C4-EEA2-62C8-0/Jubair.jpg"><img alt="Jubair" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-C6C4-EEA2-62C8-0/web.jpg" style="width:150px;height:200px;" title="Jubair Yorkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4444-67D4-2410-0/Jusman.jpg"><img border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4444-67D4-2410-0/web.jpg" style="width:150px;height:200px;" title="Jusman Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-202B-F615-BFF4-0/Kabasia2.jpg"><img alt="Kabasia" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-202B-F615-BFF4-0/web.jpg" style="width:150px;height:200px;" title="Kabasia Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-16DA-335F-439C-0/Kamalia2.jpg"><img alt="Kamalia" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-16DA-335F-439C-0/web.jpg" style="width:150px;height:200px;" title="Kamalia Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B7C7-CEB4-2F6F-0/Kamaruddin.jpg"><img alt="Kamaruddin Gusek" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B7C7-CEB4-2F6F-0/web.jpg" style="width:150px;height:200px;" title="Kamarudin Gusek"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-C6C4-EEA2-62C8-0/Jubair.jpg"><img alt="Jubair" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-C6C4-EEA2-62C8-0/web.jpg" style="width:150px;height:200px;" title="Jubair Yorkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4444-67D4-2410-0/Jusman.jpg"><img border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4444-67D4-2410-0/web.jpg" style="width:150px;height:200px;" title="Jusman Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-202B-F615-BFF4-0/Kabasia2.jpg"><img alt="Kabasia" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-202B-F615-BFF4-0/web.jpg" style="width:150px;height:200px;" title="Kabasia Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-16DA-335F-439C-0/Kamalia2.jpg"><img alt="Kamalia" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-16DA-335F-439C-0/web.jpg" style="width:150px;height:200px;" title="Kamalia Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B7C7-CEB4-2F6F-0/Kamaruddin.jpg"><img alt="Kamaruddin Gusek" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B7C7-CEB4-2F6F-0/web.jpg" style="width:150px;height:200px;" title="Kamarudin Gusek"/></a>
 </p><p>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-C488-25AF-4724-0/Maimuna.jpg"><img alt="Maimuna" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-C488-25AF-4724-0/web.jpg" style="width:150px;height:200px;" title="Maimuna Yorkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-8ED7-56D4-0CEF-0/Malik.jpg"><img alt="Malik" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-8ED7-56D4-0CEF-0/web.jpg" style="width:150px;height:200px;" title="Malik Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-2DFA-D640-4130-0/Mayor.jpg"><img alt="Mayor" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-2DFA-D640-4130-0/web.jpg" style="width:150px;height:200px;" title="Arfan Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-24CF-637C-DE25-0/Naim.jpg"><img alt="Naim" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-24CF-637C-DE25-0/web.jpg" style="width:150px;height:200px;" title="Naimun Yorre"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-6523-5EA7-9CEB-0/Nurmia.jpg"><img alt="Nurmia" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-6523-5EA7-9CEB-0/web.jpg" style="width:150px;height:200px;" title="Nurmia Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-C488-25AF-4724-0/Maimuna.jpg"><img alt="Maimuna" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-C488-25AF-4724-0/web.jpg" style="width:150px;height:200px;" title="Maimuna Yorkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-8ED7-56D4-0CEF-0/Malik.jpg"><img alt="Malik" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-8ED7-56D4-0CEF-0/web.jpg" style="width:150px;height:200px;" title="Malik Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-2DFA-D640-4130-0/Mayor.jpg"><img alt="Mayor" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-2DFA-D640-4130-0/web.jpg" style="width:150px;height:200px;" title="Arfan Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-24CF-637C-DE25-0/Naim.jpg"><img alt="Naim" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-24CF-637C-DE25-0/web.jpg" style="width:150px;height:200px;" title="Naimun Yorre"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-6523-5EA7-9CEB-0/Nurmia.jpg"><img alt="Nurmia" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-6523-5EA7-9CEB-0/web.jpg" style="width:150px;height:200px;" title="Nurmia Yarkuran"/></a>
 </p><p>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-1A4D-64A3-EE5F-0/Rahmareal.jpg"><img alt="Rahma" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-1A4D-64A3-EE5F-0/web.jpg" style="width:150px;height:200px;" title="Rahma Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-AC0D-B124-3CF6-0/Sabtu.jpg"><img border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-AC0D-B124-3CF6-0/web.jpg" style="width:150px;height:200px;" title="Sabtu Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-DCBF-EF21-26E4-0/Salim.jpg"><img alt="Salim" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-DCBF-EF21-26E4-0/web.jpg" style="width:150px;height:200px;" title="Salim Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-23A8-9059-4282-0/Samsia2.jpg"><img alt="Samsia" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-23A8-9059-4282-0/web.jpg" style="width:150px;height:200px;" title="Samsia Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-3164-EF2B-94ED-0/Sebi.jpg"><img alt="Sebi" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-3164-EF2B-94ED-0/web.jpg" style="width:150px;height:200px;" title="Sebi Yarkuran"/></a></p>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-1A4D-64A3-EE5F-0/Rahmareal.jpg"><img alt="Rahma" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-1A4D-64A3-EE5F-0/web.jpg" style="width:150px;height:200px;" title="Rahma Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-AC0D-B124-3CF6-0/Sabtu.jpg"><img border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-AC0D-B124-3CF6-0/web.jpg" style="width:150px;height:200px;" title="Sabtu Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-DCBF-EF21-26E4-0/Salim.jpg"><img alt="Salim" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-DCBF-EF21-26E4-0/web.jpg" style="width:150px;height:200px;" title="Salim Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-23A8-9059-4282-0/Samsia2.jpg"><img alt="Samsia" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-23A8-9059-4282-0/web.jpg" style="width:150px;height:200px;" title="Samsia Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-3164-EF2B-94ED-0/Sebi.jpg"><img alt="Sebi" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-3164-EF2B-94ED-0/web.jpg" style="width:150px;height:200px;" title="Sebi Yarkuran"/></a></p>
 
 Three people have put a special effort into the end product: Kamarudin Gusek,
 Hair Yorkuran and Fajaria Yarkuran by giving many definitions and checking the
 dictionary multiple times for correctness. The latter also provided example
 sentences for more than 1800 lemmas and assisted in collecting picture material.
 
-<p><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-1E1F-FA17-8977-0/consultantf.JPG"><img alt="Fajaria Yarkuran" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-1E1F-FA17-8977-0/web.jpg" title="Fajaria Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0D6B-8F45-57B8-0/consultanthk.JPG"><img alt="Kamarudin Gusek and Hair Yorkuran" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0D6B-8F45-57B8-0/web.jpg" title="Kamarudin Gusek and Hair Yorkuran"/></a></p>
+<p><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-1E1F-FA17-8977-0/consultantf.JPG"><img alt="Fajaria Yarkuran" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-1E1F-FA17-8977-0/web.jpg" title="Fajaria Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0D6B-8F45-57B8-0/consultanthk.JPG"><img alt="Kamarudin Gusek and Hair Yorkuran" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0D6B-8F45-57B8-0/web.jpg" title="Kamarudin Gusek and Hair Yorkuran"/></a></p>
 
 Most words in this lexical database occur in the 107 texts of the natural spoken
 Kalamang corpus, a 70000 word corpus gathered by myself during four field trips
@@ -160,11 +160,11 @@ species used by the Kalamang as food, medicine, construction material or
 otherwise. The database contains more than 600 pictures, which were all taken in
 Karas district.
 
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-7420-F22B-5D25-0/burhan.jpg"><img alt="burhan" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-7420-F22B-5D25-0/web.jpg" style="width:150px;height:200px;" title="Burhan Retob"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-78E2-3597-88A1-0/darin.jpg"><img alt="darin" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-78E2-3597-88A1-0/web.jpg" style="width:150px;height:200px;" title="Dahrin Yorre"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-3300-19B7-59A3-0/kadir.jpg"><img alt="kadir" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-3300-19B7-59A3-0/web.jpg" style="width:150px;height:200px;" title="Abdulkadir Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0359-304F-3CC6-0/mira.jpg"><img alt="mira" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0359-304F-3CC6-0/web.jpg" style="width:150px;height:200px;" title="Mira Yorre"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-8753-BA98-C0A9-0/tami.jpg"><img alt="tami" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-8753-BA98-C0A9-0/web.jpg" style="width:150px;height:200px;" title="Tami Dewi Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-7420-F22B-5D25-0/burhan.jpg"><img alt="burhan" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-7420-F22B-5D25-0/web.jpg" style="width:150px;height:200px;" title="Burhan Retob"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-78E2-3597-88A1-0/darin.jpg"><img alt="darin" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-78E2-3597-88A1-0/web.jpg" style="width:150px;height:200px;" title="Dahrin Yorre"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-3300-19B7-59A3-0/kadir.jpg"><img alt="kadir" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-3300-19B7-59A3-0/web.jpg" style="width:150px;height:200px;" title="Abdulkadir Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0359-304F-3CC6-0/mira.jpg"><img alt="mira" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0359-304F-3CC6-0/web.jpg" style="width:150px;height:200px;" title="Mira Yorre"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-8753-BA98-C0A9-0/tami.jpg"><img alt="tami" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-8753-BA98-C0A9-0/web.jpg" style="width:150px;height:200px;" title="Tami Dewi Yarkuran"/></a>
 
 A minority of the lemmas was elicited with help of four comparative word lists
 adapted to the region, which show a great deal of overlap. I used the following
@@ -294,8 +294,8 @@ English and Papuan Malay translations and an etymology, typically '<malay ####="
 <td>verb</td>
 <td><em>muap</em> ‘to eat’</td>
 <td></td></tr>
+</tbody></malay>
 
-</tbody>
 
 
 
@@ -475,12 +475,12 @@ Studies, Australian National University.
 Kalamang (kgv, [kara1499](https://glottolog.org/resource/languoid/id/kara1499)) adalah bahasa Papua di Bomberai Barat. Bahasa ini digunakan di Indonesia bagian Barat, di propinsi Papua Barat, di sebuah pulau lepas pantai semenanjung Bomberai. Pulau ini salah satu dari tiga pulau yang dikenal sebagai kepulauan Karas. Bahasa Kalamang digunakan di pulau terbesar di kepulauan tersebut, di kedua desa yang terdapat di pulau tersebu: Antalisa (*Tamisen* dalam bahasa Kalamang) dan Mas (*Sewa*). Dalam kasusateraan kuno, Kalamang dikenal sebagai Karas.
 
 <p>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0721-51EF-9460-0/Masvillage.JPG">
-<img alt="Kampung Mas" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0721-51EF-9460-0/Masvillage.JPG" style="height:300px" title="Kampung Mas"/>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0721-51EF-9460-0/Masvillage.JPG">
+<img alt="Kampung Mas" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0721-51EF-9460-0/Masvillage.JPG" style="height:300px" title="Kampung Mas"/>
 </a>
     
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0DDC-F9A3-D878-0/karasmapdictionaria.png">
-<img alt="Kepulauan Karas" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0DDC-F9A3-D878-0/karasmapdictionaria.png" style="height:300px" title="Kepulauan Karas"/>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0DDC-F9A3-D878-0/karasmapdictionaria.png">
+<img alt="Kepulauan Karas" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0DDC-F9A3-D878-0/karasmapdictionaria.png" style="height:300px" title="Kepulauan Karas"/>
 </a>
 </p>
 
@@ -512,40 +512,40 @@ Malik Yarkuran, Nurmia Yarkuran, Rahma Yarkuran, Sabtu Yarkuran, Salim Yarkuran,
 Samsia Yarkuran, Sebi Yarkuran, Amran Yorkuran, Hair Yorkuran, Jubair Yorkuran,
 Maimuna Yorkuran, Hawa Yorre, Jaleha Yorre and Naimun Yorre.
 
-<p><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B18A-8B02-DC52-0/AbdulMalik.jpg"><img alt="Abdul-Malik" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B18A-8B02-DC52-0/web.jpg" style="width:150px;height:200px;" title="Abdul Malik Baraweri"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-F899-CF1B-1F9C-0/Abu.jpg"><img alt="Abu" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-F899-CF1B-1F9C-0/web.jpg" style="width:150px;height:200px;" title="Abu Wambur"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-41EE-02C5-F896-0/Amir.jpg"><img alt="Amir" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-41EE-02C5-F896-0/web.jpg" style="width:150px;height:200px;" title="Amir Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-E304-91A6-593F-0/Amran.jpg"><img alt="Amran" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-E304-91A6-593F-0/web.jpg" style="width:150px;height:200px;" title="Amran Yorkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-ECBA-61AF-0E3B-0/Bini.jpg"><img alt="Bini" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-ECBA-61AF-0E3B-0/web.jpg" style="width:150px;height:200px;" title="Bini Rumatiga"/></a></p>
-<p><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-D6CE-44B2-03E0-0/Fajaria1.jpg"><img alt="Fajaria" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-D6CE-44B2-03E0-0/web.jpg" style="width:150px;height:200px;" title="Fajaria Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-9C31-317F-08D9-0/Hair.jpg"><img alt="Hair" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-9C31-317F-08D9-0/web.jpg" style="width:150px;height:200px;" title="Hair Yorkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-2C56-7296-5E16-0/Hapsa.jpg"><img alt="Hapsa" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-2C56-7296-5E16-0/web.jpg" style="width:150px;height:200px;" title="Hapsa Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-D014-A639-B347-0/Hawa2.jpg"><img alt="Hawa" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-D014-A639-B347-0/web.jpg" style="width:150px;height:200px;" title="Hawa Yorre"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-F141-8D21-2227-0/Jalehareal.jpg"><img alt="Jaleha" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-F141-8D21-2227-0/web.jpg" style="width:150px;height:200px;" title="Jaleha Yorre"/></a></p>
+<p><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B18A-8B02-DC52-0/AbdulMalik.jpg"><img alt="Abdul-Malik" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B18A-8B02-DC52-0/web.jpg" style="width:150px;height:200px;" title="Abdul Malik Baraweri"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-F899-CF1B-1F9C-0/Abu.jpg"><img alt="Abu" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-F899-CF1B-1F9C-0/web.jpg" style="width:150px;height:200px;" title="Abu Wambur"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-41EE-02C5-F896-0/Amir.jpg"><img alt="Amir" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-41EE-02C5-F896-0/web.jpg" style="width:150px;height:200px;" title="Amir Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-E304-91A6-593F-0/Amran.jpg"><img alt="Amran" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-E304-91A6-593F-0/web.jpg" style="width:150px;height:200px;" title="Amran Yorkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-ECBA-61AF-0E3B-0/Bini.jpg"><img alt="Bini" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-ECBA-61AF-0E3B-0/web.jpg" style="width:150px;height:200px;" title="Bini Rumatiga"/></a></p>
+<p><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-D6CE-44B2-03E0-0/Fajaria1.jpg"><img alt="Fajaria" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-D6CE-44B2-03E0-0/web.jpg" style="width:150px;height:200px;" title="Fajaria Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-9C31-317F-08D9-0/Hair.jpg"><img alt="Hair" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-9C31-317F-08D9-0/web.jpg" style="width:150px;height:200px;" title="Hair Yorkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-2C56-7296-5E16-0/Hapsa.jpg"><img alt="Hapsa" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-2C56-7296-5E16-0/web.jpg" style="width:150px;height:200px;" title="Hapsa Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-D014-A639-B347-0/Hawa2.jpg"><img alt="Hawa" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-D014-A639-B347-0/web.jpg" style="width:150px;height:200px;" title="Hawa Yorre"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-F141-8D21-2227-0/Jalehareal.jpg"><img alt="Jaleha" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-F141-8D21-2227-0/web.jpg" style="width:150px;height:200px;" title="Jaleha Yorre"/></a></p>
 <p>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-C6C4-EEA2-62C8-0/Jubair.jpg"><img alt="Jubair" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-C6C4-EEA2-62C8-0/web.jpg" style="width:150px;height:200px;" title="Jubair Yorkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4444-67D4-2410-0/Jusman.jpg"><img border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4444-67D4-2410-0/web.jpg" style="width:150px;height:200px;" title="Jusman Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-202B-F615-BFF4-0/Kabasia2.jpg"><img alt="Kabasia" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-202B-F615-BFF4-0/web.jpg" style="width:150px;height:200px;" title="Kabasia Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-16DA-335F-439C-0/Kamalia2.jpg"><img alt="Kamalia" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-16DA-335F-439C-0/web.jpg" style="width:150px;height:200px;" title="Kamalia Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B7C7-CEB4-2F6F-0/Kamaruddin.jpg"><img alt="Kamaruddin Gusek" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B7C7-CEB4-2F6F-0/web.jpg" style="width:150px;height:200px;" title="Kamarudin Gusek"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-C6C4-EEA2-62C8-0/Jubair.jpg"><img alt="Jubair" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-C6C4-EEA2-62C8-0/web.jpg" style="width:150px;height:200px;" title="Jubair Yorkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4444-67D4-2410-0/Jusman.jpg"><img border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4444-67D4-2410-0/web.jpg" style="width:150px;height:200px;" title="Jusman Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-202B-F615-BFF4-0/Kabasia2.jpg"><img alt="Kabasia" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-202B-F615-BFF4-0/web.jpg" style="width:150px;height:200px;" title="Kabasia Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-16DA-335F-439C-0/Kamalia2.jpg"><img alt="Kamalia" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-16DA-335F-439C-0/web.jpg" style="width:150px;height:200px;" title="Kamalia Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B7C7-CEB4-2F6F-0/Kamaruddin.jpg"><img alt="Kamaruddin Gusek" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B7C7-CEB4-2F6F-0/web.jpg" style="width:150px;height:200px;" title="Kamarudin Gusek"/></a>
 </p><p>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-C488-25AF-4724-0/Maimuna.jpg"><img alt="Maimuna" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-C488-25AF-4724-0/web.jpg" style="width:150px;height:200px;" title="Maimuna Yorkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-8ED7-56D4-0CEF-0/Malik.jpg"><img alt="Malik" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-8ED7-56D4-0CEF-0/web.jpg" style="width:150px;height:200px;" title="Malik Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-2DFA-D640-4130-0/Mayor.jpg"><img alt="Mayor" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-2DFA-D640-4130-0/web.jpg" style="width:150px;height:200px;" title="Arfan Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-24CF-637C-DE25-0/Naim.jpg"><img alt="Naim" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-24CF-637C-DE25-0/web.jpg" style="width:150px;height:200px;" title="Naimun Yorre"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-6523-5EA7-9CEB-0/Nurmia.jpg"><img alt="Nurmia" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-6523-5EA7-9CEB-0/web.jpg" style="width:150px;height:200px;" title="Nurmia Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-C488-25AF-4724-0/Maimuna.jpg"><img alt="Maimuna" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-C488-25AF-4724-0/web.jpg" style="width:150px;height:200px;" title="Maimuna Yorkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-8ED7-56D4-0CEF-0/Malik.jpg"><img alt="Malik" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-8ED7-56D4-0CEF-0/web.jpg" style="width:150px;height:200px;" title="Malik Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-2DFA-D640-4130-0/Mayor.jpg"><img alt="Mayor" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-2DFA-D640-4130-0/web.jpg" style="width:150px;height:200px;" title="Arfan Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-24CF-637C-DE25-0/Naim.jpg"><img alt="Naim" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-24CF-637C-DE25-0/web.jpg" style="width:150px;height:200px;" title="Naimun Yorre"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-6523-5EA7-9CEB-0/Nurmia.jpg"><img alt="Nurmia" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-6523-5EA7-9CEB-0/web.jpg" style="width:150px;height:200px;" title="Nurmia Yarkuran"/></a>
 </p><p>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-1A4D-64A3-EE5F-0/Rahmareal.jpg"><img alt="Rahma" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-1A4D-64A3-EE5F-0/web.jpg" style="width:150px;height:200px;" title="Rahma Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-AC0D-B124-3CF6-0/Sabtu.jpg"><img border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-AC0D-B124-3CF6-0/web.jpg" style="width:150px;height:200px;" title="Sabtu Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-DCBF-EF21-26E4-0/Salim.jpg"><img alt="Salim" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-DCBF-EF21-26E4-0/web.jpg" style="width:150px;height:200px;" title="Salim Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-23A8-9059-4282-0/Samsia2.jpg"><img alt="Samsia" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-23A8-9059-4282-0/web.jpg" style="width:150px;height:200px;" title="Samsia Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-3164-EF2B-94ED-0/Sebi.jpg"><img alt="Sebi" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-3164-EF2B-94ED-0/web.jpg" style="width:150px;height:200px;" title="Sebi Yarkuran"/></a></p>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-1A4D-64A3-EE5F-0/Rahmareal.jpg"><img alt="Rahma" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-1A4D-64A3-EE5F-0/web.jpg" style="width:150px;height:200px;" title="Rahma Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-AC0D-B124-3CF6-0/Sabtu.jpg"><img border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-AC0D-B124-3CF6-0/web.jpg" style="width:150px;height:200px;" title="Sabtu Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-DCBF-EF21-26E4-0/Salim.jpg"><img alt="Salim" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-DCBF-EF21-26E4-0/web.jpg" style="width:150px;height:200px;" title="Salim Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-23A8-9059-4282-0/Samsia2.jpg"><img alt="Samsia" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-23A8-9059-4282-0/web.jpg" style="width:150px;height:200px;" title="Samsia Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-3164-EF2B-94ED-0/Sebi.jpg"><img alt="Sebi" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-3164-EF2B-94ED-0/web.jpg" style="width:150px;height:200px;" title="Sebi Yarkuran"/></a></p>
 
 Tiga orang telah memberikan upaya tersendiri untuk produk: Kamarudin Gusek,
 Hair Yorkuran and Fajaria Yarkuran dengan memberi berbagai definisi dan berulang kali memeriksa kembali ketepatan. Selain itu juga memberikan contoh kalimat untuk lebih dari 1800 lemma dan membantu dalam mengumpulkan gambar. 
 
-<p><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-1E1F-FA17-8977-0/consultantf.JPG"><img alt="Fajaria Yarkuran" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-1E1F-FA17-8977-0/web.jpg" title="Fajaria Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0D6B-8F45-57B8-0/consultanthk.JPG"><img alt="Kamarudin Gusek dan Hair Yorkuran" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0D6B-8F45-57B8-0/web.jpg" title="Kamarudin Gusek dan Hair Yorkuran"/></a></p>
+<p><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-1E1F-FA17-8977-0/consultantf.JPG"><img alt="Fajaria Yarkuran" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-1E1F-FA17-8977-0/web.jpg" title="Fajaria Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0D6B-8F45-57B8-0/consultanthk.JPG"><img alt="Kamarudin Gusek dan Hair Yorkuran" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0D6B-8F45-57B8-0/web.jpg" title="Kamarudin Gusek dan Hair Yorkuran"/></a></p>
 
 Sebagian besar kata dalam database leksikal ini terdapat dalam 107 naskah dari korpus kalamang lisan yang alami, yang merupakan korpus yang terdiri dari 7000 kata yang telah dikumpulkan oleh saya sendiri selama empat kali kunjungan lapangan ke desa Mas pada tahun 2015, 2017, 2018, dan 2019. Naskah-naskah tersebut terdiri dari genre berikut:
 Tugas pencocokan gambar (contoh: manusia dan pohon, Levinson et al. 1993). Narasi dengan stimulus gambar atau video (contoh: cerita kodok, Mayer 1969), prosedur deskriptif dan preskriptif (contoh: bagaimana menyiapkan tumbuhan obat-obatan tertentu, deskripsi rute), narasi tradisional, sejarah pribadi, percakapan lepas, dan komunikasi yang terjadi pada saat menavigasi perahu atau memancing.
@@ -564,11 +564,11 @@ Pemuda desa terlibat dalam pengumpulan materi berupa gambar pada tahun 2019, ter
 Burhan Retob, Abdulkadir Yarkuran, Tami Dewi Yarkuran, Dahrin Yorre, Mira Yorre, dan saya sendiri. Fajaria Yarkuran berperan dalam mengajak pemuda dan mengidentifikasi spesies. Ia juga menyimpan daftar kata dari gambar obyek yang saya tandai menarik, dan terkadang memberikan kata dan gambar baru, terutama fauna dan flora.
 Tidak ada spesies yang diambil hanya untuk difoto – semua spesies yang diambil adalah yang digunakan oleh orang-orang Kalamang untuk makanan, obat-obatan, bahan bangunan, dan sebagainya. Terdapat lebih dari 600 gambar dalam database ini, dimana semuanya diambil dalam Kabupaten Karas.
 
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-7420-F22B-5D25-0/burhan.jpg"><img alt="burhan" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-7420-F22B-5D25-0/web.jpg" style="width:150px;height:200px;" title="Burhan Retob"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-78E2-3597-88A1-0/darin.jpg"><img alt="darin" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-78E2-3597-88A1-0/web.jpg" style="width:150px;height:200px;" title="Dahrin Yorre"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-3300-19B7-59A3-0/kadir.jpg"><img alt="kadir" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-3300-19B7-59A3-0/web.jpg" style="width:150px;height:200px;" title="Abdulkadir Yarkuran"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0359-304F-3CC6-0/mira.jpg"><img alt="mira" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0359-304F-3CC6-0/web.jpg" style="width:150px;height:200px;" title="Mira Yorre"/></a>
-<a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-8753-BA98-C0A9-0/tami.jpg"><img alt="tami" border="0" src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-8753-BA98-C0A9-0/web.jpg" style="width:150px;height:200px;" title="Tami Dewi Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-7420-F22B-5D25-0/burhan.jpg"><img alt="burhan" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-7420-F22B-5D25-0/web.jpg" style="width:150px;height:200px;" title="Burhan Retob"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-78E2-3597-88A1-0/darin.jpg"><img alt="darin" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-78E2-3597-88A1-0/web.jpg" style="width:150px;height:200px;" title="Dahrin Yorre"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-3300-19B7-59A3-0/kadir.jpg"><img alt="kadir" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-3300-19B7-59A3-0/web.jpg" style="width:150px;height:200px;" title="Abdulkadir Yarkuran"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0359-304F-3CC6-0/mira.jpg"><img alt="mira" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0359-304F-3CC6-0/web.jpg" style="width:150px;height:200px;" title="Mira Yorre"/></a>
+<a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-8753-BA98-C0A9-0/tami.jpg"><img alt="tami" border="0" src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-8753-BA98-C0A9-0/web.jpg" style="width:150px;height:200px;" title="Tami Dewi Yarkuran"/></a>
 
 Sebagian kecil lemma diperoleh dengan bantuan empat daftar kata komparatif yang telah disesuaikan dengan wilayah, yang menunjukkan adanya banyak tumpang-tindih. Saya menggunakan daftar berikut:
 
@@ -694,9 +694,9 @@ Daftar singkatan kelas kata tertera dibawah ini. Informasi lebih lanjut mengenai
 <td>kata kerja</td>
 <td><em>muap</em> ‘makan’</td>
 <td></td></tr>
+</tbody></table>
 
-</tbody>
-</table>
+
 
 
 #### Referensi ke Korpus Kalamang
@@ -843,4 +843,4 @@ Stephen A. Wurm (ed.), New Guinea area languages and language study volume 1:
 Papuan languages and the New Guinea linguistic scene, vol. 38 (Pacific
 Linguistics: Series C 38), 345–460. Canberra: Research School of Pacific &amp; Asian
 Studies, Australian National University.
-</malay>
+
