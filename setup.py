@@ -14,7 +14,7 @@ setup(
     install_requires=[
         'cldfbench',
         'pyglottolog',
-        'pydictionaria>=2.0',
+        'pydictionaria>=2.1',
     ],
     extras_require={
         'test': [
